@@ -1622,7 +1622,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Death_with_shadow_0: -9117695855195551982
+      Slime1_Death_with_shadow_1: -3807957256794139131
+      Slime1_Death_with_shadow_10: -362009527578821787
+      Slime1_Death_with_shadow_11: 8250200604564195897
+      Slime1_Death_with_shadow_12: -7004446576587346602
+      Slime1_Death_with_shadow_13: -2014242324653851042
+      Slime1_Death_with_shadow_14: 5498203697600446373
+      Slime1_Death_with_shadow_15: -7264690835100550239
+      Slime1_Death_with_shadow_16: -8953024600142209040
+      Slime1_Death_with_shadow_17: -8330989247830310861
+      Slime1_Death_with_shadow_18: 8141408148554802527
+      Slime1_Death_with_shadow_19: -8391571542899044996
+      Slime1_Death_with_shadow_2: 2296444135523711052
+      Slime1_Death_with_shadow_20: 3393967444501463752
+      Slime1_Death_with_shadow_21: -9204993479770590193
+      Slime1_Death_with_shadow_22: 2488174339203170308
+      Slime1_Death_with_shadow_23: 2518047927234107309
+      Slime1_Death_with_shadow_24: -681524285373705758
+      Slime1_Death_with_shadow_25: 7723583201783515031
+      Slime1_Death_with_shadow_26: -8719555678625799093
+      Slime1_Death_with_shadow_27: -6602165414996037273
+      Slime1_Death_with_shadow_28: -7416621097792074357
+      Slime1_Death_with_shadow_29: 727059938480638148
+      Slime1_Death_with_shadow_3: -7271570114239959646
+      Slime1_Death_with_shadow_30: -2061366441198113520
+      Slime1_Death_with_shadow_31: 8800291663830505483
+      Slime1_Death_with_shadow_32: -8580010377447850413
+      Slime1_Death_with_shadow_33: 8436910921974318346
+      Slime1_Death_with_shadow_34: 2780953722665950309
+      Slime1_Death_with_shadow_35: -8000816270407679887
+      Slime1_Death_with_shadow_36: -2379842059246983707
+      Slime1_Death_with_shadow_37: 4142330022243037692
+      Slime1_Death_with_shadow_38: 1736938894788352399
+      Slime1_Death_with_shadow_39: -4875058858178037318
+      Slime1_Death_with_shadow_4: -5404689963191344238
+      Slime1_Death_with_shadow_40: -8370263474090260991
+      Slime1_Death_with_shadow_41: 1871343256022959200
+      Slime1_Death_with_shadow_42: -8189291146431990891
+      Slime1_Death_with_shadow_43: -1431775671898697697
+      Slime1_Death_with_shadow_44: 3418550707025179111
+      Slime1_Death_with_shadow_45: 7719472034878508269
+      Slime1_Death_with_shadow_46: 2609959446653846874
+      Slime1_Death_with_shadow_47: -8413226063097261506
+      Slime1_Death_with_shadow_48: -2151487884087139449
+      Slime1_Death_with_shadow_49: 5100781572856522605
+      Slime1_Death_with_shadow_5: 9192787744374269685
+      Slime1_Death_with_shadow_50: 2435139437817596765
+      Slime1_Death_with_shadow_51: 6583462171446542646
+      Slime1_Death_with_shadow_52: 5097850544856902983
+      Slime1_Death_with_shadow_53: -7152165990551621606
+      Slime1_Death_with_shadow_54: 4421745121500618338
+      Slime1_Death_with_shadow_55: 6158052381541019560
+      Slime1_Death_with_shadow_56: -5590753674212861235
+      Slime1_Death_with_shadow_57: 6993543844447054432
+      Slime1_Death_with_shadow_58: -5618917124591984347
+      Slime1_Death_with_shadow_59: -905061443389607252
+      Slime1_Death_with_shadow_6: -1302614744296841784
+      Slime1_Death_with_shadow_7: 1128394642787619251
+      Slime1_Death_with_shadow_8: -1395773334656550635
+      Slime1_Death_with_shadow_9: 7634203616983004130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

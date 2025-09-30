@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shadow_run_0: 2137096955065819392
+      Shadow_run_1: 6201126057682791378
+      Shadow_run_10: 7969219492707094054
+      Shadow_run_11: -3511042148420962984
+      Shadow_run_12: 2594935756426263132
+      Shadow_run_13: 8516377545543501563
+      Shadow_run_14: 7719339490568261735
+      Shadow_run_15: 2192751476300562320
+      Shadow_run_16: 1646341340715625100
+      Shadow_run_17: -8391844533176766149
+      Shadow_run_18: -452523524752185165
+      Shadow_run_19: 3229813400705185078
+      Shadow_run_2: 2376426206641509408
+      Shadow_run_20: 7367441250586588459
+      Shadow_run_21: 504315526778046054
+      Shadow_run_22: -8480581094301670871
+      Shadow_run_23: 4427345774880969860
+      Shadow_run_24: 7215168172368636078
+      Shadow_run_25: 209860970926057472
+      Shadow_run_26: 4855848038418343800
+      Shadow_run_27: 3844816587924252450
+      Shadow_run_28: -166511104535734458
+      Shadow_run_29: 9087647095481077984
+      Shadow_run_3: -7011762328735313089
+      Shadow_run_30: -5929845667164821991
+      Shadow_run_31: 2200379269541327967
+      Shadow_run_4: 7684362556097988905
+      Shadow_run_5: 358533756116594741
+      Shadow_run_6: 1575043568324402289
+      Shadow_run_7: 2781568439751669359
+      Shadow_run_8: 99259066765874418
+      Shadow_run_9: -5743797155404180289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

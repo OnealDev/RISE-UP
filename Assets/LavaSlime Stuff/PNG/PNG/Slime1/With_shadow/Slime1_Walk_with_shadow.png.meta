@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Walk_with_shadow_0: 9102429170506330920
+      Slime1_Walk_with_shadow_1: -7448145734799371308
+      Slime1_Walk_with_shadow_10: 4027588268577472872
+      Slime1_Walk_with_shadow_11: 4969291182800270100
+      Slime1_Walk_with_shadow_12: 3170196878663103733
+      Slime1_Walk_with_shadow_13: -4243377341410954238
+      Slime1_Walk_with_shadow_14: -3555290674233725941
+      Slime1_Walk_with_shadow_15: 6263261037290500550
+      Slime1_Walk_with_shadow_16: -8961745662989206607
+      Slime1_Walk_with_shadow_17: -7999953010962481784
+      Slime1_Walk_with_shadow_18: -1456091802329309676
+      Slime1_Walk_with_shadow_19: -409285122508248577
+      Slime1_Walk_with_shadow_2: -6710632810833191298
+      Slime1_Walk_with_shadow_20: 4461113216794836996
+      Slime1_Walk_with_shadow_21: 1525326545006952547
+      Slime1_Walk_with_shadow_22: -5702673069658524153
+      Slime1_Walk_with_shadow_23: -1388820826935488744
+      Slime1_Walk_with_shadow_24: 8261423896712242091
+      Slime1_Walk_with_shadow_25: 5540054415203782446
+      Slime1_Walk_with_shadow_26: 3171530044800578216
+      Slime1_Walk_with_shadow_27: 4081552731111166411
+      Slime1_Walk_with_shadow_28: 7401581648701114917
+      Slime1_Walk_with_shadow_29: 2750126135546731592
+      Slime1_Walk_with_shadow_3: 5861049474734417805
+      Slime1_Walk_with_shadow_30: 6897285387288196150
+      Slime1_Walk_with_shadow_31: 4510253465664651333
+      Slime1_Walk_with_shadow_32: -3204065576281095319
+      Slime1_Walk_with_shadow_33: 5461270398709802149
+      Slime1_Walk_with_shadow_34: 7845150600483871242
+      Slime1_Walk_with_shadow_35: -282395405534417453
+      Slime1_Walk_with_shadow_36: 2142649906866130301
+      Slime1_Walk_with_shadow_37: 1750724162552582976
+      Slime1_Walk_with_shadow_38: -7230807696103268366
+      Slime1_Walk_with_shadow_39: 8003271682067169018
+      Slime1_Walk_with_shadow_4: -1797958626090029899
+      Slime1_Walk_with_shadow_5: 3359091098566908995
+      Slime1_Walk_with_shadow_6: 2072876383994635765
+      Slime1_Walk_with_shadow_7: -245734092152942869
+      Slime1_Walk_with_shadow_8: 5571408271091792616
+      Slime1_Walk_with_shadow_9: 1517370184636410866
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

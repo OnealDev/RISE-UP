@@ -1022,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime3_Idle_body_0: 1905984581009440727
+      Slime3_Idle_body_1: 4657298524754339091
+      Slime3_Idle_body_10: 102993286823247422
+      Slime3_Idle_body_11: 8003501589639054950
+      Slime3_Idle_body_12: -8986129995733951687
+      Slime3_Idle_body_13: -1167237450545541691
+      Slime3_Idle_body_14: -3958689217995181705
+      Slime3_Idle_body_15: 3156516310687605601
+      Slime3_Idle_body_16: -4713287760374966757
+      Slime3_Idle_body_17: 4318883261260775607
+      Slime3_Idle_body_18: -2246038876590690770
+      Slime3_Idle_body_19: 2683506014430589389
+      Slime3_Idle_body_2: -903572300666110372
+      Slime3_Idle_body_20: -4883487252557910449
+      Slime3_Idle_body_21: -3445934658668304084
+      Slime3_Idle_body_22: -5360386448959592145
+      Slime3_Idle_body_23: -746269135275269341
+      Slime3_Idle_body_24: -49058063234893186
+      Slime3_Idle_body_25: 3226931934842624315
+      Slime3_Idle_body_26: 4962726560588501328
+      Slime3_Idle_body_27: 8704659864983208798
+      Slime3_Idle_body_28: 1833317870212171151
+      Slime3_Idle_body_29: 9043455013829755104
+      Slime3_Idle_body_3: 6861668083882803272
+      Slime3_Idle_body_30: -1374302507371316057
+      Slime3_Idle_body_31: 4895773116061248383
+      Slime3_Idle_body_32: 7285472871306788993
+      Slime3_Idle_body_33: -8364274862695434767
+      Slime3_Idle_body_34: 711726905181904199
+      Slime3_Idle_body_35: -2232531019251149855
+      Slime3_Idle_body_4: 3865880610739726715
+      Slime3_Idle_body_5: 4636292038446544795
+      Slime3_Idle_body_6: -5209548750869060333
+      Slime3_Idle_body_7: 2602860952872776973
+      Slime3_Idle_body_8: -4006266546149927207
+      Slime3_Idle_body_9: -2661680878578356768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Walk_shadow_0: 6662211590840232269
+      Slime1_Walk_shadow_1: -8159805960293310253
+      Slime1_Walk_shadow_10: 7251071407909034737
+      Slime1_Walk_shadow_11: -5989431228710300066
+      Slime1_Walk_shadow_12: -1164690110797622729
+      Slime1_Walk_shadow_13: -6178098163547951335
+      Slime1_Walk_shadow_14: 1057002099159054961
+      Slime1_Walk_shadow_15: 585244940432458775
+      Slime1_Walk_shadow_16: -8569944676861469215
+      Slime1_Walk_shadow_17: -1364942022172278663
+      Slime1_Walk_shadow_18: -6982055882146937955
+      Slime1_Walk_shadow_19: -605733966194629387
+      Slime1_Walk_shadow_2: -7330307948580844993
+      Slime1_Walk_shadow_20: -1669484054954588275
+      Slime1_Walk_shadow_21: 6263972644736588086
+      Slime1_Walk_shadow_22: -6957946457654223236
+      Slime1_Walk_shadow_23: -2096449854583388507
+      Slime1_Walk_shadow_24: -2926473622887615253
+      Slime1_Walk_shadow_25: 6281109089799395933
+      Slime1_Walk_shadow_26: 6840651289936584481
+      Slime1_Walk_shadow_27: 5788690941868644681
+      Slime1_Walk_shadow_28: 9021559005999409227
+      Slime1_Walk_shadow_29: -2484583437064612818
+      Slime1_Walk_shadow_3: -9148758704111283599
+      Slime1_Walk_shadow_30: 2456035638144395340
+      Slime1_Walk_shadow_31: 458657521637056889
+      Slime1_Walk_shadow_4: -8590160929001216921
+      Slime1_Walk_shadow_5: 2047687886283701193
+      Slime1_Walk_shadow_6: -59143980693135944
+      Slime1_Walk_shadow_7: 6922092618802744339
+      Slime1_Walk_shadow_8: -8798757033197014327
+      Slime1_Walk_shadow_9: -8170569737548915151
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

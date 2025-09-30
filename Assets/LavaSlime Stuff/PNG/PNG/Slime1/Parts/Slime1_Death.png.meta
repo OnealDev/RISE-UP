@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Death_0: -6168750558209194045
+      Slime1_Death_1: 6581554108259429280
+      Slime1_Death_10: 405939424126437014
+      Slime1_Death_11: -1757753820636923414
+      Slime1_Death_2: 6002898944067111336
+      Slime1_Death_3: 8055441773974624617
+      Slime1_Death_4: -7158729140642933985
+      Slime1_Death_5: 2510268649316917898
+      Slime1_Death_6: -1370058279303316508
+      Slime1_Death_7: -6895009341483546114
+      Slime1_Death_8: 7897800704308664574
+      Slime1_Death_9: -1408849414495028420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

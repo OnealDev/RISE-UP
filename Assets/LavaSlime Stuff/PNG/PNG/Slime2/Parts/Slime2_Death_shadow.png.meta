@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime2_Death_shadow_0: 6083927975262781975
+      Slime2_Death_shadow_1: 730022670285141243
+      Slime2_Death_shadow_10: -2305789147064817846
+      Slime2_Death_shadow_11: -8566411150626262977
+      Slime2_Death_shadow_12: 4189540657488026912
+      Slime2_Death_shadow_13: -3934027237640856323
+      Slime2_Death_shadow_14: 224029597691993117
+      Slime2_Death_shadow_15: 3326873499066026983
+      Slime2_Death_shadow_16: -7809351730702602217
+      Slime2_Death_shadow_17: -246361640525225863
+      Slime2_Death_shadow_18: -3228199057355774092
+      Slime2_Death_shadow_19: 3246081445109066805
+      Slime2_Death_shadow_2: 5880259429620300737
+      Slime2_Death_shadow_20: 6175890592708641258
+      Slime2_Death_shadow_21: 3561349937137033558
+      Slime2_Death_shadow_22: -7723811728026276179
+      Slime2_Death_shadow_23: -1664650992468541652
+      Slime2_Death_shadow_24: 3248357521935416636
+      Slime2_Death_shadow_25: 4350068944512444580
+      Slime2_Death_shadow_26: 5746415096833993409
+      Slime2_Death_shadow_27: -6298475745851396029
+      Slime2_Death_shadow_28: 5953441919665305224
+      Slime2_Death_shadow_29: -5596235356101578478
+      Slime2_Death_shadow_3: 7763686910664724339
+      Slime2_Death_shadow_30: 1890666465772423198
+      Slime2_Death_shadow_31: 6283026240399809641
+      Slime2_Death_shadow_32: 962078491886628137
+      Slime2_Death_shadow_33: -8965445885925119257
+      Slime2_Death_shadow_34: -217214356554257440
+      Slime2_Death_shadow_35: 2042920282222085685
+      Slime2_Death_shadow_36: 5923615497283703967
+      Slime2_Death_shadow_37: 5365253385561943442
+      Slime2_Death_shadow_38: 3399508131310281708
+      Slime2_Death_shadow_39: -2825255091752097454
+      Slime2_Death_shadow_4: 6094647877026194177
+      Slime2_Death_shadow_5: 3239886646280986087
+      Slime2_Death_shadow_6: 8423764345868122638
+      Slime2_Death_shadow_7: 8958446987866311618
+      Slime2_Death_shadow_8: 2882628662504659286
+      Slime2_Death_shadow_9: 4419175711103479115
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1622,7 +1622,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Death_body_0: -7831303084694885308
+      Slime1_Death_body_1: -7978217253888830034
+      Slime1_Death_body_10: -5234821833642322630
+      Slime1_Death_body_11: -8611231332074256242
+      Slime1_Death_body_12: -7194054971512511608
+      Slime1_Death_body_13: 5383329392550843154
+      Slime1_Death_body_14: 171872339389749345
+      Slime1_Death_body_15: 3439898102936561231
+      Slime1_Death_body_16: -1527101576639386322
+      Slime1_Death_body_17: 7961639974278211546
+      Slime1_Death_body_18: -3491611062411768412
+      Slime1_Death_body_19: 7653906565090969293
+      Slime1_Death_body_2: -3551432253272053288
+      Slime1_Death_body_20: 4823240280621900080
+      Slime1_Death_body_21: 7833911005774320606
+      Slime1_Death_body_22: -8556751966304538065
+      Slime1_Death_body_23: 9011844689003633156
+      Slime1_Death_body_24: 7581791966541439478
+      Slime1_Death_body_25: 3993770184968867419
+      Slime1_Death_body_26: -7602824904892761207
+      Slime1_Death_body_27: -4128171573020137805
+      Slime1_Death_body_28: -5880396083739616501
+      Slime1_Death_body_29: -3997955470361914238
+      Slime1_Death_body_3: -2279948878089114776
+      Slime1_Death_body_30: -5943846524194759635
+      Slime1_Death_body_31: -2922113601962539331
+      Slime1_Death_body_32: 887762132857597118
+      Slime1_Death_body_33: -8910457992789037150
+      Slime1_Death_body_34: -8464056070530855087
+      Slime1_Death_body_35: -7808370232349550350
+      Slime1_Death_body_36: -6304049662283508510
+      Slime1_Death_body_37: 2982536781043799306
+      Slime1_Death_body_38: -2244476112586725408
+      Slime1_Death_body_39: 6909989363017796010
+      Slime1_Death_body_4: 5583013285229202700
+      Slime1_Death_body_40: 2906732272953618109
+      Slime1_Death_body_41: 528928208775822762
+      Slime1_Death_body_42: 3681139893650010957
+      Slime1_Death_body_43: -1848454606049376800
+      Slime1_Death_body_44: -648683544520930831
+      Slime1_Death_body_45: 6352122330301306099
+      Slime1_Death_body_46: 7498822264634404646
+      Slime1_Death_body_47: -8674085308760730648
+      Slime1_Death_body_48: 7801559030030838278
+      Slime1_Death_body_49: 2679408240034296298
+      Slime1_Death_body_5: 5576867957098189455
+      Slime1_Death_body_50: 2988666594460110257
+      Slime1_Death_body_51: -5608847405075380165
+      Slime1_Death_body_52: 8635903392874857093
+      Slime1_Death_body_53: 6143899639088968429
+      Slime1_Death_body_54: -4161614697987863952
+      Slime1_Death_body_55: 6143172393256951432
+      Slime1_Death_body_56: 3614169608588667617
+      Slime1_Death_body_57: 3701447553721566188
+      Slime1_Death_body_58: 8923474379672038666
+      Slime1_Death_body_59: 5375879459558018156
+      Slime1_Death_body_6: 3714484775508063887
+      Slime1_Death_body_7: 1141871791740689801
+      Slime1_Death_body_8: 202236427839047321
+      Slime1_Death_body_9: 8061786477436384280
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1422,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime3_Walk_without_shadow_0: 2051390839979909607
+      Slime3_Walk_without_shadow_1: 1771908687649143865
+      Slime3_Walk_without_shadow_10: 5383203736120165232
+      Slime3_Walk_without_shadow_11: -2785942695855110068
+      Slime3_Walk_without_shadow_12: 1259992097025691779
+      Slime3_Walk_without_shadow_13: -6307134850798749720
+      Slime3_Walk_without_shadow_14: 8953657971654367421
+      Slime3_Walk_without_shadow_15: -3904819533013203884
+      Slime3_Walk_without_shadow_16: 7096072073692467816
+      Slime3_Walk_without_shadow_17: 4415797267642914707
+      Slime3_Walk_without_shadow_18: -1481207591643159060
+      Slime3_Walk_without_shadow_19: 3439765629106807801
+      Slime3_Walk_without_shadow_2: 1456732717432348426
+      Slime3_Walk_without_shadow_20: 5801844060154622081
+      Slime3_Walk_without_shadow_21: -3130349998241562096
+      Slime3_Walk_without_shadow_22: 3685217602800625034
+      Slime3_Walk_without_shadow_23: -975139363741669604
+      Slime3_Walk_without_shadow_24: 526709252205855987
+      Slime3_Walk_without_shadow_25: -3048031158269970241
+      Slime3_Walk_without_shadow_26: -116985296675172830
+      Slime3_Walk_without_shadow_27: 3735883065590068423
+      Slime3_Walk_without_shadow_28: 8709448510547161009
+      Slime3_Walk_without_shadow_29: -3925082286494355346
+      Slime3_Walk_without_shadow_3: -1368337682737433766
+      Slime3_Walk_without_shadow_30: 4105662236894549940
+      Slime3_Walk_without_shadow_31: -6129118565270617597
+      Slime3_Walk_without_shadow_32: 2401832093744588676
+      Slime3_Walk_without_shadow_33: -8744871182795621088
+      Slime3_Walk_without_shadow_34: 53381439761263491
+      Slime3_Walk_without_shadow_35: -7574812076774798203
+      Slime3_Walk_without_shadow_36: 1119490523275083047
+      Slime3_Walk_without_shadow_37: 7984063116290948186
+      Slime3_Walk_without_shadow_38: -5226780724252763099
+      Slime3_Walk_without_shadow_39: -4865283626997129593
+      Slime3_Walk_without_shadow_4: -3941563130397511619
+      Slime3_Walk_without_shadow_40: 4457194052284763315
+      Slime3_Walk_without_shadow_41: -886665788352567412
+      Slime3_Walk_without_shadow_42: -4143200614431596879
+      Slime3_Walk_without_shadow_43: -2174168564782830028
+      Slime3_Walk_without_shadow_44: 1909416104942355227
+      Slime3_Walk_without_shadow_45: 4758058055262974756
+      Slime3_Walk_without_shadow_46: -5466762067174923606
+      Slime3_Walk_without_shadow_47: -4889129699545667788
+      Slime3_Walk_without_shadow_48: -6025992906910566677
+      Slime3_Walk_without_shadow_49: 7091643950661604959
+      Slime3_Walk_without_shadow_5: -7998273339138064273
+      Slime3_Walk_without_shadow_50: -7538368042524047462
+      Slime3_Walk_without_shadow_51: -1438329392875396204
+      Slime3_Walk_without_shadow_6: 3150447697856290068
+      Slime3_Walk_without_shadow_7: 7709055696158083609
+      Slime3_Walk_without_shadow_8: 8393860703312897000
+      Slime3_Walk_without_shadow_9: 8400782237867465121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

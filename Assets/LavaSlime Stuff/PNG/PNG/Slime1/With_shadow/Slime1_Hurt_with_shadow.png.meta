@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Hurt_with_shadow_0: -3837788691260616603
+      Slime1_Hurt_with_shadow_1: 4630769797788926612
+      Slime1_Hurt_with_shadow_10: -7256082977246823166
+      Slime1_Hurt_with_shadow_11: -4678116522486421780
+      Slime1_Hurt_with_shadow_12: -2582400836885654017
+      Slime1_Hurt_with_shadow_13: 8681225998226008425
+      Slime1_Hurt_with_shadow_14: 560603574599528799
+      Slime1_Hurt_with_shadow_15: 6740230509716808724
+      Slime1_Hurt_with_shadow_16: -1232924579956378547
+      Slime1_Hurt_with_shadow_17: -5170050111614716159
+      Slime1_Hurt_with_shadow_18: 3288558989663460795
+      Slime1_Hurt_with_shadow_19: 4687282051412991029
+      Slime1_Hurt_with_shadow_2: -7366860644487369843
+      Slime1_Hurt_with_shadow_20: -1823339382142232571
+      Slime1_Hurt_with_shadow_21: 5862670773980921280
+      Slime1_Hurt_with_shadow_22: -3024172767191796508
+      Slime1_Hurt_with_shadow_23: 583000997316450514
+      Slime1_Hurt_with_shadow_24: 3397246843142924517
+      Slime1_Hurt_with_shadow_25: -7421559220460248881
+      Slime1_Hurt_with_shadow_26: -7394843535414152320
+      Slime1_Hurt_with_shadow_27: 7161717864097174789
+      Slime1_Hurt_with_shadow_3: -1027551530439566306
+      Slime1_Hurt_with_shadow_4: -8848701166202078756
+      Slime1_Hurt_with_shadow_5: 2570142217529727441
+      Slime1_Hurt_with_shadow_6: -7879898138330773369
+      Slime1_Hurt_with_shadow_7: -4994728142266538130
+      Slime1_Hurt_with_shadow_8: 6983717906282912305
+      Slime1_Hurt_with_shadow_9: -2513663015729113138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

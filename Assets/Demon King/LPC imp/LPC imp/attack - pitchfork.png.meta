@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      attack - pitchfork_0: 2617417172205184639
+      attack - pitchfork_1: 3225077123855353060
+      attack - pitchfork_10: 9202200362033884027
+      attack - pitchfork_11: 1987781421172487310
+      attack - pitchfork_12: -4982050218439700039
+      attack - pitchfork_13: -8420623363291827896
+      attack - pitchfork_2: 2775450379155188613
+      attack - pitchfork_3: 1526307021653123662
+      attack - pitchfork_4: -1203733153584870370
+      attack - pitchfork_5: -4003513471373548095
+      attack - pitchfork_6: -4726715832675303387
+      attack - pitchfork_7: 6848461794201122438
+      attack - pitchfork_8: -8380776697754807857
+      attack - pitchfork_9: 8113754092479133132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

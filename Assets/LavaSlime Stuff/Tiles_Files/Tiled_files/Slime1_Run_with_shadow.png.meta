@@ -1172,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Run_with_shadow_0: 3564989947726033808
+      Slime1_Run_with_shadow_1: -9017781022995928701
+      Slime1_Run_with_shadow_10: -5571842182376629166
+      Slime1_Run_with_shadow_11: 8957169924417079803
+      Slime1_Run_with_shadow_12: 7876273863363378140
+      Slime1_Run_with_shadow_13: 5855855676680037167
+      Slime1_Run_with_shadow_14: 1503869164724208638
+      Slime1_Run_with_shadow_15: -2918045252351159893
+      Slime1_Run_with_shadow_16: 2067422840484813751
+      Slime1_Run_with_shadow_17: 8422486900827763636
+      Slime1_Run_with_shadow_18: 1880832775076776991
+      Slime1_Run_with_shadow_19: -3121549716402791511
+      Slime1_Run_with_shadow_2: -7742640543573506601
+      Slime1_Run_with_shadow_20: 5192998979007366383
+      Slime1_Run_with_shadow_21: 842330194137217881
+      Slime1_Run_with_shadow_22: 160520589419758405
+      Slime1_Run_with_shadow_23: -7626325899693791113
+      Slime1_Run_with_shadow_24: 7240011250100642658
+      Slime1_Run_with_shadow_25: 5658812377356714704
+      Slime1_Run_with_shadow_26: 8602858361106884592
+      Slime1_Run_with_shadow_27: -5450527945057240236
+      Slime1_Run_with_shadow_28: -6255745433777359138
+      Slime1_Run_with_shadow_29: -3794939078652703941
+      Slime1_Run_with_shadow_3: -8930370775201318644
+      Slime1_Run_with_shadow_30: -1170316180706564657
+      Slime1_Run_with_shadow_31: 8809219080964004669
+      Slime1_Run_with_shadow_32: -3665242860555941857
+      Slime1_Run_with_shadow_33: 2251700678467623353
+      Slime1_Run_with_shadow_34: -7626160609968100130
+      Slime1_Run_with_shadow_35: -936740058252353830
+      Slime1_Run_with_shadow_36: 7851862575360381479
+      Slime1_Run_with_shadow_37: 8932236710965604989
+      Slime1_Run_with_shadow_38: -3286261059147251729
+      Slime1_Run_with_shadow_39: 7482935013784123515
+      Slime1_Run_with_shadow_4: -538977542808631317
+      Slime1_Run_with_shadow_40: -7301448670800665270
+      Slime1_Run_with_shadow_41: -2237314868841592223
+      Slime1_Run_with_shadow_5: -1329306729346059030
+      Slime1_Run_with_shadow_6: 3420396582443624822
+      Slime1_Run_with_shadow_7: 5443326249530594579
+      Slime1_Run_with_shadow_8: 9214543585272124219
+      Slime1_Run_with_shadow_9: 218241656227700465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

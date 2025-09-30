@@ -1047,7 +1047,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime3_Hurt_with_shadow_0: 7090801434530396583
+      Slime3_Hurt_with_shadow_1: 5577558300546910075
+      Slime3_Hurt_with_shadow_10: 327669087040105320
+      Slime3_Hurt_with_shadow_11: 3275743157694648227
+      Slime3_Hurt_with_shadow_12: 5579005614507801062
+      Slime3_Hurt_with_shadow_13: 1180587999386953788
+      Slime3_Hurt_with_shadow_14: -40244585911066835
+      Slime3_Hurt_with_shadow_15: 4060123929480039225
+      Slime3_Hurt_with_shadow_16: 2801445583307118136
+      Slime3_Hurt_with_shadow_17: 3241550650904908677
+      Slime3_Hurt_with_shadow_18: 8695891960435173829
+      Slime3_Hurt_with_shadow_19: -7834453507145519964
+      Slime3_Hurt_with_shadow_2: 683990492581537517
+      Slime3_Hurt_with_shadow_20: 9212062278753043360
+      Slime3_Hurt_with_shadow_21: -3822878430724866595
+      Slime3_Hurt_with_shadow_22: -2583068823107519693
+      Slime3_Hurt_with_shadow_23: 8378707252408775095
+      Slime3_Hurt_with_shadow_24: -834368526010658972
+      Slime3_Hurt_with_shadow_25: 5317695584568879697
+      Slime3_Hurt_with_shadow_26: -6189532635551889135
+      Slime3_Hurt_with_shadow_27: 8298271422791501988
+      Slime3_Hurt_with_shadow_28: 2498395084717614838
+      Slime3_Hurt_with_shadow_29: 9174721241960939303
+      Slime3_Hurt_with_shadow_3: 8668631832159411470
+      Slime3_Hurt_with_shadow_30: -4411797487233966029
+      Slime3_Hurt_with_shadow_31: -81290467210246610
+      Slime3_Hurt_with_shadow_32: 3965638120997021783
+      Slime3_Hurt_with_shadow_33: 1862507211137138376
+      Slime3_Hurt_with_shadow_34: 4361903627265920006
+      Slime3_Hurt_with_shadow_35: -2641634853129957358
+      Slime3_Hurt_with_shadow_36: -7562448985311467135
+      Slime3_Hurt_with_shadow_4: 8925564299203210712
+      Slime3_Hurt_with_shadow_5: -7145622413544783020
+      Slime3_Hurt_with_shadow_6: 8764770356622210578
+      Slime3_Hurt_with_shadow_7: -3463832116765408454
+      Slime3_Hurt_with_shadow_8: 4787498038284941288
+      Slime3_Hurt_with_shadow_9: -8621486828919767991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

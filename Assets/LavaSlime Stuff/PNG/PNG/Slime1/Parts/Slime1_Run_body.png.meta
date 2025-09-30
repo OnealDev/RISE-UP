@@ -1172,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime1_Run_body_0: -4024820085494310608
+      Slime1_Run_body_1: -1344226116146679935
+      Slime1_Run_body_10: 5499450668838772615
+      Slime1_Run_body_11: -6204931872593106237
+      Slime1_Run_body_12: -4864112189540669846
+      Slime1_Run_body_13: -6493572611422853388
+      Slime1_Run_body_14: -3041505204270907925
+      Slime1_Run_body_15: -6591108823459444826
+      Slime1_Run_body_16: -6335620414150421705
+      Slime1_Run_body_17: 4713835173202348782
+      Slime1_Run_body_18: -2469610128918214461
+      Slime1_Run_body_19: 3691294011087854485
+      Slime1_Run_body_2: -5539915575598459188
+      Slime1_Run_body_20: 3948420808830680485
+      Slime1_Run_body_21: -49581239704434058
+      Slime1_Run_body_22: -1441331296045350838
+      Slime1_Run_body_23: -8567639401453085071
+      Slime1_Run_body_24: -4315443619517534645
+      Slime1_Run_body_25: 3496325980556731416
+      Slime1_Run_body_26: 1307489690081684636
+      Slime1_Run_body_27: 5619084733491304349
+      Slime1_Run_body_28: -2930932144627757090
+      Slime1_Run_body_29: 1139766344522765496
+      Slime1_Run_body_3: 6339853818240414480
+      Slime1_Run_body_30: 7799533151988653359
+      Slime1_Run_body_31: -4620365321572970939
+      Slime1_Run_body_32: 7640001671493490151
+      Slime1_Run_body_33: 5203104023081293227
+      Slime1_Run_body_34: 7075689718207431275
+      Slime1_Run_body_35: 2052268567392677295
+      Slime1_Run_body_36: 4286074351899183907
+      Slime1_Run_body_37: 8413574408049800096
+      Slime1_Run_body_38: -5067456644297856543
+      Slime1_Run_body_39: -2422811786680607685
+      Slime1_Run_body_4: -3743066581510301524
+      Slime1_Run_body_40: -3023053132643199051
+      Slime1_Run_body_41: -8078568183451418403
+      Slime1_Run_body_5: -8470808170303329200
+      Slime1_Run_body_6: -9112153276138999664
+      Slime1_Run_body_7: 1017236150078251630
+      Slime1_Run_body_8: -3103761879170710329
+      Slime1_Run_body_9: 729606800461747045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
