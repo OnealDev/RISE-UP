@@ -10,7 +10,16 @@ public class AryasPlayerMovement : MonoBehaviour
     public Rigidbody2D rb; //Must communicate with rigid body
     public Animator anim;
 
+    public Player_Combat player_Combat;
 
+
+    private void Update()
+    {
+        if (Input.GetButtonDown("Slash"))
+        {
+            player_Combat.Attack();
+        }
+    }
     //Dashing 
     private bool canDash = true;
     private bool isDashing;
