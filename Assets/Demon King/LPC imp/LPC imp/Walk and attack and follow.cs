@@ -1,10 +1,18 @@
 using UnityEngine;
 
-public class EnemyFollow : MonoBehaviour
+public class EnemyAttack : MonoBehaviour
 {
-     public Transform target;       // The player (LavaSlime)
-     public float moveSpeed = 2f;   // Speed of Demon King
-     public float stoppingDistance = 1f; // How close before stopping
+     [Header("Target Settings")]
+     public Transform target; // Priest to attack
+
+     [Header("Movement Settings")]
+     public float moveSpeed = 2f;
+     public float stoppingDistance = 1.5f;
+
+     [Header("Attack Settings")]
+     public float attackRange = 1.5f;
+     public float attackCooldown = 2f;
+     private float lastAttackTime;
 
      private Rigidbody2D rb;
      private Animator animator;
@@ -15,29 +23,68 @@ public class EnemyFollow : MonoBehaviour
           animator = GetComponent<Animator>();
      }
 
-     void Update()
+     void FixedUpdate()
      {
           if (target == null) return;
 
-          // Distance between enemy and target
           float distance = Vector2.Distance(transform.position, target.position);
+          Vector2 direction = (target.position - transform.position).normalized;
 
-          if (distance > stoppingDistance)
+          if (distance > attackRange)
           {
-               // Move towards target
-               Vector2 direction = (target.position - transform.position).normalized;
-               rb.MovePosition(rb.position + direction * moveSpeed * Time.deltaTime);
+               // --- Move towards priest ---
+               rb.MovePosition(rb.position + direction * moveSpeed * Time.fixedDeltaTime);
 
-               // Update Animator (optional: set to walk animation)
-               animator.SetBool("isWalking", true);
-               animator.SetFloat("MoveX", direction.x);
-               animator.SetFloat("MoveY", direction.y);
+               if (animator != null)
+               {
+                    animator.SetFloat("MoveX", direction.x);
+                    animator.SetFloat("MoveY", direction.y);
+
+                    // only use Speed if parameter exists in Animator
+                    if (HasParameter(animator, "Speed"))
+                    {
+                         animator.SetFloat("Speed", direction.sqrMagnitude);
+                    }
+               }
           }
           else
           {
-               // Stop moving
-               animator.SetBool("isWalking", false);
+               // --- Attack priest if cooldown allows ---
+               if (Time.time >= lastAttackTime + attackCooldown)
+               {
+                    lastAttackTime = Time.time;
+
+                    if (animator != null)
+                    {
+                         // Keep facing priest
+                         animator.SetFloat("MoveX", direction.x);
+                         animator.SetFloat("MoveY", direction.y);
+
+                         animator.SetTrigger("Attack");
+                    }
+
+                    // TODO: Call priest’s health script here
+                    // target.GetComponent<PlayerHealth>()?.TakeDamage(10);
+               }
+
+               // Stop movement cleanly
+               rb.linearVelocity = Vector2.zero;
+
+               if (animator != null && HasParameter(animator, "Speed"))
+               {
+                    animator.SetFloat("Speed", 0);
+               }
           }
      }
-}
 
+     // Utility to check if Animator has a parameter
+     private bool HasParameter(Animator animator, string paramName)
+     {
+          foreach (AnimatorControllerParameter param in animator.parameters)
+          {
+               if (param.name == paramName)
+                    return true;
+          }
+          return false;
+     }
+}
