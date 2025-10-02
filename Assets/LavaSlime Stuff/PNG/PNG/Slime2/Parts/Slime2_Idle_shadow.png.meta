@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime2_Idle_shadow_0: 2298515165386405822
+      Slime2_Idle_shadow_1: -8437548793316953959
+      Slime2_Idle_shadow_10: 2493438541097260857
+      Slime2_Idle_shadow_11: -1323704508067444790
+      Slime2_Idle_shadow_12: 1973363864983565642
+      Slime2_Idle_shadow_13: 5451249027932472409
+      Slime2_Idle_shadow_14: -1870025380627980404
+      Slime2_Idle_shadow_15: 5914940233874225880
+      Slime2_Idle_shadow_16: 1889736436750513181
+      Slime2_Idle_shadow_17: -6240100224562307864
+      Slime2_Idle_shadow_18: -4624317388482479849
+      Slime2_Idle_shadow_19: -8255850471989455275
+      Slime2_Idle_shadow_2: 1102100142349139711
+      Slime2_Idle_shadow_20: -1264807448814131604
+      Slime2_Idle_shadow_21: 6719632285020721603
+      Slime2_Idle_shadow_22: -4357386225480635172
+      Slime2_Idle_shadow_23: -1042798282820846014
+      Slime2_Idle_shadow_3: 1262813155086445902
+      Slime2_Idle_shadow_4: 302530282553225034
+      Slime2_Idle_shadow_5: -7064016753535544966
+      Slime2_Idle_shadow_6: 6820994162399171558
+      Slime2_Idle_shadow_7: -8907046790296683940
+      Slime2_Idle_shadow_8: -3927939905964008687
+      Slime2_Idle_shadow_9: -7366470232775087102
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

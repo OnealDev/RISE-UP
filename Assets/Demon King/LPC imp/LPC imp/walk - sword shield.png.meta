@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walk - sword shield_0: 5088514136054073585
+      walk - sword shield_1: 1732921695500406359
+      walk - sword shield_10: -452934821796703362
+      walk - sword shield_11: 8175015081504018716
+      walk - sword shield_12: -6394686077351592460
+      walk - sword shield_13: 8514997772208837460
+      walk - sword shield_14: -8664819896135066092
+      walk - sword shield_15: -7249922284316815651
+      walk - sword shield_2: 4345945877221639257
+      walk - sword shield_3: -2496681774526292212
+      walk - sword shield_4: 8940656402891973620
+      walk - sword shield_5: 4945446276015781121
+      walk - sword shield_6: 6559651297549871810
+      walk - sword shield_7: -4619728106731399105
+      walk - sword shield_8: 7198795260898494528
+      walk - sword shield_9: 5668381712023334129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

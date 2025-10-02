@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shadow_death_0: -8601403181300832775
+      Shadow_death_1: -7662005292743085148
+      Shadow_death_10: -4647103754099891997
+      Shadow_death_11: 3187610623197443904
+      Shadow_death_12: 2677347515131879436
+      Shadow_death_13: 4346399809300551364
+      Shadow_death_14: 6535616920068043846
+      Shadow_death_15: -1627197250193700903
+      Shadow_death_16: -9059748242905868651
+      Shadow_death_17: -872430209074350807
+      Shadow_death_18: -1763322874382195316
+      Shadow_death_19: -6115192508634615801
+      Shadow_death_2: 8407696542846728790
+      Shadow_death_20: 8156291744554533837
+      Shadow_death_21: 7646519439159467444
+      Shadow_death_22: 7348019766172983338
+      Shadow_death_23: -4488902594112045452
+      Shadow_death_24: -1259189355191992631
+      Shadow_death_25: -8994834827095087857
+      Shadow_death_26: -4978845738098794173
+      Shadow_death_27: 2378595430970892907
+      Shadow_death_28: 2353962560807689807
+      Shadow_death_29: -4766082053008822059
+      Shadow_death_3: 4315676316680260711
+      Shadow_death_30: -4766093737688827113
+      Shadow_death_31: -1440711325686476966
+      Shadow_death_32: 6185683388884050199
+      Shadow_death_33: 6123991746076636641
+      Shadow_death_34: 228734057903332107
+      Shadow_death_35: -1337034014240041017
+      Shadow_death_36: -8343536293921471368
+      Shadow_death_37: 4312688556061230688
+      Shadow_death_38: 9174436555565543715
+      Shadow_death_39: 4826412661641418170
+      Shadow_death_4: -8017632754183488695
+      Shadow_death_5: -431212138171348214
+      Shadow_death_6: -690997236924329325
+      Shadow_death_7: -8890309708838630139
+      Shadow_death_8: -5215784855933034163
+      Shadow_death_9: 4553790838192673859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

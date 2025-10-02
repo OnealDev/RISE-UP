@@ -1222,7 +1222,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime2_Attack_shadow_0: 6158805742514833942
+      Slime2_Attack_shadow_1: -1329551348871876467
+      Slime2_Attack_shadow_10: -4338323946104781666
+      Slime2_Attack_shadow_11: 881533708095141808
+      Slime2_Attack_shadow_12: -7175395654265692002
+      Slime2_Attack_shadow_13: 7766110785550629155
+      Slime2_Attack_shadow_14: -4661222020328727800
+      Slime2_Attack_shadow_15: -1234317008318429016
+      Slime2_Attack_shadow_16: -7440133332971866442
+      Slime2_Attack_shadow_17: -5084054539375706539
+      Slime2_Attack_shadow_18: 6487062000868676502
+      Slime2_Attack_shadow_19: 8677091749589069889
+      Slime2_Attack_shadow_2: 2170293970162531862
+      Slime2_Attack_shadow_20: -77945782839596680
+      Slime2_Attack_shadow_21: -8933856892444194915
+      Slime2_Attack_shadow_22: 2329586844448147062
+      Slime2_Attack_shadow_23: 4760283697816193334
+      Slime2_Attack_shadow_24: 8853674623574339854
+      Slime2_Attack_shadow_25: -3326564825629285204
+      Slime2_Attack_shadow_26: -5171321507092834038
+      Slime2_Attack_shadow_27: -1832017230710504432
+      Slime2_Attack_shadow_28: 653316676973281408
+      Slime2_Attack_shadow_29: -8870063726044138360
+      Slime2_Attack_shadow_3: 4078481878198965588
+      Slime2_Attack_shadow_30: -7897712945860050169
+      Slime2_Attack_shadow_31: 6710718280437008070
+      Slime2_Attack_shadow_32: 607344333691661668
+      Slime2_Attack_shadow_33: 1908114679644020633
+      Slime2_Attack_shadow_34: -1789002543056561404
+      Slime2_Attack_shadow_35: -3099417538424943733
+      Slime2_Attack_shadow_36: -2576321332930972631
+      Slime2_Attack_shadow_37: 3462673424617622721
+      Slime2_Attack_shadow_38: 4278498639530464160
+      Slime2_Attack_shadow_39: 4882911271292992716
+      Slime2_Attack_shadow_4: 9095451029725336552
+      Slime2_Attack_shadow_40: 7431165855742814560
+      Slime2_Attack_shadow_41: 2675223581373589543
+      Slime2_Attack_shadow_42: 2356223211205254475
+      Slime2_Attack_shadow_43: 9112209357131952505
+      Slime2_Attack_shadow_5: -2074782522524790623
+      Slime2_Attack_shadow_6: 6733607256050873113
+      Slime2_Attack_shadow_7: -7030614084035425142
+      Slime2_Attack_shadow_8: 1333770247856805747
+      Slime2_Attack_shadow_9: 7455444729460661486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

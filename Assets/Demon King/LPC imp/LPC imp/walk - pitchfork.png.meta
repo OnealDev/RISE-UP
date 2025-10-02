@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walk - pitchfork_0: -6613892503429534759
+      walk - pitchfork_1: -5880574299443610655
+      walk - pitchfork_10: 3727795612999680544
+      walk - pitchfork_11: -6350248372868916296
+      walk - pitchfork_12: -8223475447671055039
+      walk - pitchfork_13: -7441854212720849830
+      walk - pitchfork_14: -844299024044384791
+      walk - pitchfork_15: 4533914914028289871
+      walk - pitchfork_2: 5261674258718942604
+      walk - pitchfork_3: 818133846906287276
+      walk - pitchfork_4: -3422722158273081470
+      walk - pitchfork_5: -302190798807356046
+      walk - pitchfork_6: -2467150677591754620
+      walk - pitchfork_7: 8206162838164797392
+      walk - pitchfork_8: 8751767279042981454
+      walk - pitchfork_9: 4893438396021122039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -847,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime3_Hurt_0: -962650400760945186
+      Slime3_Hurt_1: -3448762492007272855
+      Slime3_Hurt_10: 1222738124173023682
+      Slime3_Hurt_11: 3384688425853155042
+      Slime3_Hurt_12: 2806728520162494343
+      Slime3_Hurt_13: 115662082792148074
+      Slime3_Hurt_14: 8354573427133753780
+      Slime3_Hurt_15: 544799988681248993
+      Slime3_Hurt_16: -8403175353808553108
+      Slime3_Hurt_17: -2381689515140544236
+      Slime3_Hurt_18: 6894231654731663292
+      Slime3_Hurt_19: -3547030366011569279
+      Slime3_Hurt_2: -3319958522954085176
+      Slime3_Hurt_20: 6991048371745127881
+      Slime3_Hurt_21: -7700903782401018512
+      Slime3_Hurt_22: -1402258957030727449
+      Slime3_Hurt_23: -2068783935883591140
+      Slime3_Hurt_24: -3621545513437305900
+      Slime3_Hurt_25: 3208401044249359012
+      Slime3_Hurt_26: 5408317137627435126
+      Slime3_Hurt_27: -4361680806864118377
+      Slime3_Hurt_28: 2345697445966180571
+      Slime3_Hurt_3: 7800187061483789126
+      Slime3_Hurt_4: -2794682950936994154
+      Slime3_Hurt_5: -1052971774118883178
+      Slime3_Hurt_6: -6108316744348631490
+      Slime3_Hurt_7: 6052777380502493818
+      Slime3_Hurt_8: 6512009361780864195
+      Slime3_Hurt_9: -5822337799273875946
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime2_Hurt_body_0: 8386489783811750889
+      Slime2_Hurt_body_1: -1580900043065194034
+      Slime2_Hurt_body_10: 8628052069467268889
+      Slime2_Hurt_body_11: -2941550566338756224
+      Slime2_Hurt_body_12: -4013020556737137294
+      Slime2_Hurt_body_13: 2298483880739846821
+      Slime2_Hurt_body_14: 291540935821016900
+      Slime2_Hurt_body_15: -5058823605314136224
+      Slime2_Hurt_body_16: 8329768321070211449
+      Slime2_Hurt_body_17: -6991623740010213627
+      Slime2_Hurt_body_18: -8521359399955593371
+      Slime2_Hurt_body_19: 2449192203782174205
+      Slime2_Hurt_body_2: -378255092699967038
+      Slime2_Hurt_body_20: -8204850383919709869
+      Slime2_Hurt_body_21: 3714605051015340307
+      Slime2_Hurt_body_22: 8529826703090751274
+      Slime2_Hurt_body_23: 6182356773252602949
+      Slime2_Hurt_body_24: -1027799977619077237
+      Slime2_Hurt_body_25: -5798402142098126461
+      Slime2_Hurt_body_26: -969798610225647412
+      Slime2_Hurt_body_27: 2270616368542296285
+      Slime2_Hurt_body_28: 2309340553489720793
+      Slime2_Hurt_body_29: -8365529437337915712
+      Slime2_Hurt_body_3: -5771059850380722268
+      Slime2_Hurt_body_30: -6257177167384702706
+      Slime2_Hurt_body_31: -7565252030204084225
+      Slime2_Hurt_body_32: -4022801074669128277
+      Slime2_Hurt_body_33: 5429324946302333215
+      Slime2_Hurt_body_34: 1135725121576094270
+      Slime2_Hurt_body_35: 4866264419652471906
+      Slime2_Hurt_body_36: 8278748735665758677
+      Slime2_Hurt_body_37: 60893638920905808
+      Slime2_Hurt_body_38: -8033615783326282967
+      Slime2_Hurt_body_39: 2929707049115029231
+      Slime2_Hurt_body_4: -173699728667479004
+      Slime2_Hurt_body_5: 8697997414861299898
+      Slime2_Hurt_body_6: -6472774165310706799
+      Slime2_Hurt_body_7: -5572406063128214277
+      Slime2_Hurt_body_8: 645187494822597070
+      Slime2_Hurt_body_9: -4251846448176045705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

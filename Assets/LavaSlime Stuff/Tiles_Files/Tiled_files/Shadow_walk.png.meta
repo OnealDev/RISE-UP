@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shadow_walk_0: -5669923746848649511
+      Shadow_walk_1: -4496277670167485658
+      Shadow_walk_10: -7154248870464024491
+      Shadow_walk_11: -7527971820636708032
+      Shadow_walk_12: 3704154171415848790
+      Shadow_walk_13: 2015534631688876601
+      Shadow_walk_14: 608133170168303253
+      Shadow_walk_15: 4670624675174265764
+      Shadow_walk_16: -2340814693511999096
+      Shadow_walk_17: 8423981381741440049
+      Shadow_walk_18: -7894938454489549699
+      Shadow_walk_19: 6720068101921966700
+      Shadow_walk_2: 807011089696039985
+      Shadow_walk_20: 4471904991497526002
+      Shadow_walk_21: 8922415152585716109
+      Shadow_walk_22: -1022312977967987131
+      Shadow_walk_23: -6242718196181625915
+      Shadow_walk_24: 2150253622308406034
+      Shadow_walk_25: 3067982272287296927
+      Shadow_walk_26: -5601151801467221906
+      Shadow_walk_27: -2872524013916408001
+      Shadow_walk_28: -7681424661969934296
+      Shadow_walk_29: 6182570665554737223
+      Shadow_walk_3: -1177849868570173525
+      Shadow_walk_30: -5173902052935317105
+      Shadow_walk_31: 2817305134142973514
+      Shadow_walk_4: -6234855271963727630
+      Shadow_walk_5: 7935877961591664691
+      Shadow_walk_6: 1508491468179841195
+      Shadow_walk_7: 3288472383350991353
+      Shadow_walk_8: -3646005217221672043
+      Shadow_walk_9: -3859892680423078313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

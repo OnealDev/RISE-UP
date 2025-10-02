@@ -1422,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime3_Walk_body_0: 5234861675577111064
+      Slime3_Walk_body_1: 2972968743372911274
+      Slime3_Walk_body_10: -4239107003237815202
+      Slime3_Walk_body_11: -2506947036056791342
+      Slime3_Walk_body_12: -5378110721557910368
+      Slime3_Walk_body_13: -3184798961577078256
+      Slime3_Walk_body_14: 3593368129673725777
+      Slime3_Walk_body_15: 2658392912428024171
+      Slime3_Walk_body_16: -6055810919709256439
+      Slime3_Walk_body_17: -1638805360822926739
+      Slime3_Walk_body_18: -7080357192452964557
+      Slime3_Walk_body_19: -7282811507892411788
+      Slime3_Walk_body_2: -4382219965235053408
+      Slime3_Walk_body_20: -7468998177189856613
+      Slime3_Walk_body_21: 8436968335969530132
+      Slime3_Walk_body_22: -8413885554663067131
+      Slime3_Walk_body_23: -4847345581861369303
+      Slime3_Walk_body_24: 2719668068249917454
+      Slime3_Walk_body_25: 6285085744429629598
+      Slime3_Walk_body_26: 5210789421274081950
+      Slime3_Walk_body_27: -1036188010596124440
+      Slime3_Walk_body_28: -4023607462113868181
+      Slime3_Walk_body_29: 6272407233081913779
+      Slime3_Walk_body_3: -7238056241178083930
+      Slime3_Walk_body_30: 8925394213907835111
+      Slime3_Walk_body_31: -1345108445623618354
+      Slime3_Walk_body_32: 5688775354951671312
+      Slime3_Walk_body_33: -3170009969384251938
+      Slime3_Walk_body_34: -7868746899178250306
+      Slime3_Walk_body_35: 1728516157562939946
+      Slime3_Walk_body_36: 1452390680059518931
+      Slime3_Walk_body_37: -5844435281212595131
+      Slime3_Walk_body_38: -2055984442808761156
+      Slime3_Walk_body_39: 8332853047452834715
+      Slime3_Walk_body_4: 8669672489397439868
+      Slime3_Walk_body_40: -7663634040765119827
+      Slime3_Walk_body_41: -6026887184137897154
+      Slime3_Walk_body_42: -8276928602580499726
+      Slime3_Walk_body_43: -8951291126468199674
+      Slime3_Walk_body_44: -7765013391171292294
+      Slime3_Walk_body_45: 5366947512408153187
+      Slime3_Walk_body_46: -8397812207588161474
+      Slime3_Walk_body_47: 7723807405270694217
+      Slime3_Walk_body_48: 3660649638439027972
+      Slime3_Walk_body_49: -8189622949733492162
+      Slime3_Walk_body_5: 1708574179320095619
+      Slime3_Walk_body_50: -4449688755416498755
+      Slime3_Walk_body_51: 8580557454754808449
+      Slime3_Walk_body_6: -1832031503122628042
+      Slime3_Walk_body_7: -5492650821551908680
+      Slime3_Walk_body_8: 9088674396774480126
+      Slime3_Walk_body_9: 265248852935889843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
