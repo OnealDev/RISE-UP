@@ -70,6 +70,7 @@ public class EnemyAttack : MonoBehaviour
                // Stop movement cleanly
                rb.linearVelocity = Vector2.zero;
 
+
                if (animator != null && HasParameter(animator, "Speed"))
                {
                     animator.SetFloat("Speed", 0);

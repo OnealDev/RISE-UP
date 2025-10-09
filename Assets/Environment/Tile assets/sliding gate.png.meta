@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: b888b9f31f8b7814ea4355d42c5de23d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5216079860322961879
+    second: sliding gate_0
+  - first:
+      213: 6513071770529440458
+    second: sliding gate_1
+  - first:
+      213: -1470842770677978768
+    second: sliding gate_2
+  - first:
+      213: 6259736601004011799
+    second: sliding gate_3
+  - first:
+      213: 8621334883584610876
+    second: sliding gate_4
+  - first:
+      213: -6719732816319802270
+    second: sliding gate_5
+  - first:
+      213: -5300323430930044669
+    second: sliding gate_6
+  - first:
+      213: -8321500919342986723
+    second: sliding gate_7
+  - first:
+      213: -7250271898011723639
+    second: sliding gate_8
+  - first:
+      213: 8706701957995842131
+    second: sliding gate_9
+  - first:
+      213: 2253875918876602462
+    second: sliding gate_10
+  - first:
+      213: -2199028008070232939
+    second: sliding gate_11
+  - first:
+      213: 7784077043057967614
+    second: sliding gate_12
+  - first:
+      213: 858811702440808549
+    second: sliding gate_13
+  - first:
+      213: 6481653179140779402
+    second: sliding gate_14
+  - first:
+      213: -7777604491938946391
+    second: sliding gate_15
+  - first:
+      213: 2305376075228142487
+    second: sliding gate_16
+  - first:
+      213: 4200592997951460547
+    second: sliding gate_17
+  - first:
+      213: 9115438412844427676
+    second: sliding gate_18
+  - first:
+      213: -3752706617350506882
+    second: sliding gate_19
+  - first:
+      213: -1314861278039141525
+    second: sliding gate_20
+  - first:
+      213: -5553060172745481734
+    second: sliding gate_21
+  - first:
+      213: 1430070125262899105
+    second: sliding gate_22
+  - first:
+      213: 6089932102638209862
+    second: sliding gate_23
+  - first:
+      213: -8096293233221482770
+    second: sliding gate_24
+  - first:
+      213: -3474794767475594352
+    second: sliding gate_25
+  - first:
+      213: 985093272304968519
+    second: sliding gate_26
+  - first:
+      213: 9165044246857531940
+    second: sliding gate_27
+  - first:
+      213: 7794227417077465625
+    second: sliding gate_28
+  - first:
+      213: 5541742941896850400
+    second: sliding gate_29
+  - first:
+      213: 7661922104248566752
+    second: sliding gate_30
+  - first:
+      213: -1316738758957562809
+    second: sliding gate_31
+  - first:
+      213: -6807608841175242706
+    second: sliding gate_32
+  - first:
+      213: -8843141620787248598
+    second: sliding gate_33
+  - first:
+      213: -630375551971739739
+    second: sliding gate_34
+  - first:
+      213: -1958872518124889577
+    second: sliding gate_35
+  - first:
+      213: 1531284666375275004
+    second: sliding gate_36
+  - first:
+      213: 5261454463003110921
+    second: sliding gate_37
+  - first:
+      213: -2682798293372924900
+    second: sliding gate_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sliding gate_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2301
+        width: 916
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9267165c003cc97b0800000000000000
+      internalID: -5216079860322961879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_1
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2294
+        width: 933
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2280f7444136a50800000000000000
+      internalID: 6513071770529440458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_2
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 546
+        width: 23
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079a94dfa44869be0800000000000000
+      internalID: -1470842770677978768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_3
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2285
+        width: 1007
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711fa5ae54d0fd650800000000000000
+      internalID: 6259736601004011799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_4
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 749
+        width: 132
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6247207, y: 0.42873314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c329eb9166225a770800000000000000
+      internalID: 8621334883584610876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_5
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 516
+        width: 180
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26419b13b96beb2a0800000000000000
+      internalID: -6719732816319802270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_6
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2142
+        width: 60
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3092cb00ce77176b0800000000000000
+      internalID: -5300323430930044669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_7
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2069
+        width: 130
+        height: 1
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8978c007148c80800000000000000
+      internalID: -8321500919342986723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_8
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 2008
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98893025f1cd16b90800000000000000
+      internalID: -7250271898011723639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_9
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 2097
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a4a8bfc4b64d870800000000000000
+      internalID: 8706701957995842131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_10
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 2142
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e507278e430674f10800000000000000
+      internalID: 2253875918876602462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_11
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 2036
+        width: 65
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c6d77dab7b71e0800000000000000
+      internalID: -2199028008070232939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_12
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 2050
+        width: 37
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef14ebf24d8960c60800000000000000
+      internalID: 7784077043057967614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 967
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560dee471bc1beb00800000000000000
+      internalID: 858811702440808549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_14
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 527
+        width: 75
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8da7f3a93573f950800000000000000
+      internalID: 6481653179140779402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_15
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1272
+        width: 1001
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a22f7e0ce5601490800000000000000
+      internalID: -7777604491938946391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_16
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1034
+        width: 454
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b58a573575eff10800000000000000
+      internalID: 2305376075228142487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_17
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1263
+        width: 983
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4d3e073118b4a30800000000000000
+      internalID: 4200592997951460547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_18
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1153
+        width: 60
+        height: 26
+      alignment: 9
+      pivot: {x: 0.20701091, y: 0.5676082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99ea89d0fa808e70800000000000000
+      internalID: 9115438412844427676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_19
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1187
+        width: 119
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b096d635bbebc0800000000000000
+      internalID: -3752706617350506882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_20
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 527
+        width: 254
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639f8152aca0cde0800000000000000
+      internalID: -1314861278039141525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_21
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1127
+        width: 106
+        height: 3
+      alignment: 9
+      pivot: {x: 0.38391113, y: 0.6098709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1e22bb1319fe2b0800000000000000
+      internalID: -5553060172745481734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1089
+        width: 163
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7813cb331a8d310800000000000000
+      internalID: 1430070125262899105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1047
+        width: 214
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b8ff34bf8c38450800000000000000
+      internalID: 6089932102638209862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_24
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1086
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee64f6c433034af80800000000000000
+      internalID: -8096293233221482770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_25
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1105
+        width: 70
+        height: 27
+      alignment: 9
+      pivot: {x: 0.625565, y: 0.7604302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b2b39b19c07cfc0800000000000000
+      internalID: -3474794767475594352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_26
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1065
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7436d56ac11cbad00800000000000000
+      internalID: 985093272304968519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_27
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1165
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4224eac1f27c03f70800000000000000
+      internalID: 9165044246857531940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_28
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1097
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912438d4a88aa2c60800000000000000
+      internalID: 7794227417077465625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_29
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1086
+        width: 28
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb3a4028d938ec40800000000000000
+      internalID: 5541742941896850400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_30
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1065
+        width: 7
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e303782f8d945a60800000000000000
+      internalID: 7661922104248566752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_31
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1130
+        width: 94
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5344717, y: 0.7704515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744885a33110abde0800000000000000
+      internalID: -1316738758957562809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_32
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1136
+        width: 1
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28e0f3c3d38681a0800000000000000
+      internalID: -6807608841175242706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_33
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 1158
+        width: 18
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2201828c89d64580800000000000000
+      internalID: -8843141620787248598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_34
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 1185
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a732ad76c47047f0800000000000000
+      internalID: -630375551971739739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 982
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a14e4c2dfa0d4e0800000000000000
+      internalID: -1958872518124889577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_36
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 223
+        width: 314
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf10d4d7a47304510800000000000000
+      internalID: 1531284666375275004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_37
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 133
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ea13d25f0740940800000000000000
+      internalID: 5261454463003110921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliding gate_38
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 84
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c8b7f8a29c4cad0800000000000000
+      internalID: -2682798293372924900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3df0e9a2a98b4fb41bec3b854a2b1a1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sliding gate_0: -5216079860322961879
+      sliding gate_1: 6513071770529440458
+      sliding gate_10: 2253875918876602462
+      sliding gate_11: -2199028008070232939
+      sliding gate_12: 7784077043057967614
+      sliding gate_13: 858811702440808549
+      sliding gate_14: 6481653179140779402
+      sliding gate_15: -7777604491938946391
+      sliding gate_16: 2305376075228142487
+      sliding gate_17: 4200592997951460547
+      sliding gate_18: 9115438412844427676
+      sliding gate_19: -3752706617350506882
+      sliding gate_2: -1470842770677978768
+      sliding gate_20: -1314861278039141525
+      sliding gate_21: -5553060172745481734
+      sliding gate_22: 1430070125262899105
+      sliding gate_23: 6089932102638209862
+      sliding gate_24: -8096293233221482770
+      sliding gate_25: -3474794767475594352
+      sliding gate_26: 985093272304968519
+      sliding gate_27: 9165044246857531940
+      sliding gate_28: 7794227417077465625
+      sliding gate_29: 5541742941896850400
+      sliding gate_3: 6259736601004011799
+      sliding gate_30: 7661922104248566752
+      sliding gate_31: -1316738758957562809
+      sliding gate_32: -6807608841175242706
+      sliding gate_33: -8843141620787248598
+      sliding gate_34: -630375551971739739
+      sliding gate_35: -1958872518124889577
+      sliding gate_36: 1531284666375275004
+      sliding gate_37: 5261454463003110921
+      sliding gate_38: -2682798293372924900
+      sliding gate_4: 8621334883584610876
+      sliding gate_5: -6719732816319802270
+      sliding gate_6: -5300323430930044669
+      sliding gate_7: -8321500919342986723
+      sliding gate_8: -7250271898011723639
+      sliding gate_9: 8706701957995842131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
