@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spritesheet-lavarock2_0: -8544921371634613209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

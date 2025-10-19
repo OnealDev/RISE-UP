@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock_isometric_transparent_0: -5489779250271238816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

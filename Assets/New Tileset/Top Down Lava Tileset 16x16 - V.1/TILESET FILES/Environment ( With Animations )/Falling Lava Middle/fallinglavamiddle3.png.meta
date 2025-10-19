@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fallinglavamiddle3_0: -6517907171845253881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spritesheet-burninglava_0: 3686975832158724307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

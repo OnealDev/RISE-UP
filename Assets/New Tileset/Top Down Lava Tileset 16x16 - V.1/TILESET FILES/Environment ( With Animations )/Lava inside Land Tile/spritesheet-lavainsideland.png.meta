@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spritesheet-lavainsideland_0: 4270368659795643264
+      spritesheet-lavainsideland_1: 1797152501594799141
+      spritesheet-lavainsideland_2: 2959888486540145632
+      spritesheet-lavainsideland_3: 5938852938704338267
+      spritesheet-lavainsideland_4: -3078359537502902982
+      spritesheet-lavainsideland_5: -7893548218577312387
+      spritesheet-lavainsideland_6: -7048766706497618329
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

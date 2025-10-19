@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bottomfallinglava6_0: -7791183613756169308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

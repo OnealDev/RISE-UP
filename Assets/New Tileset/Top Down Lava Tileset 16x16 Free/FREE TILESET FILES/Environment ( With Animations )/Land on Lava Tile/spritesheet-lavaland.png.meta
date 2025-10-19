@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spritesheet-lavaland_0: 8666718015643844940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

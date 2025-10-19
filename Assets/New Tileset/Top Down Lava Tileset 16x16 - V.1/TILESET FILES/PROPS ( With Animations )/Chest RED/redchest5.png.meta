@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      redchest5_0: -5883120013058410185
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
