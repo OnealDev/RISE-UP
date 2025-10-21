@@ -15,7 +15,7 @@ public class AryasPlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetButtonDown("Slash"))
+        if (Input.GetButtonDown("Horizontal Attack"))
         {
             player_Combat.Attack();
         }
