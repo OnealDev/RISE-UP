@@ -11,13 +11,7 @@ public class Player_Combat : MonoBehaviour
     public int damage = 1;
     public Animator anim;
 
-     public void Attack()
-     {
-          if (anim == null || playerMovement == null)
-          {
-               Debug.LogWarning("Missing Animator or PlayerMovement reference!");
-               return;
-          }
+ 
 
     public void Attack()
     {
@@ -48,4 +42,5 @@ public class Player_Combat : MonoBehaviour
 
     }
 }
+
 

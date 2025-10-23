@@ -938,9 +938,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 3
   lastMoveDir: {x: 0, y: -1}
-  deathDelay: 0.8
+  currentHealth: 0
+  maxHealth: 3
 --- !u!114 &16413314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19250,6 +19250,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &564440601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 564440602}
+  m_Layer: 6
+  m_Name: Attack Point
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &564440602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 564440601}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.64, y: -0.81, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 953365427}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &566914069
 GameObject:
   m_ObjectHideFlags: 0
@@ -30582,9 +30613,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 3
   lastMoveDir: {x: 0, y: -1}
-  deathDelay: 0.8
+  currentHealth: 0
+  maxHealth: 3
 --- !u!114 &915946373
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31484,7 +31515,7 @@ GameObject:
   - component: {fileID: 953365421}
   - component: {fileID: 953365420}
   m_Layer: 6
-  m_Name: Priest
+  m_Name: 'Main Character '
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31502,8 +31533,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08c41f159572e1d4083a8bade649b3cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player_Combat
+  attackPoint: {fileID: 564440602}
+  weaponRange: 1
+  knockbackForce: 50
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  damage: 1
   anim: {fileID: 953365425}
-  playerMovement: {fileID: 953365422}
 --- !u!96 &953365421
 TrailRenderer:
   serializedVersion: 3
@@ -31795,10 +31832,11 @@ Transform:
   m_GameObject: {fileID: 953365419}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 161.9, y: 135.9, z: 0}
+  m_LocalPosition: {x: 160.74, y: 136.24, z: 0}
   m_LocalScale: {x: 2.2145894, y: 2.2221074, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 564440602}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &954582553
@@ -43253,9 +43291,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 10
   lastMoveDir: {x: 0, y: -1}
-  deathDelay: 0.8
+  currentHealth: 0
+  maxHealth: 10
 --- !u!1 &1381407860
 GameObject:
   m_ObjectHideFlags: 0
@@ -49158,9 +49196,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 3
   lastMoveDir: {x: 0, y: -1}
-  deathDelay: 0.8
+  currentHealth: 0
+  maxHealth: 3
 --- !u!1 &1540207413
 GameObject:
   m_ObjectHideFlags: 0
@@ -59431,9 +59469,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 3
   lastMoveDir: {x: 0, y: -1}
-  deathDelay: 0.8
+  currentHealth: 0
+  maxHealth: 3
 --- !u!1 &1918479748
 GameObject:
   m_ObjectHideFlags: 0
@@ -64373,9 +64411,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 3
   lastMoveDir: {x: 0, y: -1}
-  deathDelay: 0.8
+  currentHealth: 0
+  maxHealth: 3
 --- !u!114 &2099273214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65447,9 +65485,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 3
   lastMoveDir: {x: 0, y: -1}
-  deathDelay: 0.8
+  currentHealth: 3
+  maxHealth: 3
 --- !u!1 &2127091906
 GameObject:
   m_ObjectHideFlags: 0
@@ -66276,6 +66314,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+  - {fileID: 953365427}
   - {fileID: 2122768219}
   - {fileID: 1376467912}
   - {fileID: 1054765519}
@@ -66338,7 +66377,6 @@ SceneRoots:
   - {fileID: 2128341342}
   - {fileID: 1730377385}
   - {fileID: 1946606229}
-  - {fileID: 953365427}
   - {fileID: 1324266095}
   - {fileID: 1324390531}
   - {fileID: 1134184110}
