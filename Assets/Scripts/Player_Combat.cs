@@ -1,10 +1,15 @@
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class Player_Combat : MonoBehaviour
 {
-     [Header("Component References")]
-     public Animator anim;
-     public AryasPlayerMovement playerMovement; // Reference to Priest's movement script
+
+    public Transform attackPoint;
+    public float weaponRange = 1;
+    public float knockbackForce = 50;
+    public LayerMask enemyLayer;
+    public int damage = 1;
+    public Animator anim;
 
      public void Attack()
      {
@@ -14,23 +19,33 @@ public class Player_Combat : MonoBehaviour
                return;
           }
 
-          // Get the Priest's current facing direction (1 = side, 2 = up, 3 = down)
-          int direction = playerMovement.facingDirection;
+    public void Attack()
+    {
+        anim.SetBool("IsAttacking", true);
 
-          // Pass that info to the Animator so the right attack animation plays
-          anim.SetInteger("FacingDirection", direction);
+      
+    }
 
-          // Activate the trigger to start the attack animation
-          anim.SetTrigger("AttackTrigger");
+    public void DealDamage()
+    {
+        Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPoint.position, weaponRange, enemyLayer);
+        
+        if(enemies.Length > 0)
+        {
+            enemies[0].GetComponent<EnemyHealth>().ChangeHealth(-damage);
+            enemies[0].GetComponent<Enemy_Knockback>().Knockback(transform, knockbackForce);
+        }
+    }
+    public void FinishAttacking()
+    {
+        anim.SetBool("IsAttacking", false);
+    }
 
-          Debug.Log($"Attack triggered in direction: {direction}");
-     }
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(attackPoint.position, weaponRange);
 
-     // Optional: Resets the trigger after the animation ends
-     public void FinishAttacking()
-     {
-          if (anim != null)
-               anim.ResetTrigger("AttackTrigger");
-     }
+    }
 }
 

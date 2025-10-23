@@ -486,11 +486,11 @@ InputManager:
     axis: 5
     joyNum: 0
   - serializedVersion: 3
-    m_Name: Slash
+    m_Name: Horizontal Attack
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: left
-    positiveButton: g
+    positiveButton: k
     altNegativeButton: 
     altPositiveButton: space
     gravity: 1000
