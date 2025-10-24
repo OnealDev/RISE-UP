@@ -20,13 +20,13 @@ public class AryasPlayerMovement : MonoBehaviour
      private void Update()
      {
           // Attack input with cooldown check
-          if (Input.GetButtonDown("Slash") && Time.time >= lastAttackTime + attackCooldown)
+          if (Input.GetButtonDown("Horizontal Attack") && Time.time >= lastAttackTime + attackCooldown)
           {
                lastAttackTime = Time.time; // reset timer
                player_Combat.Attack();     // trigger attack
           }
      }
-
+  
      //Dashing 
      private bool canDash = true;
      private bool isDashing;

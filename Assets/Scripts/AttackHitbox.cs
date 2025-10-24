@@ -1,5 +1,5 @@
 using UnityEngine;
-
+/*
 public class AttackHitbox : MonoBehaviour
 {
      public int damage = 1; // how much damage priest deals
@@ -17,3 +17,4 @@ public class AttackHitbox : MonoBehaviour
           }
      }
 }
+*/
