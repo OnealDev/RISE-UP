@@ -26,7 +26,7 @@ public class AryasPlayerMovement : MonoBehaviour
                player_Combat.Attack();     // trigger attack
           }
      }
-  
+
      //Dashing 
      private bool canDash = true;
      private bool isDashing;
@@ -89,5 +89,8 @@ public class AryasPlayerMovement : MonoBehaviour
           yield return new WaitForSeconds(dashingCooldown);
           canDash = true;
      }
+
+
+
 }
 

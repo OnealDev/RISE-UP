@@ -174,34 +174,34 @@ AnimatorStateMachine:
     m_Position: {x: -510, y: 50, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2750280978292637018}
-    m_Position: {x: -410, y: 240, z: 0}
+    m_Position: {x: -580, y: 280, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7977179916009527310}
-    m_Position: {x: 80, y: -10, z: 0}
+    m_Position: {x: -70, y: -40, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1522106516848170034}
-    m_Position: {x: -640, y: 390, z: 0}
+    m_Position: {x: -670, y: 350, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6950917748842308107}
-    m_Position: {x: 20, y: 250, z: 0}
+    m_Position: {x: -150, y: 280, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8420023116368817306}
-    m_Position: {x: 460, y: 140, z: 0}
+    m_Position: {x: 210, y: 140, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7801913953463514166}
     m_Position: {x: 230, y: 430, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8022021722898234092}
-    m_Position: {x: -240, y: 310, z: 0}
+    m_Position: {x: -360, y: 280, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1841134719982821762}
-    m_Position: {x: 270, y: 40, z: 0}
+    m_Position: {x: 90, y: 30, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1124609830253990768}
     m_Position: {x: -150, y: 460, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6577467246118698508}
-    m_Position: {x: -170, y: 120, z: 0}
+    m_Position: {x: -470, y: 120, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: -8234095006139339596}
@@ -210,8 +210,8 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 460, y: -90, z: 0}
-  m_EntryPosition: {x: -140, y: 0, z: 0}
+  m_AnyStatePosition: {x: 130, y: -90, z: 0}
+  m_EntryPosition: {x: -740, y: 110, z: 0}
   m_ExitPosition: {x: 870, y: -10, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -6577467246118698508}
