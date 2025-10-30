@@ -1,28 +1,34 @@
 fileFormatVersion: 2
-guid: 85d2e598544cce54ca03f1c09f845112
+guid: 1cad5817329ab0a41b8f948003704c10
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8999749548626033664
-    second: Priest Attack Down 2_0
+      213: 5889763378631671459
+    second: Priest Walking Left_0
   - first:
-      213: -509234706325741682
-    second: Priest Attack Down 2_1
+      213: -2128204450214829518
+    second: Priest Walking Left_1
   - first:
-      213: 6860210789953948213
-    second: Priest Attack Down 2_2
+      213: 2773759440545798081
+    second: Priest Walking Left_2
   - first:
-      213: -5520419528865132815
-    second: Priest Attack Down 2_3
+      213: 2218915188288393582
+    second: Priest Walking Left_3
   - first:
-      213: 3395332609041009262
-    second: Priest Attack Down 2_4
+      213: 5882400519681161016
+    second: Priest Walking Left_4
   - first:
-      213: 2685699647291707373
-    second: Priest Attack Down 2_5
+      213: -3831995937030309227
+    second: Priest Walking Left_5
   - first:
-      213: 3819172602346092941
-    second: Priest Attack Down 2_6
+      213: -4219909875100281789
+    second: Priest Walking Left_6
+  - first:
+      213: -5463054215103388789
+    second: Priest Walking Left_7
+  - first:
+      213: -669623626637844659
+    second: Priest Walking Left_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,7 +124,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Priest Attack Down 2_0
+      name: Priest Walking Left_0
       rect:
         serializedVersion: 2
         x: 0
@@ -133,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 004c9aed7777a1380800000000000000
-      internalID: -8999749548626033664
+      spriteID: 3aef17a6694acb150800000000000000
+      internalID: 5889763378631671459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack Down 2_1
+      name: Priest Walking Left_1
       rect:
         serializedVersion: 2
         x: 64
@@ -155,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8f572e8bb5dee8f0800000000000000
-      internalID: -509234706325741682
+      spriteID: 2322a8704591772e0800000000000000
+      internalID: -2128204450214829518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack Down 2_2
+      name: Priest Walking Left_2
       rect:
         serializedVersion: 2
         x: 128
@@ -177,14 +183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53ac183dd5d543f50800000000000000
-      internalID: 6860210789953948213
+      spriteID: 1c75e12e38f5e7620800000000000000
+      internalID: 2773759440545798081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack Down 2_3
+      name: Priest Walking Left_3
       rect:
         serializedVersion: 2
         x: 192
@@ -199,14 +205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fe4ddadfa78363b0800000000000000
-      internalID: -5520419528865132815
+      spriteID: e6116a08b9b2bce10800000000000000
+      internalID: 2218915188288393582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack Down 2_4
+      name: Priest Walking Left_4
       rect:
         serializedVersion: 2
         x: 256
@@ -221,14 +227,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6a8038c405ae1f20800000000000000
-      internalID: 3395332609041009262
+      spriteID: 8373b2a3b1c72a150800000000000000
+      internalID: 5882400519681161016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack Down 2_5
+      name: Priest Walking Left_5
       rect:
         serializedVersion: 2
         x: 320
@@ -243,8 +249,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: defc63a8995854520800000000000000
-      internalID: 2685699647291707373
+      spriteID: 59a71908ff302dac0800000000000000
+      internalID: -3831995937030309227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest Walking Left_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3441c7e935edf65c0800000000000000
+      internalID: -4219909875100281789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest Walking Left_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83ef08c2255f24b0800000000000000
+      internalID: -5463054215103388789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest Walking Left_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fda010cd405b6f0800000000000000
+      internalID: -669623626637844659
       vertices: []
       indices: 
       edges: []
@@ -253,7 +325,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 47cd25653bc20c64e8f0ab2733946e1d
+    spriteID: 41a6173d6bf2c3647ae477345eb7eca3
     internalID: 0
     vertices: []
     indices: 
@@ -265,12 +337,15 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Priest Attack Down 2_0: -8999749548626033664
-      Priest Attack Down 2_1: -509234706325741682
-      Priest Attack Down 2_2: 6860210789953948213
-      Priest Attack Down 2_3: -5520419528865132815
-      Priest Attack Down 2_4: 3395332609041009262
-      Priest Attack Down 2_5: 2685699647291707373
+      Priest Walking Left_0: 5889763378631671459
+      Priest Walking Left_1: -2128204450214829518
+      Priest Walking Left_2: 2773759440545798081
+      Priest Walking Left_3: 2218915188288393582
+      Priest Walking Left_4: 5882400519681161016
+      Priest Walking Left_5: -3831995937030309227
+      Priest Walking Left_6: -4219909875100281789
+      Priest Walking Left_7: -5463054215103388789
+      Priest Walking Left_8: -669623626637844659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 20a41e1dded9e1c42a9a54bd95d00bd7
+guid: b28629c94fb6f0d48a6443b597e7a523
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1410485574830670959
-    second: Priest Attack 2 WIP_0
+      213: -7636839434659939347
+    second: Priest Attack 2 Left_0
   - first:
-      213: -5566242221912725613
-    second: Priest Attack 2 WIP_1
+      213: 4481787785772821160
+    second: Priest Attack 2 Left_1
   - first:
-      213: 4062962548590670546
-    second: Priest Attack 2 WIP_2
+      213: -342964174126144496
+    second: Priest Attack 2 Left_2
   - first:
-      213: -5877925007130834111
-    second: Priest Attack 2 WIP_3
+      213: -636678527944560616
+    second: Priest Attack 2 Left_3
   - first:
-      213: 1954073062330627217
-    second: Priest Attack 2 WIP_4
+      213: -1794997947573857171
+    second: Priest Attack 2 Left_4
   - first:
-      213: 4363432776627630213
-    second: Priest Attack 2 WIP_5
+      213: 1879990117601681501
+    second: Priest Attack 2 Left_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -90,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Priest Attack 2 WIP_0
+      name: Priest Attack 2 Left_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19bb76fb7d2fc6ce0800000000000000
-      internalID: -1410485574830670959
+      spriteID: deb3662fefe740690800000000000000
+      internalID: -7636839434659939347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack 2 WIP_1
+      name: Priest Attack 2 Left_1
       rect:
         serializedVersion: 2
         x: 64
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3976c1db03cb0c2b0800000000000000
-      internalID: -5566242221912725613
+      spriteID: 8aa6ca1ee32823e30800000000000000
+      internalID: 4481787785772821160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack 2 WIP_2
+      name: Priest Attack 2 Left_2
       rect:
         serializedVersion: 2
         x: 128
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d2767459ea826830800000000000000
-      internalID: 4062962548590670546
+      spriteID: 014a68696eb8d3bf0800000000000000
+      internalID: -342964174126144496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack 2 WIP_3
+      name: Priest Attack 2 Left_3
       rect:
         serializedVersion: 2
         x: 192
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 14bc49d395a6d6ea0800000000000000
-      internalID: -5877925007130834111
+      spriteID: 810feb980401a27f0800000000000000
+      internalID: -636678527944560616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack 2 WIP_4
+      name: Priest Attack 2 Left_4
       rect:
         serializedVersion: 2
         x: 256
@@ -218,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1947069d8134e1b10800000000000000
-      internalID: 1954073062330627217
+      spriteID: d641e4280e2e617e0800000000000000
+      internalID: -1794997947573857171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest Attack 2 WIP_5
+      name: Priest Attack 2 Left_5
       rect:
         serializedVersion: 2
         x: 320
@@ -240,8 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 580bf2cedf60e8c30800000000000000
-      internalID: 4363432776627630213
+      spriteID: d50a4e42d01171a10800000000000000
+      internalID: 1879990117601681501
       vertices: []
       indices: 
       edges: []
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ecc828d0ce2908f4bb7ade4138a441b8
+    spriteID: 1a8f6dee3dda34e4f94cfd4e0d20ad73
     internalID: 0
     vertices: []
     indices: 
@@ -262,12 +262,12 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Priest Attack 2 WIP_0: -1410485574830670959
-      Priest Attack 2 WIP_1: -5566242221912725613
-      Priest Attack 2 WIP_2: 4062962548590670546
-      Priest Attack 2 WIP_3: -5877925007130834111
-      Priest Attack 2 WIP_4: 1954073062330627217
-      Priest Attack 2 WIP_5: 4363432776627630213
+      Priest Attack 2 Left_0: -7636839434659939347
+      Priest Attack 2 Left_1: 4481787785772821160
+      Priest Attack 2 Left_2: -342964174126144496
+      Priest Attack 2 Left_3: -636678527944560616
+      Priest Attack 2 Left_4: -1794997947573857171
+      Priest Attack 2 Left_5: 1879990117601681501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
