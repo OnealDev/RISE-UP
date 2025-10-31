@@ -9,8 +9,6 @@ public class AryasPlayerMovement : MonoBehaviour
      [SerializeField] public float moveSpeed = 5; //how fast player moves 
      public Rigidbody2D rb; //Must communicate with rigid body
      private Vector2 moveInput;
-     public int facingDirection = 5; //controls direction sprite is facing
-
      public Animator animator;
 
      public Player_Combat player_Combat;
@@ -28,12 +26,7 @@ public class AryasPlayerMovement : MonoBehaviour
      private void Update()
      {
           rb.linearVelocity = moveInput * moveSpeed;
-          // Attack input with cooldown check
-          if (Input.GetButtonDown("Horizontal Attack") && Time.time >= lastAttackTime + attackCooldown)
-          {
-               lastAttackTime = Time.time; // reset timer
-               player_Combat.Attack();     // trigger attack
-          }
+          player_Combat.SetFacingDirection(moveInput);
      }
 
    
@@ -54,34 +47,5 @@ public class AryasPlayerMovement : MonoBehaviour
           animator.SetFloat("InputY", moveInput.y);
 
      }
-
-    
-
-     
-     /* private IEnumerator Dash()
-      {
-           canDash = false;
-           isDashing = true;
-           float originalGravity = rb.gravityScale;
-           rb.gravityScale = 0f;
-           rb.linearVelocity = new Vector2(transform.localScale.x * dashingPower, 0f);
-           tr.emitting = true;
-           yield return new WaitForSeconds(dashingTime);
-           tr.emitting = false;
-           rb.gravityScale = originalGravity;
-           isDashing = false;
-           yield return new WaitForSeconds(dashingCooldown);
-           canDash = true;
-      }
-  //Dashing 
-     private bool canDash = true;
-     private bool isDashing;
-     private float dashingPower = 24f;
-     private float dashingTime = 0.2f;
-     private float dashingCooldown = 1f;
-
-     [SerializeField] private TrailRenderer tr;
-     */
-
 }
 
