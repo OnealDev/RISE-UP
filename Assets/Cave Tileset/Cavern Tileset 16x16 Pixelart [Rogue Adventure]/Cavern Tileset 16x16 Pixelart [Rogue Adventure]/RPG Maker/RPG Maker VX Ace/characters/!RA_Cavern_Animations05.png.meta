@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: e791841896021bc4f980d3bfd39fc27c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5694760067872819784
+    second: '!RA_Cavern_Animations05_0'
+  - first:
+      213: -6630048563402582002
+    second: '!RA_Cavern_Animations05_1'
+  - first:
+      213: 6282846236802677587
+    second: '!RA_Cavern_Animations05_2'
+  - first:
+      213: -7430401574168970024
+    second: '!RA_Cavern_Animations05_3'
+  - first:
+      213: 3686668993198143013
+    second: '!RA_Cavern_Animations05_4'
+  - first:
+      213: 2285037182938748602
+    second: '!RA_Cavern_Animations05_5'
+  - first:
+      213: -7527381398187530967
+    second: '!RA_Cavern_Animations05_6'
+  - first:
+      213: 8518847252406082312
+    second: '!RA_Cavern_Animations05_7'
+  - first:
+      213: 4660161762613412760
+    second: '!RA_Cavern_Animations05_8'
+  - first:
+      213: 7266774585214708008
+    second: '!RA_Cavern_Animations05_9'
+  - first:
+      213: -1169012565945590681
+    second: '!RA_Cavern_Animations05_10'
+  - first:
+      213: -35695557502454970
+    second: '!RA_Cavern_Animations05_11'
+  - first:
+      213: 4199455307024265501
+    second: '!RA_Cavern_Animations05_12'
+  - first:
+      213: -692024268395156711
+    second: '!RA_Cavern_Animations05_13'
+  - first:
+      213: -5404731165875407031
+    second: '!RA_Cavern_Animations05_14'
+  - first:
+      213: 5641961637299418994
+    second: '!RA_Cavern_Animations05_15'
+  - first:
+      213: 4322462480177056346
+    second: '!RA_Cavern_Animations05_16'
+  - first:
+      213: 7862783690498961576
+    second: '!RA_Cavern_Animations05_17'
+  - first:
+      213: -3588220645836110496
+    second: '!RA_Cavern_Animations05_18'
+  - first:
+      213: -4505278359618129861
+    second: '!RA_Cavern_Animations05_19'
+  - first:
+      213: -2101008560051172094
+    second: '!RA_Cavern_Animations05_20'
+  - first:
+      213: -7748732882086591874
+    second: '!RA_Cavern_Animations05_21'
+  - first:
+      213: -8412773445985822382
+    second: '!RA_Cavern_Animations05_22'
+  - first:
+      213: -86289580154465833
+    second: '!RA_Cavern_Animations05_23'
+  - first:
+      213: -98823364259401234
+    second: '!RA_Cavern_Animations05_24'
+  - first:
+      213: -1052380513959021338
+    second: '!RA_Cavern_Animations05_25'
+  - first:
+      213: -6357755057938914629
+    second: '!RA_Cavern_Animations05_26'
+  - first:
+      213: 5912649258057601048
+    second: '!RA_Cavern_Animations05_27'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57c51f3e528f0b0800000000000000
+      internalID: -5694760067872819784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_1'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08dcc685f55df3a0800000000000000
+      internalID: -6630048563402582002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_2'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 233
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bf50b4d57213750800000000000000
+      internalID: 6282846236802677587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_3'
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 233
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcb721e229e1e890800000000000000
+      internalID: -7430401574168970024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_4'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b500aaeda92330800000000000000
+      internalID: 3686668993198143013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_5'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab69f93163516bf10800000000000000
+      internalID: 2285037182938748602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_6'
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 225
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252628008e598790800000000000000
+      internalID: -7527381398187530967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_7'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b1a77f076093670800000000000000
+      internalID: 8518847252406082312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_8'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8934e68be683ca040800000000000000
+      internalID: 4660161762613412760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_9'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8292f86fbf4c8d460800000000000000
+      internalID: 7266774585214708008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_10'
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c58d4d345d6cfe0800000000000000
+      internalID: -1169012565945590681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_11'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643b10f541f218ff0800000000000000
+      internalID: -35695557502454970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_12'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d117f412a56774a30800000000000000
+      internalID: 4199455307024265501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_13'
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 225
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6b5a289f6566f0800000000000000
+      internalID: -692024268395156711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_14'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 161
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947738fd3a98ef4b0800000000000000
+      internalID: -5404731165875407031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_15'
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 161
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277fc9b77364c4e40800000000000000
+      internalID: 5641961637299418994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_16'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a48ed69b87cfb30800000000000000
+      internalID: 4322462480177056346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_17'
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 95
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0fce19b183e1d60800000000000000
+      internalID: 7862783690498961576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_18'
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06547357554143ec0800000000000000
+      internalID: -3588220645836110496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_19'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f4b0b3390a71c0800000000000000
+      internalID: -4505278359618129861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_20'
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 225
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4814a8d7b7d2e0800000000000000
+      internalID: -2101008560051172094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_21'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7207df8f78f67490800000000000000
+      internalID: -7748732882086591874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_22'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591d28af13df3b80800000000000000
+      internalID: -8412773445985822382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_23'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1531385107dcef0800000000000000
+      internalID: -86289580154465833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_24'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee13fcd7ca8e0aef0800000000000000
+      internalID: -98823364259401234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_25'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4fde09f713561f0800000000000000
+      internalID: -1052380513959021338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_26'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ab9aa577b4c7a0800000000000000
+      internalID: -6357755057938914629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!RA_Cavern_Animations05_27'
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 225
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81010047c23fd0250800000000000000
+      internalID: 5912649258057601048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!RA_Cavern_Animations05_0': -5694760067872819784
+      '!RA_Cavern_Animations05_1': -6630048563402582002
+      '!RA_Cavern_Animations05_10': -1169012565945590681
+      '!RA_Cavern_Animations05_11': -35695557502454970
+      '!RA_Cavern_Animations05_12': 4199455307024265501
+      '!RA_Cavern_Animations05_13': -692024268395156711
+      '!RA_Cavern_Animations05_14': -5404731165875407031
+      '!RA_Cavern_Animations05_15': 5641961637299418994
+      '!RA_Cavern_Animations05_16': 4322462480177056346
+      '!RA_Cavern_Animations05_17': 7862783690498961576
+      '!RA_Cavern_Animations05_18': -3588220645836110496
+      '!RA_Cavern_Animations05_19': -4505278359618129861
+      '!RA_Cavern_Animations05_2': 6282846236802677587
+      '!RA_Cavern_Animations05_20': -2101008560051172094
+      '!RA_Cavern_Animations05_21': -7748732882086591874
+      '!RA_Cavern_Animations05_22': -8412773445985822382
+      '!RA_Cavern_Animations05_23': -86289580154465833
+      '!RA_Cavern_Animations05_24': -98823364259401234
+      '!RA_Cavern_Animations05_25': -1052380513959021338
+      '!RA_Cavern_Animations05_26': -6357755057938914629
+      '!RA_Cavern_Animations05_27': 5912649258057601048
+      '!RA_Cavern_Animations05_3': -7430401574168970024
+      '!RA_Cavern_Animations05_4': 3686668993198143013
+      '!RA_Cavern_Animations05_5': 2285037182938748602
+      '!RA_Cavern_Animations05_6': -7527381398187530967
+      '!RA_Cavern_Animations05_7': 8518847252406082312
+      '!RA_Cavern_Animations05_8': 4660161762613412760
+      '!RA_Cavern_Animations05_9': 7266774585214708008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 6d2c05fe048c12b4ca394362c6ffbd14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 992322567484561166
+    second: RA_Ground_Tiles_Godot_0
+  - first:
+      213: 960269618776850090
+    second: RA_Ground_Tiles_Godot_1
+  - first:
+      213: -7776426160258403994
+    second: RA_Ground_Tiles_Godot_2
+  - first:
+      213: -88965689810963964
+    second: RA_Ground_Tiles_Godot_3
+  - first:
+      213: -4374781783071042402
+    second: RA_Ground_Tiles_Godot_4
+  - first:
+      213: 7034183157944680637
+    second: RA_Ground_Tiles_Godot_5
+  - first:
+      213: -5462308796999817113
+    second: RA_Ground_Tiles_Godot_6
+  - first:
+      213: 3584962178597754289
+    second: RA_Ground_Tiles_Godot_7
+  - first:
+      213: -5700885974158743732
+    second: RA_Ground_Tiles_Godot_8
+  - first:
+      213: 2875367213598711497
+    second: RA_Ground_Tiles_Godot_9
+  - first:
+      213: -41471034762258839
+    second: RA_Ground_Tiles_Godot_10
+  - first:
+      213: 3925248581226921779
+    second: RA_Ground_Tiles_Godot_11
+  - first:
+      213: 4580847830767264775
+    second: RA_Ground_Tiles_Godot_12
+  - first:
+      213: -7955621824240457189
+    second: RA_Ground_Tiles_Godot_13
+  - first:
+      213: 2487550711447967102
+    second: RA_Ground_Tiles_Godot_14
+  - first:
+      213: 2450511146939438309
+    second: RA_Ground_Tiles_Godot_15
+  - first:
+      213: 534867129937464920
+    second: RA_Ground_Tiles_Godot_16
+  - first:
+      213: 1536662921029899237
+    second: RA_Ground_Tiles_Godot_17
+  - first:
+      213: 3704685383129741426
+    second: RA_Ground_Tiles_Godot_18
+  - first:
+      213: 6333830564100294290
+    second: RA_Ground_Tiles_Godot_19
+  - first:
+      213: -2139841029902412785
+    second: RA_Ground_Tiles_Godot_20
+  - first:
+      213: -2501527847751408821
+    second: RA_Ground_Tiles_Godot_21
+  - first:
+      213: -3015758007963861185
+    second: RA_Ground_Tiles_Godot_22
+  - first:
+      213: 5663173716960409072
+    second: RA_Ground_Tiles_Godot_23
+  - first:
+      213: -6201694894132029438
+    second: RA_Ground_Tiles_Godot_24
+  - first:
+      213: 388305194664974467
+    second: RA_Ground_Tiles_Godot_25
+  - first:
+      213: 520535702546727856
+    second: RA_Ground_Tiles_Godot_26
+  - first:
+      213: -9073971571086952025
+    second: RA_Ground_Tiles_Godot_27
+  - first:
+      213: -1244974795807796760
+    second: RA_Ground_Tiles_Godot_28
+  - first:
+      213: 2867417244185960125
+    second: RA_Ground_Tiles_Godot_29
+  - first:
+      213: 6000782868491294271
+    second: RA_Ground_Tiles_Godot_30
+  - first:
+      213: 3406365203618276228
+    second: RA_Ground_Tiles_Godot_31
+  - first:
+      213: 5205958183748442257
+    second: RA_Ground_Tiles_Godot_32
+  - first:
+      213: -8272752693108129021
+    second: RA_Ground_Tiles_Godot_33
+  - first:
+      213: 4288046912281883649
+    second: RA_Ground_Tiles_Godot_34
+  - first:
+      213: -4657220232293136659
+    second: RA_Ground_Tiles_Godot_35
+  - first:
+      213: -7945074330429191259
+    second: RA_Ground_Tiles_Godot_36
+  - first:
+      213: 1396633885499440396
+    second: RA_Ground_Tiles_Godot_37
+  - first:
+      213: -4350232983537941241
+    second: RA_Ground_Tiles_Godot_38
+  - first:
+      213: 5165720370273685976
+    second: RA_Ground_Tiles_Godot_39
+  - first:
+      213: -1322592447571477951
+    second: RA_Ground_Tiles_Godot_40
+  - first:
+      213: 7083260245253851078
+    second: RA_Ground_Tiles_Godot_41
+  - first:
+      213: -6234057914057813389
+    second: RA_Ground_Tiles_Godot_42
+  - first:
+      213: -8644135664727421875
+    second: RA_Ground_Tiles_Godot_43
+  - first:
+      213: -3892198322212091164
+    second: RA_Ground_Tiles_Godot_44
+  - first:
+      213: -7212853892574112927
+    second: RA_Ground_Tiles_Godot_45
+  - first:
+      213: -2663922662935221245
+    second: RA_Ground_Tiles_Godot_46
+  - first:
+      213: -5184440061613845299
+    second: RA_Ground_Tiles_Godot_47
+  - first:
+      213: -7184405322319246271
+    second: RA_Ground_Tiles_Godot_48
+  - first:
+      213: -7090188008202350298
+    second: RA_Ground_Tiles_Godot_49
+  - first:
+      213: -486912242790890422
+    second: RA_Ground_Tiles_Godot_50
+  - first:
+      213: -8910498435786560352
+    second: RA_Ground_Tiles_Godot_51
+  - first:
+      213: 1403973291664258219
+    second: RA_Ground_Tiles_Godot_52
+  - first:
+      213: -6117472444767410027
+    second: RA_Ground_Tiles_Godot_53
+  - first:
+      213: 2372315572366169476
+    second: RA_Ground_Tiles_Godot_54
+  - first:
+      213: -191059446680409101
+    second: RA_Ground_Tiles_Godot_55
+  - first:
+      213: -7890076302680748482
+    second: RA_Ground_Tiles_Godot_56
+  - first:
+      213: -1600336633840354276
+    second: RA_Ground_Tiles_Godot_57
+  - first:
+      213: -3344439983413573350
+    second: RA_Ground_Tiles_Godot_58
+  - first:
+      213: -6415273346805970870
+    second: RA_Ground_Tiles_Godot_59
+  - first:
+      213: -7037236055895560948
+    second: RA_Ground_Tiles_Godot_60
+  - first:
+      213: -3652490316630264921
+    second: RA_Ground_Tiles_Godot_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0755891e1075cd00800000000000000
+      internalID: 992322567484561166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae3bcb6120935d00800000000000000
+      internalID: 960269618776850090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 66
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613eb7cb95941490800000000000000
+      internalID: -7776426160258403994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402be9d2d2ee3cef0800000000000000
+      internalID: -88965689810963964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 337
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94533a9527a943c0800000000000000
+      internalID: -4374781783071042402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 337
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0045e30507e9160800000000000000
+      internalID: 7034183157944680637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 66
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768a555f61bf134b0800000000000000
+      internalID: -5462308796999817113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 319
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b597848b1850c130800000000000000
+      internalID: 3584962178597754289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47e24d396262e0b0800000000000000
+      internalID: -5700885974158743732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce1b551f3b57e720800000000000000
+      internalID: 2875367213598711497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9661788405aac6ff0800000000000000
+      internalID: -41471034762258839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff22ba9c8497630800000000000000
+      internalID: 3925248581226921779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704600be4d0729f30800000000000000
+      internalID: 4580847830767264775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a6dcef914f79190800000000000000
+      internalID: -7955621824240457189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7550a4413e858220800000000000000
+      internalID: 2487550711447967102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d57f97e6f10220800000000000000
+      internalID: 2450511146939438309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 273
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e84f122da3c6700800000000000000
+      internalID: 534867129937464920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 273
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3508bf8c2535510800000000000000
+      internalID: 1536662921029899237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278b70a4abfa96330800000000000000
+      internalID: 3704685383129741426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 257
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c5b8075946e750800000000000000
+      internalID: 6333830564100294290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f045cd0bbe1cd42e0800000000000000
+      internalID: -2139841029902412785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43a7071da9c84dd0800000000000000
+      internalID: -2501527847751408821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f36c6e110e526d0800000000000000
+      internalID: -3015758007963861185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5f0c4ad72a79e40800000000000000
+      internalID: 5663173716960409072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20818ed0a572fe9a0800000000000000
+      internalID: -6201694894132029438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d1786489836500800000000000000
+      internalID: 388305194664974467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3c43ba670593700800000000000000
+      internalID: 520535702546727856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 209
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a97e5b9ee6c21280800000000000000
+      internalID: -9073971571086952025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1df85f406f8bee0800000000000000
+      internalID: -1244974795807796760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe98869acc1bc720800000000000000
+      internalID: 2867417244185960125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f365ca2b930174350800000000000000
+      internalID: 6000782868491294271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832be0ea17d54f20800000000000000
+      internalID: 3406365203618276228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981dd1c2674f3840800000000000000
+      internalID: 5205958183748442257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 127
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30342aca147413d80800000000000000
+      internalID: -8272752693108129021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104b5ca92f3328b30800000000000000
+      internalID: 4288046912281883649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6c76dafda3e5fb0800000000000000
+      internalID: -4657220232293136659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 145
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab81b4cdfc6db190800000000000000
+      internalID: -7945074330429191259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db7728e17d16310800000000000000
+      internalID: 1396633885499440396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058806662ed0a3c0800000000000000
+      internalID: -4350232983537941241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1992fbe4350b740800000000000000
+      internalID: 5165720370273685976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a33e32d2535ade0800000000000000
+      internalID: -1322592447571477951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c780021aabcc4260800000000000000
+      internalID: 7083260245253851078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3721f5b4b5d2c79a0800000000000000
+      internalID: -6234057914057813389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c03a9596cd90880800000000000000
+      internalID: -8644135664727421875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4d296f322cf9c0800000000000000
+      internalID: -3892198322212091164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163935c999bc6eb90800000000000000
+      internalID: -7212853892574112927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c22aeb378d70bd0800000000000000
+      internalID: -2663922662935221245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d3387b3b2d08b0800000000000000
+      internalID: -5184440061613845299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c4cb88c6ddb4c90800000000000000
+      internalID: -7184405322319246271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6215d5c62979a9d90800000000000000
+      internalID: -7090188008202350298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4409ab15e32e39f0800000000000000
+      internalID: -486912242790890422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_51
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aca44be1ec875480800000000000000
+      internalID: -8910498435786560352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4b8cb254aeb7310800000000000000
+      internalID: 1403973291664258219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e566293f5a1ba0800000000000000
+      internalID: -6117472444767410027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485530aa1782ce020800000000000000
+      internalID: 2372315572366169476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba1ad0278395df0800000000000000
+      internalID: -191059446680409101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8cf7f761d08290800000000000000
+      internalID: -7890076302680748482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_57
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cb6ea7f467ac9e0800000000000000
+      internalID: -1600336633840354276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1945000e892691d0800000000000000
+      internalID: -3344439983413573350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48499271ee58f6a0800000000000000
+      internalID: -6415273346805970870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d26cf8717b65e90800000000000000
+      internalID: -7037236055895560948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Godot_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f2b3a86fbf4dc0800000000000000
+      internalID: -3652490316630264921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RA_Ground_Tiles_Godot_0: 992322567484561166
+      RA_Ground_Tiles_Godot_1: 960269618776850090
+      RA_Ground_Tiles_Godot_10: -41471034762258839
+      RA_Ground_Tiles_Godot_11: 3925248581226921779
+      RA_Ground_Tiles_Godot_12: 4580847830767264775
+      RA_Ground_Tiles_Godot_13: -7955621824240457189
+      RA_Ground_Tiles_Godot_14: 2487550711447967102
+      RA_Ground_Tiles_Godot_15: 2450511146939438309
+      RA_Ground_Tiles_Godot_16: 534867129937464920
+      RA_Ground_Tiles_Godot_17: 1536662921029899237
+      RA_Ground_Tiles_Godot_18: 3704685383129741426
+      RA_Ground_Tiles_Godot_19: 6333830564100294290
+      RA_Ground_Tiles_Godot_2: -7776426160258403994
+      RA_Ground_Tiles_Godot_20: -2139841029902412785
+      RA_Ground_Tiles_Godot_21: -2501527847751408821
+      RA_Ground_Tiles_Godot_22: -3015758007963861185
+      RA_Ground_Tiles_Godot_23: 5663173716960409072
+      RA_Ground_Tiles_Godot_24: -6201694894132029438
+      RA_Ground_Tiles_Godot_25: 388305194664974467
+      RA_Ground_Tiles_Godot_26: 520535702546727856
+      RA_Ground_Tiles_Godot_27: -9073971571086952025
+      RA_Ground_Tiles_Godot_28: -1244974795807796760
+      RA_Ground_Tiles_Godot_29: 2867417244185960125
+      RA_Ground_Tiles_Godot_3: -88965689810963964
+      RA_Ground_Tiles_Godot_30: 6000782868491294271
+      RA_Ground_Tiles_Godot_31: 3406365203618276228
+      RA_Ground_Tiles_Godot_32: 5205958183748442257
+      RA_Ground_Tiles_Godot_33: -8272752693108129021
+      RA_Ground_Tiles_Godot_34: 4288046912281883649
+      RA_Ground_Tiles_Godot_35: -4657220232293136659
+      RA_Ground_Tiles_Godot_36: -7945074330429191259
+      RA_Ground_Tiles_Godot_37: 1396633885499440396
+      RA_Ground_Tiles_Godot_38: -4350232983537941241
+      RA_Ground_Tiles_Godot_39: 5165720370273685976
+      RA_Ground_Tiles_Godot_4: -4374781783071042402
+      RA_Ground_Tiles_Godot_40: -1322592447571477951
+      RA_Ground_Tiles_Godot_41: 7083260245253851078
+      RA_Ground_Tiles_Godot_42: -6234057914057813389
+      RA_Ground_Tiles_Godot_43: -8644135664727421875
+      RA_Ground_Tiles_Godot_44: -3892198322212091164
+      RA_Ground_Tiles_Godot_45: -7212853892574112927
+      RA_Ground_Tiles_Godot_46: -2663922662935221245
+      RA_Ground_Tiles_Godot_47: -5184440061613845299
+      RA_Ground_Tiles_Godot_48: -7184405322319246271
+      RA_Ground_Tiles_Godot_49: -7090188008202350298
+      RA_Ground_Tiles_Godot_5: 7034183157944680637
+      RA_Ground_Tiles_Godot_50: -486912242790890422
+      RA_Ground_Tiles_Godot_51: -8910498435786560352
+      RA_Ground_Tiles_Godot_52: 1403973291664258219
+      RA_Ground_Tiles_Godot_53: -6117472444767410027
+      RA_Ground_Tiles_Godot_54: 2372315572366169476
+      RA_Ground_Tiles_Godot_55: -191059446680409101
+      RA_Ground_Tiles_Godot_56: -7890076302680748482
+      RA_Ground_Tiles_Godot_57: -1600336633840354276
+      RA_Ground_Tiles_Godot_58: -3344439983413573350
+      RA_Ground_Tiles_Godot_59: -6415273346805970870
+      RA_Ground_Tiles_Godot_6: -5462308796999817113
+      RA_Ground_Tiles_Godot_60: -7037236055895560948
+      RA_Ground_Tiles_Godot_61: -3652490316630264921
+      RA_Ground_Tiles_Godot_7: 3584962178597754289
+      RA_Ground_Tiles_Godot_8: -5700885974158743732
+      RA_Ground_Tiles_Godot_9: 2875367213598711497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

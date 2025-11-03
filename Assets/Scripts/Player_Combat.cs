@@ -1,122 +1,45 @@
 using UnityEngine;
 using UnityEngine.UIElements;
-using UnityEngine.InputSystem;
-using Unity.InferenceEngine;
-using Unity.VisualScripting;
-using System;
 
 public class Player_Combat : MonoBehaviour
 {
-    [Header("Combat Settings")]
+
+    public Transform attackPoint;
     public float weaponRange = 1;
+    public float knockbackForce = 50;
     public LayerMask enemyLayer;
     public int damage = 1;
+    public Animator anim;
 
-    [Header("Attack Points")]
-    public Transform attackPointUp;
-    public Transform attackPointDown;
-    public Transform attackPointLeft;
-    public Transform attackPointRight;
-    public float knockbackForce = 50;
+ 
 
-    [Header("References")]
-    public Animator animator;
-    private float lastAttackTime;
-    [SerializeField] private float attackCooldown = 0.5f;
-    private Vector2 lastMoveDir = Vector2.down;
-
-
-    //Adding a "combo system" (it just keeps track of which attack to do)
-    private int currentAttack = 0;
-    [SerializeField] private int maxCombo = 2;
-    [SerializeField] private float comboResetTime = 1f;
-    
-    
-    private void Awake()
+    public void Attack()
     {
-        animator = GetComponent<Animator>();
-    }
+        anim.SetBool("IsAttacking", true);
 
-    public void OnAttack(InputAction.CallbackContext context)//Called when attack action fires by the playerinput
-    {
-        //Attack cooldown
-        if (Time.time - lastAttackTime < attackCooldown)
-            return;
-
-        lastAttackTime = Time.time;
-
-        currentAttack++; //increment combo
-        if (currentAttack > maxCombo)
-            currentAttack = 1;
-
-        animator.SetFloat("AttackIndex", currentAttack);
-
-        animator.SetTrigger("AttackTrigger"); //Triggers attack animation
-
-        //Lock player in the direction of the attack
-        animator.SetFloat("InputX", lastMoveDir.x);
-        animator.SetFloat("InputY", lastMoveDir.y);
-
-        //reset the combo after some time
-        CancelInvoke(nameof(ResetCombo));
-        Invoke(nameof(ResetCombo), comboResetTime);
-
-    }
-
-    public void SetFacingDirection(Vector2 dir) //updates facing direction
-    {
-        if (dir.sqrMagnitude > 0.01f)
-            lastMoveDir = dir.normalized;
-
-
+      
     }
 
     public void DealDamage()
     {
-        Transform activePoint = GetActiveAttackPoint();
-        if (activePoint == null)
-            return;
-
-        Collider2D[] enemies = Physics2D.OverlapCircleAll(activePoint.position, weaponRange, enemyLayer);
-
-        foreach (Collider2D enemy in enemies)
+        Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPoint.position, weaponRange, enemyLayer);
+        
+        if(enemies.Length > 0)
         {
-            enemy.GetComponent<EnemyHealth>()?.ChangeHealth(-damage);
-            enemy.GetComponent<Enemy_Knockback>()?.Knockback(transform, knockbackForce);
+            enemies[0].GetComponent<EnemyHealth>().ChangeHealth(-damage);
+            enemies[0].GetComponent<Enemy_Knockback>().Knockback(transform, knockbackForce);
         }
     }
-
-    private Transform GetActiveAttackPoint()
+    public void FinishAttacking()
     {
-        if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
-        {
-            // Horizontal attack
-            return lastMoveDir.x > 0 ? attackPointRight : attackPointLeft;
-        }
-        else
-        {
-            // Vertical attack
-            return lastMoveDir.y > 0 ? attackPointUp : attackPointDown;
-        }
-    }
-    
-    public void FinishAttacking()//At the end of the attack
-    {
-        //causes the trigger to auto reset
-    }
-    private void ResetCombo()
-    {
-        currentAttack = 0;
+        anim.SetBool("IsAttacking", false);
     }
 
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(attackPoint.position, weaponRange);
 
-        if (attackPointUp) Gizmos.DrawWireSphere(attackPointUp.position, weaponRange);
-        if (attackPointDown) Gizmos.DrawWireSphere(attackPointDown.position, weaponRange);
-        if (attackPointLeft) Gizmos.DrawWireSphere(attackPointLeft.position, weaponRange);
-        if (attackPointRight) Gizmos.DrawWireSphere(attackPointRight.position, weaponRange);
     }
 }
 
