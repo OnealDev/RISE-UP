@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - PlayerAttack
   - Ground
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3567730615
+    locked: 0
+  - name: Collison
+    uniqueID: 2791067929
     locked: 0
   m_RenderingLayers:
   - Default

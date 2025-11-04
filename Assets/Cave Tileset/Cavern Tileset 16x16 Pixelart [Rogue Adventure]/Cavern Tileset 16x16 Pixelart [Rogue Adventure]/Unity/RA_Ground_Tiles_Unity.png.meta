@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 866ab0d25a37832489f8c035e9b2d925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4821416310879949123
+    second: RA_Ground_Tiles_Unity_0
+  - first:
+      213: 439396538448861899
+    second: RA_Ground_Tiles_Unity_1
+  - first:
+      213: 3877404781308780041
+    second: RA_Ground_Tiles_Unity_2
+  - first:
+      213: 3790407009925722248
+    second: RA_Ground_Tiles_Unity_3
+  - first:
+      213: -6390283319969146832
+    second: RA_Ground_Tiles_Unity_4
+  - first:
+      213: -3679649979590311963
+    second: RA_Ground_Tiles_Unity_5
+  - first:
+      213: 3083992795142175365
+    second: RA_Ground_Tiles_Unity_6
+  - first:
+      213: 3250683338919309755
+    second: RA_Ground_Tiles_Unity_7
+  - first:
+      213: -7193440112530116318
+    second: RA_Ground_Tiles_Unity_8
+  - first:
+      213: -2098003257705312354
+    second: RA_Ground_Tiles_Unity_9
+  - first:
+      213: -3683019561264826389
+    second: RA_Ground_Tiles_Unity_10
+  - first:
+      213: -2337277762913638164
+    second: RA_Ground_Tiles_Unity_11
+  - first:
+      213: -235952717291714954
+    second: RA_Ground_Tiles_Unity_12
+  - first:
+      213: 8555709062554960549
+    second: RA_Ground_Tiles_Unity_13
+  - first:
+      213: -9059886676034636921
+    second: RA_Ground_Tiles_Unity_14
+  - first:
+      213: -897739277504490930
+    second: RA_Ground_Tiles_Unity_15
+  - first:
+      213: -3606102978319943038
+    second: RA_Ground_Tiles_Unity_16
+  - first:
+      213: -8924948839500864576
+    second: RA_Ground_Tiles_Unity_17
+  - first:
+      213: 775446186729788179
+    second: RA_Ground_Tiles_Unity_18
+  - first:
+      213: -2085869625020667462
+    second: RA_Ground_Tiles_Unity_19
+  - first:
+      213: 2881572701726134696
+    second: RA_Ground_Tiles_Unity_20
+  - first:
+      213: -4996474013312205036
+    second: RA_Ground_Tiles_Unity_21
+  - first:
+      213: -6977961415060074650
+    second: RA_Ground_Tiles_Unity_22
+  - first:
+      213: -7954562313679225510
+    second: RA_Ground_Tiles_Unity_23
+  - first:
+      213: 6090769852239339734
+    second: RA_Ground_Tiles_Unity_24
+  - first:
+      213: -3531350103957624951
+    second: RA_Ground_Tiles_Unity_25
+  - first:
+      213: 335562191491289078
+    second: RA_Ground_Tiles_Unity_26
+  - first:
+      213: 7890272537883280293
+    second: RA_Ground_Tiles_Unity_27
+  - first:
+      213: -8993892896252060299
+    second: RA_Ground_Tiles_Unity_28
+  - first:
+      213: 4273173818921626184
+    second: RA_Ground_Tiles_Unity_29
+  - first:
+      213: -5362849156969516471
+    second: RA_Ground_Tiles_Unity_30
+  - first:
+      213: -6048922137628651797
+    second: RA_Ground_Tiles_Unity_31
+  - first:
+      213: -6821109648935182840
+    second: RA_Ground_Tiles_Unity_32
+  - first:
+      213: 2337927699582946189
+    second: RA_Ground_Tiles_Unity_33
+  - first:
+      213: -166666059521069516
+    second: RA_Ground_Tiles_Unity_34
+  - first:
+      213: -733193452882543663
+    second: RA_Ground_Tiles_Unity_35
+  - first:
+      213: 7744921140785728826
+    second: RA_Ground_Tiles_Unity_36
+  - first:
+      213: 2704043440906588621
+    second: RA_Ground_Tiles_Unity_37
+  - first:
+      213: 2710525573401466026
+    second: RA_Ground_Tiles_Unity_38
+  - first:
+      213: 417305002735771455
+    second: RA_Ground_Tiles_Unity_39
+  - first:
+      213: 5613029229784469358
+    second: RA_Ground_Tiles_Unity_40
+  - first:
+      213: 8633547182164191470
+    second: RA_Ground_Tiles_Unity_41
+  - first:
+      213: 7666642718768049017
+    second: RA_Ground_Tiles_Unity_42
+  - first:
+      213: 6143049666659136296
+    second: RA_Ground_Tiles_Unity_43
+  - first:
+      213: 6971556742453385912
+    second: RA_Ground_Tiles_Unity_44
+  - first:
+      213: 776557868558628576
+    second: RA_Ground_Tiles_Unity_45
+  - first:
+      213: -2163870378203337034
+    second: RA_Ground_Tiles_Unity_46
+  - first:
+      213: -693983770099870752
+    second: RA_Ground_Tiles_Unity_47
+  - first:
+      213: 134413569093397886
+    second: RA_Ground_Tiles_Unity_48
+  - first:
+      213: -132693613133577976
+    second: RA_Ground_Tiles_Unity_49
+  - first:
+      213: -818759973129897520
+    second: RA_Ground_Tiles_Unity_50
+  - first:
+      213: 747119564076959794
+    second: RA_Ground_Tiles_Unity_51
+  - first:
+      213: 2348450329594595208
+    second: RA_Ground_Tiles_Unity_52
+  - first:
+      213: 5307230141440730141
+    second: RA_Ground_Tiles_Unity_53
+  - first:
+      213: 1393626482778812211
+    second: RA_Ground_Tiles_Unity_54
+  - first:
+      213: -4021764493766527440
+    second: RA_Ground_Tiles_Unity_55
+  - first:
+      213: 4343736056460847489
+    second: RA_Ground_Tiles_Unity_56
+  - first:
+      213: 795828648824505072
+    second: RA_Ground_Tiles_Unity_57
+  - first:
+      213: 6983205213982440562
+    second: RA_Ground_Tiles_Unity_58
+  - first:
+      213: -9143090856697078687
+    second: RA_Ground_Tiles_Unity_59
+  - first:
+      213: -5672059939194223218
+    second: RA_Ground_Tiles_Unity_60
+  - first:
+      213: 7994251883682367105
+    second: RA_Ground_Tiles_Unity_61
+  - first:
+      213: 1320652624340053262
+    second: RA_Ground_Tiles_Unity_62
+  - first:
+      213: 3865469078121963311
+    second: RA_Ground_Tiles_Unity_63
+  - first:
+      213: -916042393390281730
+    second: RA_Ground_Tiles_Unity_64
+  - first:
+      213: -8732971789906417819
+    second: RA_Ground_Tiles_Unity_65
+  - first:
+      213: -7579646439539034229
+    second: RA_Ground_Tiles_Unity_66
+  - first:
+      213: 6823551478901466519
+    second: RA_Ground_Tiles_Unity_67
+  - first:
+      213: 122785735995068161
+    second: RA_Ground_Tiles_Unity_68
+  - first:
+      213: -670712412710433881
+    second: RA_Ground_Tiles_Unity_69
+  - first:
+      213: -1691401268220480811
+    second: RA_Ground_Tiles_Unity_70
+  - first:
+      213: -37499633834266793
+    second: RA_Ground_Tiles_Unity_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341164cf69c19e240800000000000000
+      internalID: 4821416310879949123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcad7cdd2dc091600800000000000000
+      internalID: 439396538448861899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e9f40fa1f4fc530800000000000000
+      internalID: 3877404781308780041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880f5c4d71b3a9430800000000000000
+      internalID: 3790407009925722248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038922b7d272157a0800000000000000
+      internalID: -6390283319969146832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5effeb4d6d14fecc0800000000000000
+      internalID: -3679649979590311963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 166
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a30548b1b8cca20800000000000000
+      internalID: 3083992795142175365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 166
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1f09d164fbc1d20800000000000000
+      internalID: 3250683338919309755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 166
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221b8938454cb2c90800000000000000
+      internalID: -7193440112530116318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 166
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fccde172562e2e0800000000000000
+      internalID: -2098003257705312354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 166
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7bef5f83943ecc0800000000000000
+      internalID: -3683019561264826389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 166
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8ec101242509fd0800000000000000
+      internalID: -2337277762913638164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6760a06f04ab9bcf0800000000000000
+      internalID: -235952717291714954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 151
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2cd23ff0cfbb670800000000000000
+      internalID: 8555709062554960549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 150
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78339a9c111d44280800000000000000
+      internalID: -9059886676034636921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42dd6f22e69a83f0800000000000000
+      internalID: -897739277504490930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af2c9727c84fdc0800000000000000
+      internalID: -3606102978319943038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 151
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3240f1156342480800000000000000
+      internalID: -8924948839500864576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 150
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d576c230f2ca00800000000000000
+      internalID: 775446186729788179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9add0a0a08d03e0800000000000000
+      internalID: -2085869625020667462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a159d0ea176df720800000000000000
+      internalID: 2881572701726134696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 151
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f3e0b7b55f8aab0800000000000000
+      internalID: -4996474013312205036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 150
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f46f6501d492f90800000000000000
+      internalID: -6977961415060074650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5db07588b7bb9190800000000000000
+      internalID: -7954562313679225510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0626b09e2c68450800000000000000
+      internalID: 6090769852239339734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 150
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98721145acf1efec0800000000000000
+      internalID: -3531350103957624951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 151
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc3e7090828a400800000000000000
+      internalID: 335562191491289078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a38d899111ef7d60800000000000000
+      internalID: 7890272537883280293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d9cf200164f2380800000000000000
+      internalID: -8993892896252060299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 150
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa254b2fc5d4b30800000000000000
+      internalID: 4273173818921626184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94234d6fa155395b0800000000000000
+      internalID: -5362849156969516471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beec5a84d59ed0ca0800000000000000
+      internalID: -6048922137628651797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e9a310aec8651a0800000000000000
+      internalID: -6821109648935182840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 150
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b003c1bdcf17020800000000000000
+      internalID: 2337927699582946189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 151
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee1261a12efadf0800000000000000
+      internalID: -166666059521069516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db3b41707c23d5f0800000000000000
+      internalID: -733193452882543663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d42f14ebc7b7b60800000000000000
+      internalID: 7744921140785728826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15670de21b68520800000000000000
+      internalID: 2704043440906588621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4d435e5a8bd9520800000000000000
+      internalID: 2710525573401466026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f1f0360b09ac500800000000000000
+      internalID: 417305002735771455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f003b685c75ed40800000000000000
+      internalID: 5613029229784469358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8a8707b6580d770800000000000000
+      internalID: 8633547182164191470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b2100eee2656a60800000000000000
+      internalID: 7666642718768049017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 38
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823bcc2ef1f704550800000000000000
+      internalID: 6143049666659136296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 38
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bad96d9be1ffb060800000000000000
+      internalID: 6971556742453385912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 38
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6b8fe5443e6ca00800000000000000
+      internalID: 776557868558628576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 38
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be233f0b5368f1e0800000000000000
+      internalID: -2163870378203337034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 38
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39f4f10797e56f0800000000000000
+      internalID: -693983770099870752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dedcecd688dd100800000000000000
+      internalID: 134413569093397886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801c535acd3982ef0800000000000000
+      internalID: -132693613133577976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9b845742e23a4f0800000000000000
+      internalID: -818759973129897520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2384d8df84d4e5a00800000000000000
+      internalID: 747119564076959794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878224d12f579020800000000000000
+      internalID: 2348450329594595208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1422d9d1b117a940800000000000000
+      internalID: 5307230141440730141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fab9ff6e7275310800000000000000
+      internalID: 1393626482778812211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03674ca4082df28c0800000000000000
+      internalID: -4021764493766527440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a763edec084c30800000000000000
+      internalID: 4343736056460847489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2834b80f95b0b00800000000000000
+      internalID: 795828648824505072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c341db42459e060800000000000000
+      internalID: 6983205213982440562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_59
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cd279de473d1180800000000000000
+      internalID: -9143090856697078687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85ca93898bc841b0800000000000000
+      internalID: -5672059939194223218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_61
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18682eb9bb941fe60800000000000000
+      internalID: 7994251883682367105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_62
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de9719096e35210800000000000000
+      internalID: 1320652624340053262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f57bb75a7e4a530800000000000000
+      internalID: 3865469078121963311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb06ceeb409943f0800000000000000
+      internalID: -916042393390281730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567ee152d604ec680800000000000000
+      internalID: -8732971789906417819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b830d8bfafc690800000000000000
+      internalID: -7579646439539034229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956386daef12be50800000000000000
+      internalID: 6823551478901466519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_68
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8871f9f834b100800000000000000
+      internalID: 122785735995068161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab03fd3d9621b6f0800000000000000
+      internalID: -670712412710433881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_70
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b21b028fe688e0800000000000000
+      internalID: -1691401268220480811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Ground_Tiles_Unity_71
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fe91e1846ca7ff0800000000000000
+      internalID: -37499633834266793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RA_Ground_Tiles_Unity_0: 4821416310879949123
+      RA_Ground_Tiles_Unity_1: 439396538448861899
+      RA_Ground_Tiles_Unity_10: -3683019561264826389
+      RA_Ground_Tiles_Unity_11: -2337277762913638164
+      RA_Ground_Tiles_Unity_12: -235952717291714954
+      RA_Ground_Tiles_Unity_13: 8555709062554960549
+      RA_Ground_Tiles_Unity_14: -9059886676034636921
+      RA_Ground_Tiles_Unity_15: -897739277504490930
+      RA_Ground_Tiles_Unity_16: -3606102978319943038
+      RA_Ground_Tiles_Unity_17: -8924948839500864576
+      RA_Ground_Tiles_Unity_18: 775446186729788179
+      RA_Ground_Tiles_Unity_19: -2085869625020667462
+      RA_Ground_Tiles_Unity_2: 3877404781308780041
+      RA_Ground_Tiles_Unity_20: 2881572701726134696
+      RA_Ground_Tiles_Unity_21: -4996474013312205036
+      RA_Ground_Tiles_Unity_22: -6977961415060074650
+      RA_Ground_Tiles_Unity_23: -7954562313679225510
+      RA_Ground_Tiles_Unity_24: 6090769852239339734
+      RA_Ground_Tiles_Unity_25: -3531350103957624951
+      RA_Ground_Tiles_Unity_26: 335562191491289078
+      RA_Ground_Tiles_Unity_27: 7890272537883280293
+      RA_Ground_Tiles_Unity_28: -8993892896252060299
+      RA_Ground_Tiles_Unity_29: 4273173818921626184
+      RA_Ground_Tiles_Unity_3: 3790407009925722248
+      RA_Ground_Tiles_Unity_30: -5362849156969516471
+      RA_Ground_Tiles_Unity_31: -6048922137628651797
+      RA_Ground_Tiles_Unity_32: -6821109648935182840
+      RA_Ground_Tiles_Unity_33: 2337927699582946189
+      RA_Ground_Tiles_Unity_34: -166666059521069516
+      RA_Ground_Tiles_Unity_35: -733193452882543663
+      RA_Ground_Tiles_Unity_36: 7744921140785728826
+      RA_Ground_Tiles_Unity_37: 2704043440906588621
+      RA_Ground_Tiles_Unity_38: 2710525573401466026
+      RA_Ground_Tiles_Unity_39: 417305002735771455
+      RA_Ground_Tiles_Unity_4: -6390283319969146832
+      RA_Ground_Tiles_Unity_40: 5613029229784469358
+      RA_Ground_Tiles_Unity_41: 8633547182164191470
+      RA_Ground_Tiles_Unity_42: 7666642718768049017
+      RA_Ground_Tiles_Unity_43: 6143049666659136296
+      RA_Ground_Tiles_Unity_44: 6971556742453385912
+      RA_Ground_Tiles_Unity_45: 776557868558628576
+      RA_Ground_Tiles_Unity_46: -2163870378203337034
+      RA_Ground_Tiles_Unity_47: -693983770099870752
+      RA_Ground_Tiles_Unity_48: 134413569093397886
+      RA_Ground_Tiles_Unity_49: -132693613133577976
+      RA_Ground_Tiles_Unity_5: -3679649979590311963
+      RA_Ground_Tiles_Unity_50: -818759973129897520
+      RA_Ground_Tiles_Unity_51: 747119564076959794
+      RA_Ground_Tiles_Unity_52: 2348450329594595208
+      RA_Ground_Tiles_Unity_53: 5307230141440730141
+      RA_Ground_Tiles_Unity_54: 1393626482778812211
+      RA_Ground_Tiles_Unity_55: -4021764493766527440
+      RA_Ground_Tiles_Unity_56: 4343736056460847489
+      RA_Ground_Tiles_Unity_57: 795828648824505072
+      RA_Ground_Tiles_Unity_58: 6983205213982440562
+      RA_Ground_Tiles_Unity_59: -9143090856697078687
+      RA_Ground_Tiles_Unity_6: 3083992795142175365
+      RA_Ground_Tiles_Unity_60: -5672059939194223218
+      RA_Ground_Tiles_Unity_61: 7994251883682367105
+      RA_Ground_Tiles_Unity_62: 1320652624340053262
+      RA_Ground_Tiles_Unity_63: 3865469078121963311
+      RA_Ground_Tiles_Unity_64: -916042393390281730
+      RA_Ground_Tiles_Unity_65: -8732971789906417819
+      RA_Ground_Tiles_Unity_66: -7579646439539034229
+      RA_Ground_Tiles_Unity_67: 6823551478901466519
+      RA_Ground_Tiles_Unity_68: 122785735995068161
+      RA_Ground_Tiles_Unity_69: -670712412710433881
+      RA_Ground_Tiles_Unity_7: 3250683338919309755
+      RA_Ground_Tiles_Unity_70: -1691401268220480811
+      RA_Ground_Tiles_Unity_71: -37499633834266793
+      RA_Ground_Tiles_Unity_8: -7193440112530116318
+      RA_Ground_Tiles_Unity_9: -2098003257705312354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

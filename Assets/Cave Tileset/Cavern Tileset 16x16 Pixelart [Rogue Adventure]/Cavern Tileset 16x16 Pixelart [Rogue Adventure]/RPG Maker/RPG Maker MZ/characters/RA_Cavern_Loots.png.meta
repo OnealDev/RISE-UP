@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 64bf1e634273d5d4b85fbfef5defe6ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2066736689177673319
+    second: RA_Cavern_Loots_0
+  - first:
+      213: 2653034119659524035
+    second: RA_Cavern_Loots_1
+  - first:
+      213: -5090354157769695923
+    second: RA_Cavern_Loots_2
+  - first:
+      213: -154253865623245479
+    second: RA_Cavern_Loots_3
+  - first:
+      213: -5016292351609493360
+    second: RA_Cavern_Loots_4
+  - first:
+      213: -3757589112580715767
+    second: RA_Cavern_Loots_5
+  - first:
+      213: -4275496227906883334
+    second: RA_Cavern_Loots_6
+  - first:
+      213: 5126546797468778570
+    second: RA_Cavern_Loots_7
+  - first:
+      213: -2411098049108559134
+    second: RA_Cavern_Loots_8
+  - first:
+      213: 7541598714240405157
+    second: RA_Cavern_Loots_9
+  - first:
+      213: -4291706091897803234
+    second: RA_Cavern_Loots_10
+  - first:
+      213: 7141790768704508305
+    second: RA_Cavern_Loots_11
+  - first:
+      213: -1371504671389630660
+    second: RA_Cavern_Loots_12
+  - first:
+      213: 4729438313661749195
+    second: RA_Cavern_Loots_13
+  - first:
+      213: 6639196577718046071
+    second: RA_Cavern_Loots_14
+  - first:
+      213: 3668760896486363775
+    second: RA_Cavern_Loots_15
+  - first:
+      213: -7531967730695592741
+    second: RA_Cavern_Loots_16
+  - first:
+      213: -5048592691370873626
+    second: RA_Cavern_Loots_17
+  - first:
+      213: -5258791258266127284
+    second: RA_Cavern_Loots_18
+  - first:
+      213: -4166027005150551523
+    second: RA_Cavern_Loots_19
+  - first:
+      213: -963783818650301656
+    second: RA_Cavern_Loots_20
+  - first:
+      213: 2278864500473406230
+    second: RA_Cavern_Loots_21
+  - first:
+      213: 5161575024761959815
+    second: RA_Cavern_Loots_22
+  - first:
+      213: -8440808332705244751
+    second: RA_Cavern_Loots_23
+  - first:
+      213: -6031781466137855026
+    second: RA_Cavern_Loots_24
+  - first:
+      213: 2986352510854057638
+    second: RA_Cavern_Loots_25
+  - first:
+      213: 6252614044697414971
+    second: RA_Cavern_Loots_26
+  - first:
+      213: 3490415910135313807
+    second: RA_Cavern_Loots_27
+  - first:
+      213: -6318524552088503043
+    second: RA_Cavern_Loots_28
+  - first:
+      213: -9101670968216069167
+    second: RA_Cavern_Loots_29
+  - first:
+      213: -2483620843619568547
+    second: RA_Cavern_Loots_30
+  - first:
+      213: 1362037687547446471
+    second: RA_Cavern_Loots_31
+  - first:
+      213: -5578781178755246861
+    second: RA_Cavern_Loots_32
+  - first:
+      213: -3793458643562836727
+    second: RA_Cavern_Loots_33
+  - first:
+      213: 3270658509396540459
+    second: RA_Cavern_Loots_34
+  - first:
+      213: 6118303917586803236
+    second: RA_Cavern_Loots_35
+  - first:
+      213: 8360191893950911800
+    second: RA_Cavern_Loots_36
+  - first:
+      213: 4937997246310077654
+    second: RA_Cavern_Loots_37
+  - first:
+      213: 7777060922689488829
+    second: RA_Cavern_Loots_38
+  - first:
+      213: -4086993534529730576
+    second: RA_Cavern_Loots_39
+  - first:
+      213: 3271847253761568503
+    second: RA_Cavern_Loots_40
+  - first:
+      213: 8800551898684749883
+    second: RA_Cavern_Loots_41
+  - first:
+      213: 3791599902867807665
+    second: RA_Cavern_Loots_42
+  - first:
+      213: 925969662746896624
+    second: RA_Cavern_Loots_43
+  - first:
+      213: 232909061734236104
+    second: RA_Cavern_Loots_44
+  - first:
+      213: -1245033220090047977
+    second: RA_Cavern_Loots_45
+  - first:
+      213: 7951290567363303550
+    second: RA_Cavern_Loots_46
+  - first:
+      213: -8128693773368116179
+    second: RA_Cavern_Loots_47
+  - first:
+      213: 4123631391035085710
+    second: RA_Cavern_Loots_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9914c456ee97153e0800000000000000
+      internalID: -2066736689177673319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 341
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf0c47b97871d420800000000000000
+      internalID: 2653034119659524035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 341
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d54350ddd6b59b0800000000000000
+      internalID: -5090354157769695923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 341
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dab4e2deafbddf0800000000000000
+      internalID: -154253865623245479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 341
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098aec40fac826ab0800000000000000
+      internalID: -5016292351609493360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 341
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b40c45c9c5adbc0800000000000000
+      internalID: -3757589112580715767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 341
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0761155d26aa4c0800000000000000
+      internalID: -4275496227906883334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 341
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a400b839627252740800000000000000
+      internalID: 5126546797468778570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 341
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea3f30591f0a8ed0800000000000000
+      internalID: -2411098049108559134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae87d0d21429a860800000000000000
+      internalID: 7541598714240405157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e2d004c0cc074c0800000000000000
+      internalID: -4291706091897803234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191dbc48ddcbc1360800000000000000
+      internalID: 7141790768704508305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 293
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f380694cf67fce0800000000000000
+      internalID: -1371504671389630660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 293
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc75ee0b61752a140800000000000000
+      internalID: 4729438313661749195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 293
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8fd88c1a232c50800000000000000
+      internalID: 6639196577718046071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 293
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d9e0f89e0ae230800000000000000
+      internalID: 3668760896486363775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 293
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd42f284143197790800000000000000
+      internalID: -7531967730695592741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 293
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eca43f12bbcfe9b0800000000000000
+      internalID: -5048592691370873626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 293
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c443e1f76350507b0800000000000000
+      internalID: -5258791258266127284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 293
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d122159e28c4f26c0800000000000000
+      internalID: -4166027005150551523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 293
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b441929b3ff92f0800000000000000
+      internalID: -963783818650301656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 293
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61327f1703720af10800000000000000
+      internalID: 2278864500473406230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 293
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785f678432991a740800000000000000
+      internalID: 5161575024761959815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 293
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b952ffea893cda80800000000000000
+      internalID: -8440808332705244751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb711cd6beca4ca0800000000000000
+      internalID: -6031781466137855026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 245
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4d8749c7a17920800000000000000
+      internalID: 2986352510854057638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 245
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dcecb885fb5c650800000000000000
+      internalID: 6252614044697414971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 245
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85bcf9f6c2707030800000000000000
+      internalID: 3490415910135313807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 245
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc3e2895671058a0800000000000000
+      internalID: -6318524552088503043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 245
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbdef42a7e50b180800000000000000
+      internalID: -9101670968216069167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 245
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54bc436008688dd0800000000000000
+      internalID: -2483620843619568547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 245
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4c5f87f0ee6e210800000000000000
+      internalID: 1362037687547446471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 245
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f498a853103492b0800000000000000
+      internalID: -5578781178755246861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 245
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d4d48567dea5bc0800000000000000
+      internalID: -3793458643562836727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 245
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c703ae596b36d20800000000000000
+      internalID: 3270658509396540459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 245
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a64a33ff498e450800000000000000
+      internalID: 6118303917586803236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 197
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8355b0dbb3e550470800000000000000
+      internalID: 8360191893950911800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 197
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d45b28355a478440800000000000000
+      internalID: 4937997246310077654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 197
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db78a7d54bbadeb60800000000000000
+      internalID: 7777060922689488829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 197
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7890fb8051847c0800000000000000
+      internalID: -4086993534529730576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 197
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feabc70ebfe76d20800000000000000
+      internalID: 3271847253761568503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 197
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b387e741357d12a70800000000000000
+      internalID: 8800551898684749883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 197
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd57dcd5087e9430800000000000000
+      internalID: 3791599902867807665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 197
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f821d49084b9dc00800000000000000
+      internalID: 925969662746896624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 197
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf73a1ce857b3300800000000000000
+      internalID: 232909061734236104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_45
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 197
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d8fef1e0c8bee0800000000000000
+      internalID: -1245033220090047977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 197
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e789a9da4a8a85e60800000000000000
+      internalID: 7951290567363303550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 197
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cb67ea414113f80800000000000000
+      internalID: -8128693773368116179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Loots_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83db47f6e41a3930800000000000000
+      internalID: 4123631391035085710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RA_Cavern_Loots_0: -2066736689177673319
+      RA_Cavern_Loots_1: 2653034119659524035
+      RA_Cavern_Loots_10: -4291706091897803234
+      RA_Cavern_Loots_11: 7141790768704508305
+      RA_Cavern_Loots_12: -1371504671389630660
+      RA_Cavern_Loots_13: 4729438313661749195
+      RA_Cavern_Loots_14: 6639196577718046071
+      RA_Cavern_Loots_15: 3668760896486363775
+      RA_Cavern_Loots_16: -7531967730695592741
+      RA_Cavern_Loots_17: -5048592691370873626
+      RA_Cavern_Loots_18: -5258791258266127284
+      RA_Cavern_Loots_19: -4166027005150551523
+      RA_Cavern_Loots_2: -5090354157769695923
+      RA_Cavern_Loots_20: -963783818650301656
+      RA_Cavern_Loots_21: 2278864500473406230
+      RA_Cavern_Loots_22: 5161575024761959815
+      RA_Cavern_Loots_23: -8440808332705244751
+      RA_Cavern_Loots_24: -6031781466137855026
+      RA_Cavern_Loots_25: 2986352510854057638
+      RA_Cavern_Loots_26: 6252614044697414971
+      RA_Cavern_Loots_27: 3490415910135313807
+      RA_Cavern_Loots_28: -6318524552088503043
+      RA_Cavern_Loots_29: -9101670968216069167
+      RA_Cavern_Loots_3: -154253865623245479
+      RA_Cavern_Loots_30: -2483620843619568547
+      RA_Cavern_Loots_31: 1362037687547446471
+      RA_Cavern_Loots_32: -5578781178755246861
+      RA_Cavern_Loots_33: -3793458643562836727
+      RA_Cavern_Loots_34: 3270658509396540459
+      RA_Cavern_Loots_35: 6118303917586803236
+      RA_Cavern_Loots_36: 8360191893950911800
+      RA_Cavern_Loots_37: 4937997246310077654
+      RA_Cavern_Loots_38: 7777060922689488829
+      RA_Cavern_Loots_39: -4086993534529730576
+      RA_Cavern_Loots_4: -5016292351609493360
+      RA_Cavern_Loots_40: 3271847253761568503
+      RA_Cavern_Loots_41: 8800551898684749883
+      RA_Cavern_Loots_42: 3791599902867807665
+      RA_Cavern_Loots_43: 925969662746896624
+      RA_Cavern_Loots_44: 232909061734236104
+      RA_Cavern_Loots_45: -1245033220090047977
+      RA_Cavern_Loots_46: 7951290567363303550
+      RA_Cavern_Loots_47: -8128693773368116179
+      RA_Cavern_Loots_48: 4123631391035085710
+      RA_Cavern_Loots_5: -3757589112580715767
+      RA_Cavern_Loots_6: -4275496227906883334
+      RA_Cavern_Loots_7: 5126546797468778570
+      RA_Cavern_Loots_8: -2411098049108559134
+      RA_Cavern_Loots_9: 7541598714240405157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

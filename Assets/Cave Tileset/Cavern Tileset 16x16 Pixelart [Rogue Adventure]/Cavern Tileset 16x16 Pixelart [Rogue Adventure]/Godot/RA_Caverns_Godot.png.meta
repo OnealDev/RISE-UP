@@ -1,0 +1,5938 @@
+fileFormatVersion: 2
+guid: 9396954adbe524f4eb05b62c861c975b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1358854039798739626
+    second: RA_Caverns_Godot_0
+  - first:
+      213: -4811744465145144016
+    second: RA_Caverns_Godot_1
+  - first:
+      213: -3962282901010907848
+    second: RA_Caverns_Godot_2
+  - first:
+      213: -7834418872202045515
+    second: RA_Caverns_Godot_3
+  - first:
+      213: -4754454235858620428
+    second: RA_Caverns_Godot_4
+  - first:
+      213: -9142830759253819016
+    second: RA_Caverns_Godot_5
+  - first:
+      213: -4552739652761865267
+    second: RA_Caverns_Godot_6
+  - first:
+      213: -8642817111427705969
+    second: RA_Caverns_Godot_7
+  - first:
+      213: -8307157521146397146
+    second: RA_Caverns_Godot_8
+  - first:
+      213: -6497798350206928960
+    second: RA_Caverns_Godot_9
+  - first:
+      213: 366704866548434473
+    second: RA_Caverns_Godot_10
+  - first:
+      213: -5141332705179912053
+    second: RA_Caverns_Godot_11
+  - first:
+      213: -3671472782038173412
+    second: RA_Caverns_Godot_12
+  - first:
+      213: 337062679917271958
+    second: RA_Caverns_Godot_13
+  - first:
+      213: 535884088228293603
+    second: RA_Caverns_Godot_14
+  - first:
+      213: -2534662237532629818
+    second: RA_Caverns_Godot_15
+  - first:
+      213: -6396270416605409280
+    second: RA_Caverns_Godot_16
+  - first:
+      213: -3278946311644714036
+    second: RA_Caverns_Godot_17
+  - first:
+      213: -5223086794143253164
+    second: RA_Caverns_Godot_18
+  - first:
+      213: -2212319376507544214
+    second: RA_Caverns_Godot_19
+  - first:
+      213: 644921184733632402
+    second: RA_Caverns_Godot_20
+  - first:
+      213: 4331209988418787896
+    second: RA_Caverns_Godot_21
+  - first:
+      213: 5396745714527947828
+    second: RA_Caverns_Godot_22
+  - first:
+      213: 2139619264610337855
+    second: RA_Caverns_Godot_23
+  - first:
+      213: -1011587617890562834
+    second: RA_Caverns_Godot_24
+  - first:
+      213: 1145203770247423906
+    second: RA_Caverns_Godot_25
+  - first:
+      213: -5428549161826280803
+    second: RA_Caverns_Godot_26
+  - first:
+      213: -2649010695421948174
+    second: RA_Caverns_Godot_27
+  - first:
+      213: -664969829345976726
+    second: RA_Caverns_Godot_28
+  - first:
+      213: -2379016698478589621
+    second: RA_Caverns_Godot_29
+  - first:
+      213: 6680621662683626684
+    second: RA_Caverns_Godot_30
+  - first:
+      213: -2930516686798009956
+    second: RA_Caverns_Godot_31
+  - first:
+      213: -4971464935489019317
+    second: RA_Caverns_Godot_32
+  - first:
+      213: -5801065452064433052
+    second: RA_Caverns_Godot_33
+  - first:
+      213: -5226077575739487380
+    second: RA_Caverns_Godot_34
+  - first:
+      213: 1012650948115960008
+    second: RA_Caverns_Godot_35
+  - first:
+      213: 8067763376603190006
+    second: RA_Caverns_Godot_36
+  - first:
+      213: -4397231206473253171
+    second: RA_Caverns_Godot_37
+  - first:
+      213: 5119246419024121180
+    second: RA_Caverns_Godot_38
+  - first:
+      213: -1978465405598117361
+    second: RA_Caverns_Godot_39
+  - first:
+      213: -4774292149729210906
+    second: RA_Caverns_Godot_40
+  - first:
+      213: -7986798861112416865
+    second: RA_Caverns_Godot_41
+  - first:
+      213: -6219936150275423510
+    second: RA_Caverns_Godot_42
+  - first:
+      213: -7248754076940824087
+    second: RA_Caverns_Godot_43
+  - first:
+      213: 6348393483853924400
+    second: RA_Caverns_Godot_44
+  - first:
+      213: 6117918330026170411
+    second: RA_Caverns_Godot_45
+  - first:
+      213: -5825771771922573686
+    second: RA_Caverns_Godot_46
+  - first:
+      213: -1932856209763082403
+    second: RA_Caverns_Godot_47
+  - first:
+      213: 6168840798111341072
+    second: RA_Caverns_Godot_48
+  - first:
+      213: -9104838920011015736
+    second: RA_Caverns_Godot_49
+  - first:
+      213: -3829037695549203179
+    second: RA_Caverns_Godot_50
+  - first:
+      213: -3333788005418123011
+    second: RA_Caverns_Godot_51
+  - first:
+      213: 218330518576221342
+    second: RA_Caverns_Godot_52
+  - first:
+      213: -1173397032051726146
+    second: RA_Caverns_Godot_53
+  - first:
+      213: -4273087160027434780
+    second: RA_Caverns_Godot_54
+  - first:
+      213: 3185284603251910591
+    second: RA_Caverns_Godot_55
+  - first:
+      213: 1067532384059317061
+    second: RA_Caverns_Godot_56
+  - first:
+      213: 4730635048442674613
+    second: RA_Caverns_Godot_57
+  - first:
+      213: -943773828129815311
+    second: RA_Caverns_Godot_58
+  - first:
+      213: 2628199879201108627
+    second: RA_Caverns_Godot_59
+  - first:
+      213: -6403197708266006220
+    second: RA_Caverns_Godot_60
+  - first:
+      213: -67537588979087872
+    second: RA_Caverns_Godot_61
+  - first:
+      213: -6381263958787252032
+    second: RA_Caverns_Godot_62
+  - first:
+      213: -9084220173742279848
+    second: RA_Caverns_Godot_63
+  - first:
+      213: 1699328844463124281
+    second: RA_Caverns_Godot_64
+  - first:
+      213: -1411115610648987617
+    second: RA_Caverns_Godot_65
+  - first:
+      213: 1168349586969816161
+    second: RA_Caverns_Godot_66
+  - first:
+      213: -183786976863276136
+    second: RA_Caverns_Godot_67
+  - first:
+      213: -8550030721751069240
+    second: RA_Caverns_Godot_68
+  - first:
+      213: 5294689214604864611
+    second: RA_Caverns_Godot_69
+  - first:
+      213: -2724248382778842226
+    second: RA_Caverns_Godot_70
+  - first:
+      213: 4892765608768751061
+    second: RA_Caverns_Godot_71
+  - first:
+      213: -253193218744899236
+    second: RA_Caverns_Godot_72
+  - first:
+      213: -8122197805563749375
+    second: RA_Caverns_Godot_73
+  - first:
+      213: 1114884409958327049
+    second: RA_Caverns_Godot_74
+  - first:
+      213: 3244069532912396017
+    second: RA_Caverns_Godot_75
+  - first:
+      213: -6557557582000218108
+    second: RA_Caverns_Godot_76
+  - first:
+      213: -7858377060040400052
+    second: RA_Caverns_Godot_77
+  - first:
+      213: 2304355698569504637
+    second: RA_Caverns_Godot_78
+  - first:
+      213: -4124293368249122939
+    second: RA_Caverns_Godot_79
+  - first:
+      213: -5500763167397594195
+    second: RA_Caverns_Godot_80
+  - first:
+      213: -216143828385997941
+    second: RA_Caverns_Godot_81
+  - first:
+      213: 9156663041736036977
+    second: RA_Caverns_Godot_82
+  - first:
+      213: -3266083551746845876
+    second: RA_Caverns_Godot_83
+  - first:
+      213: 4195911166672995524
+    second: RA_Caverns_Godot_84
+  - first:
+      213: -1612770145963136426
+    second: RA_Caverns_Godot_85
+  - first:
+      213: -4726335857395023829
+    second: RA_Caverns_Godot_86
+  - first:
+      213: -2104785964141663423
+    second: RA_Caverns_Godot_87
+  - first:
+      213: 141678224708998368
+    second: RA_Caverns_Godot_88
+  - first:
+      213: 4498162522529584987
+    second: RA_Caverns_Godot_89
+  - first:
+      213: 8099024157967788497
+    second: RA_Caverns_Godot_90
+  - first:
+      213: -5867840964008998089
+    second: RA_Caverns_Godot_91
+  - first:
+      213: -3767335717222351469
+    second: RA_Caverns_Godot_92
+  - first:
+      213: 2345506361265123662
+    second: RA_Caverns_Godot_93
+  - first:
+      213: 8861455534366300999
+    second: RA_Caverns_Godot_94
+  - first:
+      213: 1211628019917447711
+    second: RA_Caverns_Godot_95
+  - first:
+      213: 5499188736328002328
+    second: RA_Caverns_Godot_96
+  - first:
+      213: 4408766620321679492
+    second: RA_Caverns_Godot_97
+  - first:
+      213: 3880545505053017343
+    second: RA_Caverns_Godot_98
+  - first:
+      213: 8947300012490250778
+    second: RA_Caverns_Godot_99
+  - first:
+      213: 8461835631851703751
+    second: RA_Caverns_Godot_100
+  - first:
+      213: 7624416664657082408
+    second: RA_Caverns_Godot_101
+  - first:
+      213: 2465323025518591218
+    second: RA_Caverns_Godot_102
+  - first:
+      213: 7843064024653786575
+    second: RA_Caverns_Godot_103
+  - first:
+      213: -1795395026933442909
+    second: RA_Caverns_Godot_104
+  - first:
+      213: 8802527151046747767
+    second: RA_Caverns_Godot_105
+  - first:
+      213: -7839608615560730771
+    second: RA_Caverns_Godot_106
+  - first:
+      213: 2895002364932876037
+    second: RA_Caverns_Godot_107
+  - first:
+      213: -3964748228329326885
+    second: RA_Caverns_Godot_108
+  - first:
+      213: 6202605851151312028
+    second: RA_Caverns_Godot_109
+  - first:
+      213: -4227227583489456163
+    second: RA_Caverns_Godot_110
+  - first:
+      213: 1908045501533530350
+    second: RA_Caverns_Godot_111
+  - first:
+      213: -4007988957045751958
+    second: RA_Caverns_Godot_112
+  - first:
+      213: -1860657782412185523
+    second: RA_Caverns_Godot_113
+  - first:
+      213: -5629210841873497328
+    second: RA_Caverns_Godot_114
+  - first:
+      213: 2941163723180665739
+    second: RA_Caverns_Godot_115
+  - first:
+      213: 6691203278506215475
+    second: RA_Caverns_Godot_116
+  - first:
+      213: -6212353737562212538
+    second: RA_Caverns_Godot_117
+  - first:
+      213: -4991901688596552009
+    second: RA_Caverns_Godot_118
+  - first:
+      213: 8386502587534003418
+    second: RA_Caverns_Godot_119
+  - first:
+      213: -6654405043419516956
+    second: RA_Caverns_Godot_120
+  - first:
+      213: -8933318459695097080
+    second: RA_Caverns_Godot_121
+  - first:
+      213: -4108092793196102410
+    second: RA_Caverns_Godot_122
+  - first:
+      213: 2756149892946712917
+    second: RA_Caverns_Godot_123
+  - first:
+      213: 2386320603505938012
+    second: RA_Caverns_Godot_124
+  - first:
+      213: 6133352978093800368
+    second: RA_Caverns_Godot_125
+  - first:
+      213: -2947265664307573285
+    second: RA_Caverns_Godot_126
+  - first:
+      213: -3734377140575775839
+    second: RA_Caverns_Godot_127
+  - first:
+      213: 3655223609812235016
+    second: RA_Caverns_Godot_128
+  - first:
+      213: 6280504170049119285
+    second: RA_Caverns_Godot_129
+  - first:
+      213: -5757498292561990667
+    second: RA_Caverns_Godot_130
+  - first:
+      213: 1319461132525591129
+    second: RA_Caverns_Godot_131
+  - first:
+      213: -8329293148315986833
+    second: RA_Caverns_Godot_132
+  - first:
+      213: 2901921840543327923
+    second: RA_Caverns_Godot_133
+  - first:
+      213: 1432583528807631177
+    second: RA_Caverns_Godot_134
+  - first:
+      213: -7253609024281184583
+    second: RA_Caverns_Godot_135
+  - first:
+      213: 85386723910229626
+    second: RA_Caverns_Godot_136
+  - first:
+      213: 1861034644478458844
+    second: RA_Caverns_Godot_137
+  - first:
+      213: 1248144310400872499
+    second: RA_Caverns_Godot_138
+  - first:
+      213: -7525674284510263661
+    second: RA_Caverns_Godot_139
+  - first:
+      213: 6770791137558198805
+    second: RA_Caverns_Godot_140
+  - first:
+      213: -4581398674566469364
+    second: RA_Caverns_Godot_141
+  - first:
+      213: -4217844986296576808
+    second: RA_Caverns_Godot_142
+  - first:
+      213: 7579076840736990997
+    second: RA_Caverns_Godot_143
+  - first:
+      213: 2904833004236472621
+    second: RA_Caverns_Godot_144
+  - first:
+      213: 8571056330685009542
+    second: RA_Caverns_Godot_145
+  - first:
+      213: -2126588766141838595
+    second: RA_Caverns_Godot_146
+  - first:
+      213: -768236847289437900
+    second: RA_Caverns_Godot_147
+  - first:
+      213: 1758362733956805705
+    second: RA_Caverns_Godot_148
+  - first:
+      213: 816289050524462673
+    second: RA_Caverns_Godot_149
+  - first:
+      213: -3479639125515407856
+    second: RA_Caverns_Godot_150
+  - first:
+      213: 2669913391918914227
+    second: RA_Caverns_Godot_151
+  - first:
+      213: 2269599051229616314
+    second: RA_Caverns_Godot_152
+  - first:
+      213: 7338195669792620448
+    second: RA_Caverns_Godot_153
+  - first:
+      213: 5893966017120852448
+    second: RA_Caverns_Godot_154
+  - first:
+      213: -2774419852190605208
+    second: RA_Caverns_Godot_155
+  - first:
+      213: 7124033697111148032
+    second: RA_Caverns_Godot_156
+  - first:
+      213: -606341523195322406
+    second: RA_Caverns_Godot_157
+  - first:
+      213: 7520294468386947378
+    second: RA_Caverns_Godot_158
+  - first:
+      213: 4374778236352677290
+    second: RA_Caverns_Godot_159
+  - first:
+      213: -2951975688415609159
+    second: RA_Caverns_Godot_160
+  - first:
+      213: 8546155522672878343
+    second: RA_Caverns_Godot_161
+  - first:
+      213: -4851956820289371068
+    second: RA_Caverns_Godot_162
+  - first:
+      213: -3436582725627386913
+    second: RA_Caverns_Godot_163
+  - first:
+      213: -4476607302612529341
+    second: RA_Caverns_Godot_164
+  - first:
+      213: -6315974288931812234
+    second: RA_Caverns_Godot_165
+  - first:
+      213: 6783765667334751552
+    second: RA_Caverns_Godot_166
+  - first:
+      213: 9046442105081377140
+    second: RA_Caverns_Godot_167
+  - first:
+      213: -6071874304425927406
+    second: RA_Caverns_Godot_168
+  - first:
+      213: -6520135512236075645
+    second: RA_Caverns_Godot_169
+  - first:
+      213: -3636703120247091431
+    second: RA_Caverns_Godot_170
+  - first:
+      213: -7136073219914758431
+    second: RA_Caverns_Godot_171
+  - first:
+      213: -6830979370147919373
+    second: RA_Caverns_Godot_172
+  - first:
+      213: 8357062271924738083
+    second: RA_Caverns_Godot_173
+  - first:
+      213: 4864304488624089721
+    second: RA_Caverns_Godot_174
+  - first:
+      213: -7989935671693764959
+    second: RA_Caverns_Godot_175
+  - first:
+      213: -4049834256748748312
+    second: RA_Caverns_Godot_176
+  - first:
+      213: -3625835153967199696
+    second: RA_Caverns_Godot_177
+  - first:
+      213: 4283161559798643966
+    second: RA_Caverns_Godot_178
+  - first:
+      213: 1390379697366897990
+    second: RA_Caverns_Godot_179
+  - first:
+      213: 1074731090759280795
+    second: RA_Caverns_Godot_180
+  - first:
+      213: 6852436126197728436
+    second: RA_Caverns_Godot_181
+  - first:
+      213: -3584388066615895276
+    second: RA_Caverns_Godot_182
+  - first:
+      213: -4357357529301321616
+    second: RA_Caverns_Godot_183
+  - first:
+      213: 7394407056305124874
+    second: RA_Caverns_Godot_184
+  - first:
+      213: 5345052662702481569
+    second: RA_Caverns_Godot_185
+  - first:
+      213: -4448522498798276203
+    second: RA_Caverns_Godot_186
+  - first:
+      213: -4377538259884598621
+    second: RA_Caverns_Godot_187
+  - first:
+      213: 2468416604699016521
+    second: RA_Caverns_Godot_188
+  - first:
+      213: -2857637693421409672
+    second: RA_Caverns_Godot_189
+  - first:
+      213: 3407137946377448816
+    second: RA_Caverns_Godot_190
+  - first:
+      213: 8246776969773569574
+    second: RA_Caverns_Godot_191
+  - first:
+      213: 989880779742725022
+    second: RA_Caverns_Godot_192
+  - first:
+      213: 3946338016116093615
+    second: RA_Caverns_Godot_193
+  - first:
+      213: 147744630688617585
+    second: RA_Caverns_Godot_194
+  - first:
+      213: -3472218627617986636
+    second: RA_Caverns_Godot_195
+  - first:
+      213: -6420300715497418844
+    second: RA_Caverns_Godot_196
+  - first:
+      213: -5132565133191125683
+    second: RA_Caverns_Godot_197
+  - first:
+      213: 5668609618262475453
+    second: RA_Caverns_Godot_198
+  - first:
+      213: -298323285230385348
+    second: RA_Caverns_Godot_199
+  - first:
+      213: -6092291995940807356
+    second: RA_Caverns_Godot_200
+  - first:
+      213: 2809861964071365092
+    second: RA_Caverns_Godot_201
+  - first:
+      213: -2605578727844240639
+    second: RA_Caverns_Godot_202
+  - first:
+      213: 7695112548034495043
+    second: RA_Caverns_Godot_203
+  - first:
+      213: 3504068377098268784
+    second: RA_Caverns_Godot_204
+  - first:
+      213: 6255309483711893620
+    second: RA_Caverns_Godot_205
+  - first:
+      213: 3753224586015168059
+    second: RA_Caverns_Godot_206
+  - first:
+      213: 6168089883768403064
+    second: RA_Caverns_Godot_207
+  - first:
+      213: 824365882726007510
+    second: RA_Caverns_Godot_208
+  - first:
+      213: -5648500242577942538
+    second: RA_Caverns_Godot_209
+  - first:
+      213: 716868446593733970
+    second: RA_Caverns_Godot_210
+  - first:
+      213: 3562987629016482692
+    second: RA_Caverns_Godot_211
+  - first:
+      213: 6728115152535162525
+    second: RA_Caverns_Godot_212
+  - first:
+      213: -7726770408878317128
+    second: RA_Caverns_Godot_213
+  - first:
+      213: 119196659283661161
+    second: RA_Caverns_Godot_214
+  - first:
+      213: 6126200957145483763
+    second: RA_Caverns_Godot_215
+  - first:
+      213: -367362775387480427
+    second: RA_Caverns_Godot_216
+  - first:
+      213: -5259506327135385491
+    second: RA_Caverns_Godot_217
+  - first:
+      213: 1105132516213877434
+    second: RA_Caverns_Godot_218
+  - first:
+      213: -2980048631679805869
+    second: RA_Caverns_Godot_219
+  - first:
+      213: -7387008927906271698
+    second: RA_Caverns_Godot_220
+  - first:
+      213: 8662699573731051832
+    second: RA_Caverns_Godot_221
+  - first:
+      213: -4554144007356453721
+    second: RA_Caverns_Godot_222
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 321
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d01384371642de0800000000000000
+      internalID: -1358854039798739626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 884
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d521517ef393db0800000000000000
+      internalID: -4811744465145144016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 865
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83df3a1d1b42309c0800000000000000
+      internalID: -3962282901010907848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 865
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d7c45b8d864390800000000000000
+      internalID: -7834418872202045515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 865
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffabca0019c40eb0800000000000000
+      internalID: -4754454235858620428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 865
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87149218dd32e1180800000000000000
+      internalID: -9142830759253819016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc33b42486b61d0c0800000000000000
+      internalID: -4552739652761865267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f831fa6f0ab8e0880800000000000000
+      internalID: -8642817111427705969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ebada6f3c07bc80800000000000000
+      internalID: -8307157521146397146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 864
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7fbc9c3de23d5a0800000000000000
+      internalID: -6497798350206928960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 872
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c60c122cc61500800000000000000
+      internalID: 366704866548434473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8837a3052156a8b0800000000000000
+      internalID: -5141332705179912053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 831
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19791005fe4c0dc0800000000000000
+      internalID: -3671472782038173412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 832
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9287b8bc7da400800000000000000
+      internalID: 337062679917271958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 832
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eba1af2db7df6700800000000000000
+      internalID: 535884088228293603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 832
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4554acf1213dcd0800000000000000
+      internalID: -2534662237532629818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 832
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00015eae1f1eb37a0800000000000000
+      internalID: -6396270416605409280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe6d0c3b7de72d0800000000000000
+      internalID: -3278946311644714036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dbe0cdb3ed387b0800000000000000
+      internalID: -5223086794143253164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ddd899f334c41e0800000000000000
+      internalID: -2212319376507544214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971c2c866833f800800000000000000
+      internalID: 644921184733632402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 815
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a5357698c8b1c30800000000000000
+      internalID: 4331209988418787896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 799
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ccc8952a715ea40800000000000000
+      internalID: 5396745714527947828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 799
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f348ead826471bd10800000000000000
+      internalID: 2139619264610337855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec0370db6e16f1f0800000000000000
+      internalID: -1011587617890562834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 800
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a72901f2c494ef00800000000000000
+      internalID: 1145203770247423906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 769
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a999b8c4be9a4b0800000000000000
+      internalID: -5428549161826280803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 769
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe0a2dbec2dc3bd0800000000000000
+      internalID: -2649010695421948174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 767
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e1b7f967d85c6f0800000000000000
+      internalID: -664969829345976726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b490674dae80cfed0800000000000000
+      internalID: -2379016698478589621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 767
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc790bb10656bc50800000000000000
+      internalID: 6680621662683626684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 756
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99cc039996b457d0800000000000000
+      internalID: -2930516686798009956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 737
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42edda2bfec10bb0800000000000000
+      internalID: -4971464935489019317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 737
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c98eae4b97e7fa0800000000000000
+      internalID: -5801065452064433052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 737
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bc961422e3977b0800000000000000
+      internalID: -5226077575739487380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 737
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01aeb0ca8ad0e00800000000000000
+      internalID: 1012650948115960008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d652db0476ff60800000000000000
+      internalID: 8067763376603190006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce36e6e385e9f2c0800000000000000
+      internalID: -4397231206473253171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d8f93ce773b0740800000000000000
+      internalID: 5119246419024121180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 736
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02dcea22341b84e0800000000000000
+      internalID: -1978465405598117361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed4479c59e4ebdb0800000000000000
+      internalID: -4774292149729210906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_41
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9566ee60c0392190800000000000000
+      internalID: -7986798861112416865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 703
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae20935a6095ea9a0800000000000000
+      internalID: -6219936150275423510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_43
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 704
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e117c39290476b90800000000000000
+      internalID: -7248754076940824087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_44
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 704
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03884830d360a1850800000000000000
+      internalID: 6348393483853924400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 704
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b289f0a9e4637e450800000000000000
+      internalID: 6117918330026170411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 704
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a869e009073b62fa0800000000000000
+      internalID: -5825771771922573686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fd927948d1d25e0800000000000000
+      internalID: -1932856209763082403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a1d5f95002c9550800000000000000
+      internalID: 6168840798111341072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c99793ed3d15a180800000000000000
+      internalID: -9104838920011015736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d9535c0868cdac0800000000000000
+      internalID: -3829037695549203179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 687
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df04894e8710cb1d0800000000000000
+      internalID: -3333788005418123011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 671
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ccc5b237aa70300800000000000000
+      internalID: 218330518576221342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 671
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb82f04cd9147bfe0800000000000000
+      internalID: -1173397032051726146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e038442ed1f2b4c0800000000000000
+      internalID: -4273087160027434780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 672
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e9556877643c20800000000000000
+      internalID: 3185284603251910591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd41a1c03a0de00800000000000000
+      internalID: 1067532384059317061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd3078338796a140800000000000000
+      internalID: 4730635048442674613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4030224ba07e2f0800000000000000
+      internalID: -943773828129815311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392b1868ddd397420800000000000000
+      internalID: 2628199879201108627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43995342c954327a0800000000000000
+      internalID: -6403197708266006220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0064aefabee001ff0800000000000000
+      internalID: -67537588979087872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0ab762d323177a0800000000000000
+      internalID: -6381263958787252032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 575
+        width: 194
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85377aad1ed5ee180800000000000000
+      internalID: -9084220173742279848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 639
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93facc2a49a359710800000000000000
+      internalID: 1699328844463124281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_65
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 608
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18324a14d5ba6ce0800000000000000
+      internalID: -1411115610648987617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 629
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c6fc852cfc63010800000000000000
+      internalID: 1168349586969816161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 627
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b8b1e7be037df0800000000000000
+      internalID: -183786976863276136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 628
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc95bcb50385980800000000000000
+      internalID: -8550030721751069240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 629
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6d98c9c38a7940800000000000000
+      internalID: 5294689214604864611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 628
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83e8809786813ad0800000000000000
+      internalID: -2724248382778842226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c8efe56896e340800000000000000
+      internalID: 4892765608768751061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c592c29eb1a7c7cf0800000000000000
+      internalID: -253193218744899236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 617
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c5aeb0128284f80800000000000000
+      internalID: -8122197805563749375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 609
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ef25c67dd87f00800000000000000
+      internalID: 1114884409958327049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 617
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f629e76d00450d20800000000000000
+      internalID: 3244069532912396017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 608
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40025b26f10eef4a0800000000000000
+      internalID: -6557557582000218108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 617
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43a63903bf61f290800000000000000
+      internalID: -7858377060040400052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 612
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e1618c47baff10800000000000000
+      internalID: 2304355698569504637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 616
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ff204780193c6c0800000000000000
+      internalID: -4124293368249122939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 608
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb6b52b0d59a3b0800000000000000
+      internalID: -5500763167397594195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 616
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bd8a0555a100df0800000000000000
+      internalID: -216143828385997941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172df9ab580031f70800000000000000
+      internalID: 9156663041736036977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43126b605a8ca2d0800000000000000
+      internalID: -3266083551746845876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 598
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c483a6a9feda3a30800000000000000
+      internalID: 4195911166672995524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 600
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2389d81a4e99e0800000000000000
+      internalID: -1612770145963136426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 591
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2047c2349ea86eb0800000000000000
+      internalID: -4726335857395023829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bab17315c4ac2e0800000000000000
+      internalID: -2104785964141663423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41030489757f100800000000000000
+      internalID: 141678224708998368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d9516bfeac6e30800000000000000
+      internalID: 4498162522529584987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d92afaaf83856070800000000000000
+      internalID: 8099024157967788497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b02cd7bbd319ea0800000000000000
+      internalID: -5867840964008998089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 592
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39df159102cb7bbc0800000000000000
+      internalID: -3767335717222351469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 593
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4170a9cb99ec8020800000000000000
+      internalID: 2345506361265123662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_94
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 595
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b92d6cbd63afa70800000000000000
+      internalID: 8861455534366300999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 576
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12e61fb34190d010800000000000000
+      internalID: 1211628019917447711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 576
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81be8ad050b015c40800000000000000
+      internalID: 5499188736328002328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 576
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888fdde1e51f2d30800000000000000
+      internalID: 4408766620321679492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_98
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 576
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff48c6ba3977ad530800000000000000
+      internalID: 3880545505053017343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_99
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 575
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a545fd4f13b2c70800000000000000
+      internalID: 8947300012490250778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 592
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd8348acaa7e6570800000000000000
+      internalID: 8461835631851703751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_101
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 591
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82834748f8e5fc960800000000000000
+      internalID: 7624416664657082408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc70a8da36963220800000000000000
+      internalID: 2465323025518591218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 577
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd62241d2928dc60800000000000000
+      internalID: 7843064024653786575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 561
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a611244cb97517e0800000000000000
+      internalID: -1795395026933442909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_105
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 559
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7766fdb5ecbd82a70800000000000000
+      internalID: 8802527151046747767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_106
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 543
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67296b008d143390800000000000000
+      internalID: -7839608615560730771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 543
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5076db1005d1d2820800000000000000
+      internalID: 2895002364932876037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd632921e726af8c0800000000000000
+      internalID: -3964748228329326885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_109
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 544
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9422a7a825141650800000000000000
+      internalID: 6202605851151312028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 495
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7c06dd8eed555c0800000000000000
+      internalID: -4227227583489456163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_111
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 528
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8203e364dba7a10800000000000000
+      internalID: 1908045501533530350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 449
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f799f5743c068c0800000000000000
+      internalID: -4007988957045751958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4071c6ea9d9d26e0800000000000000
+      internalID: -1860657782412185523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 383
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0134a5c609601e1b0800000000000000
+      internalID: -5629210841873497328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be272c2dc11d820800000000000000
+      internalID: 2941163723180665739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_116
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 448
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ca472eedebdc50800000000000000
+      internalID: 6691203278506215475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647b88da03949c9a0800000000000000
+      internalID: -6212353737562212538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_118
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 400
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a789ccd339bab0800000000000000
+      internalID: -4991901688596552009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adccbd57ba7d26470800000000000000
+      internalID: 8386502587534003418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 405
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef696b9eddc6a3a0800000000000000
+      internalID: -6654405043419516956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_121
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 399
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b1f60113a760480800000000000000
+      internalID: -8933318459695097080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_122
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 405
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc3435ce5f1df6c0800000000000000
+      internalID: -4108092793196102410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_123
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 408
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559d1d499bfcf3620800000000000000
+      internalID: 2756149892946712917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_124
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 409
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eca2412f9ed1120800000000000000
+      internalID: 2386320603505938012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_125
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb7d55a90c0e1550800000000000000
+      internalID: 6133352978093800368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_126
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 400
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddcd3c5e753917d0800000000000000
+      internalID: -2947265664307573285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_127
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 400
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a354a6b6c3dc2cc0800000000000000
+      internalID: -3734377140575775839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_128
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 401
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ba75c186f9b230800000000000000
+      internalID: 3655223609812235016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_129
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 400
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53423226445d82750800000000000000
+      internalID: 6280504170049119285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_130
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 386
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbace4bec14910b0800000000000000
+      internalID: -5757498292561990667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a5f13c8eaaf4210800000000000000
+      internalID: 1319461132525591129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_132
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64d7881308686c80800000000000000
+      internalID: -8329293148315986833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_133
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b66887f982b54820800000000000000
+      internalID: 2901921840543327923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_134
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 392
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94987a9112f81e310800000000000000
+      internalID: 1432583528807631177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_135
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f6201601065b90800000000000000
+      internalID: -7253609024281184583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_136
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 390
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e1433e5ca5f2100800000000000000
+      internalID: 85386723910229626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_137
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb75d22629b3d910800000000000000
+      internalID: 1861034644478458844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3307ed923ac425110800000000000000
+      internalID: 1248144310400872499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_139
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 353
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39649786c1f6f8790800000000000000
+      internalID: -7525674284510263661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_140
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 353
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51af48a9aaea6fd50800000000000000
+      internalID: 6770791137558198805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 347
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c092504cd2a9b60c0800000000000000
+      internalID: -4581398674566469364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_142
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4512205543775c0800000000000000
+      internalID: -4217844986296576808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517a4812b3a4e2960800000000000000
+      internalID: 7579076840736990997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.53349876, y: 0.40351564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2188551a3a005820800000000000000
+      internalID: 2904833004236472621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_145
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 351
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ec754425282f670800000000000000
+      internalID: 8571056330685009542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 321
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa87cac8c6dc72e0800000000000000
+      internalID: -2126588766141838595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_147
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 321
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43172fd58aca655f0800000000000000
+      internalID: -768236847289437900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b7cf1795f66810800000000000000
+      internalID: 1758362733956805705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e2d8a019a045b00800000000000000
+      internalID: 816289050524462673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e6a19b6a6d5bfc0800000000000000
+      internalID: -3479639125515407856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba926a85107d0520800000000000000
+      internalID: 2669913391918914227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8da1fef4c3f7f10800000000000000
+      internalID: 2269599051229616314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_153
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af7c4e051286d560800000000000000
+      internalID: 7338195669792620448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_154
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 289
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e956b07dd29bc150800000000000000
+      internalID: 5893966017120852448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 283
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860236c08d74f79d0800000000000000
+      internalID: -2774419852190605208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006093c17e6add260800000000000000
+      internalID: 7124033697111148032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9f51e897d597f0800000000000000
+      internalID: -606341523195322406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_158
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310a8a89f37d5860800000000000000
+      internalID: 7520294468386947378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa549ec90a556bc30800000000000000
+      internalID: 4374778236352677290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 257
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bef56a60c97807d0800000000000000
+      internalID: -2951975688415609159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_161
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 257
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703e82c1b2b0a9670800000000000000
+      internalID: 8546155522672878343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4444e1d8af26aacb0800000000000000
+      internalID: -4851956820289371068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd36cb5083ece40d0800000000000000
+      internalID: -3436582725627386913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f4cd85065efd1c0800000000000000
+      internalID: -4476607302612529341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_165
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c08b109d62958a0800000000000000
+      internalID: -6315974288931812234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0458af8bee6c42e50800000000000000
+      internalID: 6783765667334751552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_167
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471338a1a2b6b8d70800000000000000
+      internalID: 9046442105081377140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_168
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 225
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dded38d7e5cbba0800000000000000
+      internalID: -6071874304425927406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 219
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38552c9fb43d385a0800000000000000
+      internalID: -6520135512236075645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0e1cb7c5d78dc0800000000000000
+      internalID: -3636703120247091431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68dcb073397fc90800000000000000
+      internalID: -7136073219914758431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9cf46747c7331a0800000000000000
+      internalID: -6830979370147919373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_173
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32894e3dbdf3af370800000000000000
+      internalID: 8357062271924738083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae6c3092b718340800000000000000
+      internalID: 4864304488624089721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_175
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6987ec6db0e1190800000000000000
+      internalID: -7989935671693764959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_176
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1684f43391cc7c0800000000000000
+      internalID: -4049834256748748312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a49a153227eadc0800000000000000
+      internalID: -3625835153967199696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcf767deb8d07b30800000000000000
+      internalID: 4283161559798643966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645187cd7fe9b4310800000000000000
+      internalID: 1390379697366897990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_180
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 351
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9866cd9b363aee00800000000000000
+      internalID: 1074731090759280795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_181
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 161
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c11cd95eb81f50800000000000000
+      internalID: 6852436126197728436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_182
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bd5385b02b14ec0800000000000000
+      internalID: -3584388066615895276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078fe92d96e8783c0800000000000000
+      internalID: -4357357529301321616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_184
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0675bb5a063e9660800000000000000
+      internalID: 7394407056305124874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_185
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a02322d3117d2a40800000000000000
+      internalID: 5345052662702481569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_186
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591bbcb4b5ca342c0800000000000000
+      internalID: -4448522498798276203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_187
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa95e4552cdf33c0800000000000000
+      internalID: -4377538259884598621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_188
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94db2c0e2d3914220800000000000000
+      internalID: 2468416604699016521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_189
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa9d288a1a758d0800000000000000
+      internalID: -2857637693421409672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_190
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 127
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de49219e5984f20800000000000000
+      internalID: 3407137946377448816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626d931f5ff627270800000000000000
+      internalID: 8246776969773569574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_192
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e934d861353ccbd00800000000000000
+      internalID: 989880779742725022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_193
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2383e548534c630800000000000000
+      internalID: 3946338016116093615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_194
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 194
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1749aa575f4ec0200800000000000000
+      internalID: 147744630688617585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_195
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e5560e8330dfc0800000000000000
+      internalID: -3472218627617986636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_196
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af0795f38286e6a0800000000000000
+      internalID: -6420300715497418844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_197
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 91
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456691743775c8b0800000000000000
+      internalID: -5132565133191125683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_198
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c5ea0a62faae40800000000000000
+      internalID: 5668609618262475453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c378d9b7d842cdbf0800000000000000
+      internalID: -298323285230385348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_200
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d1ef145b4d37ba0800000000000000
+      internalID: -6092291995940807356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_201
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9ea5ca192aef620800000000000000
+      internalID: 2809861964071365092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_202
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a784b3ff17dbd0800000000000000
+      internalID: -2605578727844240639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_203
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424f3c87188aca60800000000000000
+      internalID: 7695112548034495043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_204
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0703f95af93f0a030800000000000000
+      internalID: 3504068377098268784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47097c855d25fc650800000000000000
+      internalID: 6255309483711893620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3652b320e1261430800000000000000
+      internalID: 3753224586015168059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_207
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87432b0c115799550800000000000000
+      internalID: 6168089883768403064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_208
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 194
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2c5d4176cb07b00800000000000000
+      internalID: 824365882726007510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_209
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f71f67d4fe7c91b0800000000000000
+      internalID: -5648500242577942538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_210
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255d7e5dd04d2f900800000000000000
+      internalID: 716868446593733970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_211
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 27
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48383aefe56427130800000000000000
+      internalID: 3562987629016482692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e08ca85111f5d50800000000000000
+      internalID: 6728115152535162525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_213
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1eec5504ff4c490800000000000000
+      internalID: -7726770408878317128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_214
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9611407eab877a100800000000000000
+      internalID: 119196659283661161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_215
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 194
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f980510053a40550800000000000000
+      internalID: 6126200957145483763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_216
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed35d808dd6eaf0800000000000000
+      internalID: -367362775387480427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_217
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680d2d8cda7207b0800000000000000
+      internalID: -5259506327135385491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_218
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 194
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba69a21b28365f00800000000000000
+      internalID: 1105132516213877434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3561657fe8db4a6d0800000000000000
+      internalID: -2980048631679805869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ee183a4821c7990800000000000000
+      internalID: -7387008927906271698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_221
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ca288d57183870800000000000000
+      internalID: 8662699573731051832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_222
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 194
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac6b89772e6cc0c0800000000000000
+      internalID: -4554144007356453721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Caverns_Godot_223
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9524749b0302ce49b444f1ce1b8b3cf
+      internalID: 201292691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a0a08699c3db1648b42f7b02b0715a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RA_Caverns_Godot_0: -1358854039798739626
+      RA_Caverns_Godot_1: -4811744465145144016
+      RA_Caverns_Godot_10: 366704866548434473
+      RA_Caverns_Godot_100: 8461835631851703751
+      RA_Caverns_Godot_101: 7624416664657082408
+      RA_Caverns_Godot_102: 2465323025518591218
+      RA_Caverns_Godot_103: 7843064024653786575
+      RA_Caverns_Godot_104: -1795395026933442909
+      RA_Caverns_Godot_105: 8802527151046747767
+      RA_Caverns_Godot_106: -7839608615560730771
+      RA_Caverns_Godot_107: 2895002364932876037
+      RA_Caverns_Godot_108: -3964748228329326885
+      RA_Caverns_Godot_109: 6202605851151312028
+      RA_Caverns_Godot_11: -5141332705179912053
+      RA_Caverns_Godot_110: -4227227583489456163
+      RA_Caverns_Godot_111: 1908045501533530350
+      RA_Caverns_Godot_112: -4007988957045751958
+      RA_Caverns_Godot_113: -1860657782412185523
+      RA_Caverns_Godot_114: -5629210841873497328
+      RA_Caverns_Godot_115: 2941163723180665739
+      RA_Caverns_Godot_116: 6691203278506215475
+      RA_Caverns_Godot_117: -6212353737562212538
+      RA_Caverns_Godot_118: -4991901688596552009
+      RA_Caverns_Godot_119: 8386502587534003418
+      RA_Caverns_Godot_12: -3671472782038173412
+      RA_Caverns_Godot_120: -6654405043419516956
+      RA_Caverns_Godot_121: -8933318459695097080
+      RA_Caverns_Godot_122: -4108092793196102410
+      RA_Caverns_Godot_123: 2756149892946712917
+      RA_Caverns_Godot_124: 2386320603505938012
+      RA_Caverns_Godot_125: 6133352978093800368
+      RA_Caverns_Godot_126: -2947265664307573285
+      RA_Caverns_Godot_127: -3734377140575775839
+      RA_Caverns_Godot_128: 3655223609812235016
+      RA_Caverns_Godot_129: 6280504170049119285
+      RA_Caverns_Godot_13: 337062679917271958
+      RA_Caverns_Godot_130: -5757498292561990667
+      RA_Caverns_Godot_131: 1319461132525591129
+      RA_Caverns_Godot_132: -8329293148315986833
+      RA_Caverns_Godot_133: 2901921840543327923
+      RA_Caverns_Godot_134: 1432583528807631177
+      RA_Caverns_Godot_135: -7253609024281184583
+      RA_Caverns_Godot_136: 85386723910229626
+      RA_Caverns_Godot_137: 1861034644478458844
+      RA_Caverns_Godot_138: 1248144310400872499
+      RA_Caverns_Godot_139: -7525674284510263661
+      RA_Caverns_Godot_14: 535884088228293603
+      RA_Caverns_Godot_140: 6770791137558198805
+      RA_Caverns_Godot_141: -4581398674566469364
+      RA_Caverns_Godot_142: -4217844986296576808
+      RA_Caverns_Godot_143: 7579076840736990997
+      RA_Caverns_Godot_144: 2904833004236472621
+      RA_Caverns_Godot_145: 8571056330685009542
+      RA_Caverns_Godot_146: -2126588766141838595
+      RA_Caverns_Godot_147: -768236847289437900
+      RA_Caverns_Godot_148: 1758362733956805705
+      RA_Caverns_Godot_149: 816289050524462673
+      RA_Caverns_Godot_15: -2534662237532629818
+      RA_Caverns_Godot_150: -3479639125515407856
+      RA_Caverns_Godot_151: 2669913391918914227
+      RA_Caverns_Godot_152: 2269599051229616314
+      RA_Caverns_Godot_153: 7338195669792620448
+      RA_Caverns_Godot_154: 5893966017120852448
+      RA_Caverns_Godot_155: -2774419852190605208
+      RA_Caverns_Godot_156: 7124033697111148032
+      RA_Caverns_Godot_157: -606341523195322406
+      RA_Caverns_Godot_158: 7520294468386947378
+      RA_Caverns_Godot_159: 4374778236352677290
+      RA_Caverns_Godot_16: -6396270416605409280
+      RA_Caverns_Godot_160: -2951975688415609159
+      RA_Caverns_Godot_161: 8546155522672878343
+      RA_Caverns_Godot_162: -4851956820289371068
+      RA_Caverns_Godot_163: -3436582725627386913
+      RA_Caverns_Godot_164: -4476607302612529341
+      RA_Caverns_Godot_165: -6315974288931812234
+      RA_Caverns_Godot_166: 6783765667334751552
+      RA_Caverns_Godot_167: 9046442105081377140
+      RA_Caverns_Godot_168: -6071874304425927406
+      RA_Caverns_Godot_169: -6520135512236075645
+      RA_Caverns_Godot_17: -3278946311644714036
+      RA_Caverns_Godot_170: -3636703120247091431
+      RA_Caverns_Godot_171: -7136073219914758431
+      RA_Caverns_Godot_172: -6830979370147919373
+      RA_Caverns_Godot_173: 8357062271924738083
+      RA_Caverns_Godot_174: 4864304488624089721
+      RA_Caverns_Godot_175: -7989935671693764959
+      RA_Caverns_Godot_176: -4049834256748748312
+      RA_Caverns_Godot_177: -3625835153967199696
+      RA_Caverns_Godot_178: 4283161559798643966
+      RA_Caverns_Godot_179: 1390379697366897990
+      RA_Caverns_Godot_18: -5223086794143253164
+      RA_Caverns_Godot_180: 1074731090759280795
+      RA_Caverns_Godot_181: 6852436126197728436
+      RA_Caverns_Godot_182: -3584388066615895276
+      RA_Caverns_Godot_183: -4357357529301321616
+      RA_Caverns_Godot_184: 7394407056305124874
+      RA_Caverns_Godot_185: 5345052662702481569
+      RA_Caverns_Godot_186: -4448522498798276203
+      RA_Caverns_Godot_187: -4377538259884598621
+      RA_Caverns_Godot_188: 2468416604699016521
+      RA_Caverns_Godot_189: -2857637693421409672
+      RA_Caverns_Godot_19: -2212319376507544214
+      RA_Caverns_Godot_190: 3407137946377448816
+      RA_Caverns_Godot_191: 8246776969773569574
+      RA_Caverns_Godot_192: 989880779742725022
+      RA_Caverns_Godot_193: 3946338016116093615
+      RA_Caverns_Godot_194: 147744630688617585
+      RA_Caverns_Godot_195: -3472218627617986636
+      RA_Caverns_Godot_196: -6420300715497418844
+      RA_Caverns_Godot_197: -5132565133191125683
+      RA_Caverns_Godot_198: 5668609618262475453
+      RA_Caverns_Godot_199: -298323285230385348
+      RA_Caverns_Godot_2: -3962282901010907848
+      RA_Caverns_Godot_20: 644921184733632402
+      RA_Caverns_Godot_200: -6092291995940807356
+      RA_Caverns_Godot_201: 2809861964071365092
+      RA_Caverns_Godot_202: -2605578727844240639
+      RA_Caverns_Godot_203: 7695112548034495043
+      RA_Caverns_Godot_204: 3504068377098268784
+      RA_Caverns_Godot_205: 6255309483711893620
+      RA_Caverns_Godot_206: 3753224586015168059
+      RA_Caverns_Godot_207: 6168089883768403064
+      RA_Caverns_Godot_208: 824365882726007510
+      RA_Caverns_Godot_209: -5648500242577942538
+      RA_Caverns_Godot_21: 4331209988418787896
+      RA_Caverns_Godot_210: 716868446593733970
+      RA_Caverns_Godot_211: 3562987629016482692
+      RA_Caverns_Godot_212: 6728115152535162525
+      RA_Caverns_Godot_213: -7726770408878317128
+      RA_Caverns_Godot_214: 119196659283661161
+      RA_Caverns_Godot_215: 6126200957145483763
+      RA_Caverns_Godot_216: -367362775387480427
+      RA_Caverns_Godot_217: -5259506327135385491
+      RA_Caverns_Godot_218: 1105132516213877434
+      RA_Caverns_Godot_219: -2980048631679805869
+      RA_Caverns_Godot_22: 5396745714527947828
+      RA_Caverns_Godot_220: -7387008927906271698
+      RA_Caverns_Godot_221: 8662699573731051832
+      RA_Caverns_Godot_222: -4554144007356453721
+      RA_Caverns_Godot_223: 201292691
+      RA_Caverns_Godot_23: 2139619264610337855
+      RA_Caverns_Godot_24: -1011587617890562834
+      RA_Caverns_Godot_25: 1145203770247423906
+      RA_Caverns_Godot_26: -5428549161826280803
+      RA_Caverns_Godot_27: -2649010695421948174
+      RA_Caverns_Godot_28: -664969829345976726
+      RA_Caverns_Godot_29: -2379016698478589621
+      RA_Caverns_Godot_3: -7834418872202045515
+      RA_Caverns_Godot_30: 6680621662683626684
+      RA_Caverns_Godot_31: -2930516686798009956
+      RA_Caverns_Godot_32: -4971464935489019317
+      RA_Caverns_Godot_33: -5801065452064433052
+      RA_Caverns_Godot_34: -5226077575739487380
+      RA_Caverns_Godot_35: 1012650948115960008
+      RA_Caverns_Godot_36: 8067763376603190006
+      RA_Caverns_Godot_37: -4397231206473253171
+      RA_Caverns_Godot_38: 5119246419024121180
+      RA_Caverns_Godot_39: -1978465405598117361
+      RA_Caverns_Godot_4: -4754454235858620428
+      RA_Caverns_Godot_40: -4774292149729210906
+      RA_Caverns_Godot_41: -7986798861112416865
+      RA_Caverns_Godot_42: -6219936150275423510
+      RA_Caverns_Godot_43: -7248754076940824087
+      RA_Caverns_Godot_44: 6348393483853924400
+      RA_Caverns_Godot_45: 6117918330026170411
+      RA_Caverns_Godot_46: -5825771771922573686
+      RA_Caverns_Godot_47: -1932856209763082403
+      RA_Caverns_Godot_48: 6168840798111341072
+      RA_Caverns_Godot_49: -9104838920011015736
+      RA_Caverns_Godot_5: -9142830759253819016
+      RA_Caverns_Godot_50: -3829037695549203179
+      RA_Caverns_Godot_51: -3333788005418123011
+      RA_Caverns_Godot_52: 218330518576221342
+      RA_Caverns_Godot_53: -1173397032051726146
+      RA_Caverns_Godot_54: -4273087160027434780
+      RA_Caverns_Godot_55: 3185284603251910591
+      RA_Caverns_Godot_56: 1067532384059317061
+      RA_Caverns_Godot_57: 4730635048442674613
+      RA_Caverns_Godot_58: -943773828129815311
+      RA_Caverns_Godot_59: 2628199879201108627
+      RA_Caverns_Godot_6: -4552739652761865267
+      RA_Caverns_Godot_60: -6403197708266006220
+      RA_Caverns_Godot_61: -67537588979087872
+      RA_Caverns_Godot_62: -6381263958787252032
+      RA_Caverns_Godot_63: -9084220173742279848
+      RA_Caverns_Godot_64: 1699328844463124281
+      RA_Caverns_Godot_65: -1411115610648987617
+      RA_Caverns_Godot_66: 1168349586969816161
+      RA_Caverns_Godot_67: -183786976863276136
+      RA_Caverns_Godot_68: -8550030721751069240
+      RA_Caverns_Godot_69: 5294689214604864611
+      RA_Caverns_Godot_7: -8642817111427705969
+      RA_Caverns_Godot_70: -2724248382778842226
+      RA_Caverns_Godot_71: 4892765608768751061
+      RA_Caverns_Godot_72: -253193218744899236
+      RA_Caverns_Godot_73: -8122197805563749375
+      RA_Caverns_Godot_74: 1114884409958327049
+      RA_Caverns_Godot_75: 3244069532912396017
+      RA_Caverns_Godot_76: -6557557582000218108
+      RA_Caverns_Godot_77: -7858377060040400052
+      RA_Caverns_Godot_78: 2304355698569504637
+      RA_Caverns_Godot_79: -4124293368249122939
+      RA_Caverns_Godot_8: -8307157521146397146
+      RA_Caverns_Godot_80: -5500763167397594195
+      RA_Caverns_Godot_81: -216143828385997941
+      RA_Caverns_Godot_82: 9156663041736036977
+      RA_Caverns_Godot_83: -3266083551746845876
+      RA_Caverns_Godot_84: 4195911166672995524
+      RA_Caverns_Godot_85: -1612770145963136426
+      RA_Caverns_Godot_86: -4726335857395023829
+      RA_Caverns_Godot_87: -2104785964141663423
+      RA_Caverns_Godot_88: 141678224708998368
+      RA_Caverns_Godot_89: 4498162522529584987
+      RA_Caverns_Godot_9: -6497798350206928960
+      RA_Caverns_Godot_90: 8099024157967788497
+      RA_Caverns_Godot_91: -5867840964008998089
+      RA_Caverns_Godot_92: -3767335717222351469
+      RA_Caverns_Godot_93: 2345506361265123662
+      RA_Caverns_Godot_94: 8861455534366300999
+      RA_Caverns_Godot_95: 1211628019917447711
+      RA_Caverns_Godot_96: 5499188736328002328
+      RA_Caverns_Godot_97: 4408766620321679492
+      RA_Caverns_Godot_98: 3880545505053017343
+      RA_Caverns_Godot_99: 8947300012490250778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: 2f6a356791de7ed4086096021f1cdcfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6078939451439281153
+    second: RA_Cavern_Unity_0
+  - first:
+      213: -2542419539343478071
+    second: RA_Cavern_Unity_1
+  - first:
+      213: -3895481219121493319
+    second: RA_Cavern_Unity_2
+  - first:
+      213: 5717815969399092119
+    second: RA_Cavern_Unity_3
+  - first:
+      213: 1783230908420533649
+    second: RA_Cavern_Unity_4
+  - first:
+      213: -95572554522308382
+    second: RA_Cavern_Unity_5
+  - first:
+      213: 4162379394354900943
+    second: RA_Cavern_Unity_6
+  - first:
+      213: 5382040678983247447
+    second: RA_Cavern_Unity_7
+  - first:
+      213: 2839215938910074485
+    second: RA_Cavern_Unity_8
+  - first:
+      213: 8367255876003989310
+    second: RA_Cavern_Unity_9
+  - first:
+      213: 2348574598093305555
+    second: RA_Cavern_Unity_10
+  - first:
+      213: -1898928336968281328
+    second: RA_Cavern_Unity_11
+  - first:
+      213: -5050918094734131743
+    second: RA_Cavern_Unity_12
+  - first:
+      213: 4736308032630380149
+    second: RA_Cavern_Unity_13
+  - first:
+      213: -2884631197468176850
+    second: RA_Cavern_Unity_14
+  - first:
+      213: -6094322836868737105
+    second: RA_Cavern_Unity_15
+  - first:
+      213: 3242055711998385443
+    second: RA_Cavern_Unity_16
+  - first:
+      213: -5776935643386604618
+    second: RA_Cavern_Unity_17
+  - first:
+      213: -2751257070154151705
+    second: RA_Cavern_Unity_18
+  - first:
+      213: -6529264927497366103
+    second: RA_Cavern_Unity_19
+  - first:
+      213: -1653448666099016119
+    second: RA_Cavern_Unity_20
+  - first:
+      213: 7218734592715459381
+    second: RA_Cavern_Unity_21
+  - first:
+      213: -2657711649820677563
+    second: RA_Cavern_Unity_22
+  - first:
+      213: 3080069214622528668
+    second: RA_Cavern_Unity_23
+  - first:
+      213: -8659180694992222384
+    second: RA_Cavern_Unity_24
+  - first:
+      213: -115351811955591609
+    second: RA_Cavern_Unity_25
+  - first:
+      213: -7423936382234379721
+    second: RA_Cavern_Unity_26
+  - first:
+      213: -183111125524409549
+    second: RA_Cavern_Unity_27
+  - first:
+      213: 2230953020703427876
+    second: RA_Cavern_Unity_28
+  - first:
+      213: 4103344418533111378
+    second: RA_Cavern_Unity_29
+  - first:
+      213: 6027600141281206664
+    second: RA_Cavern_Unity_30
+  - first:
+      213: 6174025479013118574
+    second: RA_Cavern_Unity_31
+  - first:
+      213: 273124516599647850
+    second: RA_Cavern_Unity_32
+  - first:
+      213: 3522880058693340276
+    second: RA_Cavern_Unity_33
+  - first:
+      213: -4230391401517079339
+    second: RA_Cavern_Unity_34
+  - first:
+      213: -4631737327249040399
+    second: RA_Cavern_Unity_35
+  - first:
+      213: 1440308256860997096
+    second: RA_Cavern_Unity_36
+  - first:
+      213: -5323909600553139412
+    second: RA_Cavern_Unity_37
+  - first:
+      213: 452352915831027860
+    second: RA_Cavern_Unity_38
+  - first:
+      213: 7639185027941422517
+    second: RA_Cavern_Unity_39
+  - first:
+      213: 7285667026642739494
+    second: RA_Cavern_Unity_40
+  - first:
+      213: -2600791734298028838
+    second: RA_Cavern_Unity_41
+  - first:
+      213: 5605166497586021632
+    second: RA_Cavern_Unity_42
+  - first:
+      213: -7731293878212348104
+    second: RA_Cavern_Unity_43
+  - first:
+      213: 6860832541373160153
+    second: RA_Cavern_Unity_44
+  - first:
+      213: 5508194025342572052
+    second: RA_Cavern_Unity_45
+  - first:
+      213: 7237186893945099115
+    second: RA_Cavern_Unity_46
+  - first:
+      213: -4941259631669269763
+    second: RA_Cavern_Unity_47
+  - first:
+      213: 6941736082976433557
+    second: RA_Cavern_Unity_48
+  - first:
+      213: -7853690177716720496
+    second: RA_Cavern_Unity_49
+  - first:
+      213: 2306664424615048242
+    second: RA_Cavern_Unity_50
+  - first:
+      213: -2844303243952182767
+    second: RA_Cavern_Unity_51
+  - first:
+      213: -7077484331200337566
+    second: RA_Cavern_Unity_52
+  - first:
+      213: 5525917754025365776
+    second: RA_Cavern_Unity_53
+  - first:
+      213: -1249985760977847397
+    second: RA_Cavern_Unity_54
+  - first:
+      213: -3774064621376828295
+    second: RA_Cavern_Unity_55
+  - first:
+      213: 6932606203904197716
+    second: RA_Cavern_Unity_56
+  - first:
+      213: -8835653810629736919
+    second: RA_Cavern_Unity_57
+  - first:
+      213: -198901109941913344
+    second: RA_Cavern_Unity_58
+  - first:
+      213: 8736763089071300444
+    second: RA_Cavern_Unity_59
+  - first:
+      213: 6953995125177071472
+    second: RA_Cavern_Unity_60
+  - first:
+      213: 5991906130195346355
+    second: RA_Cavern_Unity_61
+  - first:
+      213: 6495421625763906714
+    second: RA_Cavern_Unity_62
+  - first:
+      213: 4305232055179550601
+    second: RA_Cavern_Unity_63
+  - first:
+      213: 3884020972227468436
+    second: RA_Cavern_Unity_64
+  - first:
+      213: -5569517176633323909
+    second: RA_Cavern_Unity_65
+  - first:
+      213: -6064163388877608630
+    second: RA_Cavern_Unity_66
+  - first:
+      213: -7602791624323439989
+    second: RA_Cavern_Unity_67
+  - first:
+      213: 4529036323182446923
+    second: RA_Cavern_Unity_68
+  - first:
+      213: 3131926823943842753
+    second: RA_Cavern_Unity_69
+  - first:
+      213: 6507683689186250940
+    second: RA_Cavern_Unity_70
+  - first:
+      213: -7246613973674173030
+    second: RA_Cavern_Unity_71
+  - first:
+      213: -2051929274912686385
+    second: RA_Cavern_Unity_72
+  - first:
+      213: -2972460736388669620
+    second: RA_Cavern_Unity_73
+  - first:
+      213: 7827470680720730462
+    second: RA_Cavern_Unity_74
+  - first:
+      213: 2343117259636156814
+    second: RA_Cavern_Unity_75
+  - first:
+      213: 1461823193875278984
+    second: RA_Cavern_Unity_76
+  - first:
+      213: -8027354849600699447
+    second: RA_Cavern_Unity_77
+  - first:
+      213: 8359783028643948715
+    second: RA_Cavern_Unity_78
+  - first:
+      213: 3118206030564801348
+    second: RA_Cavern_Unity_79
+  - first:
+      213: 4765908219873750051
+    second: RA_Cavern_Unity_80
+  - first:
+      213: 2010664702908736958
+    second: RA_Cavern_Unity_81
+  - first:
+      213: -5689937273173230604
+    second: RA_Cavern_Unity_82
+  - first:
+      213: 1006700931590515638
+    second: RA_Cavern_Unity_83
+  - first:
+      213: -8825200339002229345
+    second: RA_Cavern_Unity_84
+  - first:
+      213: -373718402568139526
+    second: RA_Cavern_Unity_85
+  - first:
+      213: -3098695486068138550
+    second: RA_Cavern_Unity_86
+  - first:
+      213: -6703564804378952560
+    second: RA_Cavern_Unity_87
+  - first:
+      213: -3114278491360644404
+    second: RA_Cavern_Unity_88
+  - first:
+      213: 1469878239564592098
+    second: RA_Cavern_Unity_89
+  - first:
+      213: -4391384488560548468
+    second: RA_Cavern_Unity_90
+  - first:
+      213: -7629377583419900153
+    second: RA_Cavern_Unity_91
+  - first:
+      213: -6834700753322974681
+    second: RA_Cavern_Unity_92
+  - first:
+      213: -1291846456242935594
+    second: RA_Cavern_Unity_93
+  - first:
+      213: 8726355251915925095
+    second: RA_Cavern_Unity_94
+  - first:
+      213: -5858739894941792686
+    second: RA_Cavern_Unity_95
+  - first:
+      213: -6787836028499222955
+    second: RA_Cavern_Unity_96
+  - first:
+      213: -5429618720242020289
+    second: RA_Cavern_Unity_97
+  - first:
+      213: 6771386890974362344
+    second: RA_Cavern_Unity_98
+  - first:
+      213: 7504234963323660330
+    second: RA_Cavern_Unity_99
+  - first:
+      213: 2212467939399860345
+    second: RA_Cavern_Unity_100
+  - first:
+      213: -6788292968456863522
+    second: RA_Cavern_Unity_101
+  - first:
+      213: -8398935818334260122
+    second: RA_Cavern_Unity_102
+  - first:
+      213: -2329985695676193785
+    second: RA_Cavern_Unity_103
+  - first:
+      213: 6498162556628779294
+    second: RA_Cavern_Unity_104
+  - first:
+      213: 3787775238375212986
+    second: RA_Cavern_Unity_105
+  - first:
+      213: -9031910157014056668
+    second: RA_Cavern_Unity_106
+  - first:
+      213: -2267090045689907977
+    second: RA_Cavern_Unity_107
+  - first:
+      213: 24970886546966627
+    second: RA_Cavern_Unity_108
+  - first:
+      213: 3914750385850337086
+    second: RA_Cavern_Unity_109
+  - first:
+      213: -7159050366644245483
+    second: RA_Cavern_Unity_110
+  - first:
+      213: -4881502383900287636
+    second: RA_Cavern_Unity_111
+  - first:
+      213: 7946318714717820585
+    second: RA_Cavern_Unity_112
+  - first:
+      213: 6106240321206942750
+    second: RA_Cavern_Unity_113
+  - first:
+      213: 1882532160253167026
+    second: RA_Cavern_Unity_114
+  - first:
+      213: -5811436296602120359
+    second: RA_Cavern_Unity_115
+  - first:
+      213: -7851870893708525298
+    second: RA_Cavern_Unity_116
+  - first:
+      213: -4111531969319027414
+    second: RA_Cavern_Unity_117
+  - first:
+      213: 3623646250904308636
+    second: RA_Cavern_Unity_118
+  - first:
+      213: -6111410808498698058
+    second: RA_Cavern_Unity_119
+  - first:
+      213: -4684963732123099841
+    second: RA_Cavern_Unity_120
+  - first:
+      213: 7970466159154325839
+    second: RA_Cavern_Unity_121
+  - first:
+      213: 3931926697295591320
+    second: RA_Cavern_Unity_122
+  - first:
+      213: 5459389283610855922
+    second: RA_Cavern_Unity_123
+  - first:
+      213: -4776221712905790404
+    second: RA_Cavern_Unity_124
+  - first:
+      213: -8608996625563272773
+    second: RA_Cavern_Unity_125
+  - first:
+      213: -2114835117007377620
+    second: RA_Cavern_Unity_126
+  - first:
+      213: 543883411234790325
+    second: RA_Cavern_Unity_127
+  - first:
+      213: -816706768136451230
+    second: RA_Cavern_Unity_128
+  - first:
+      213: -4756020315123670132
+    second: RA_Cavern_Unity_129
+  - first:
+      213: 350763049242426640
+    second: RA_Cavern_Unity_130
+  - first:
+      213: 5127122501863054496
+    second: RA_Cavern_Unity_131
+  - first:
+      213: -8512305179094987152
+    second: RA_Cavern_Unity_132
+  - first:
+      213: 7569629067529901709
+    second: RA_Cavern_Unity_133
+  - first:
+      213: -796834985981965239
+    second: RA_Cavern_Unity_134
+  - first:
+      213: -9059564714947286048
+    second: RA_Cavern_Unity_135
+  - first:
+      213: 6230936414464753397
+    second: RA_Cavern_Unity_136
+  - first:
+      213: 9040310137506757933
+    second: RA_Cavern_Unity_137
+  - first:
+      213: -5724037684494746106
+    second: RA_Cavern_Unity_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 321
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb8ad9c6c443aba0800000000000000
+      internalID: -6078939451439281153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 500
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c27b6736e287bcd0800000000000000
+      internalID: -2542419539343478071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bace09687870f9c0800000000000000
+      internalID: -3895481219121493319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793b6137453c95f40800000000000000
+      internalID: 5717815969399092119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d27e0301f4fb810800000000000000
+      internalID: 1783230908420533649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0db6d94457caef0800000000000000
+      internalID: -95572554522308382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfede4810eb3c930800000000000000
+      internalID: 4162379394354900943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756af757b79d0ba40800000000000000
+      internalID: 5382040678983247447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576bc578adbe66720800000000000000
+      internalID: 2839215938910074485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 480
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37840a33e67e1470800000000000000
+      internalID: 8367255876003989310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d67bd75720d79020800000000000000
+      internalID: 2348574598093305555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013151d0db6a5a5e0800000000000000
+      internalID: -1898928336968281328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed77c5f0c887e9b0800000000000000
+      internalID: -5050918094734131743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 448
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57653c7cf0fbab140800000000000000
+      internalID: 4736308032630380149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 448
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e46e6953bb7f7d0800000000000000
+      internalID: -2884631197468176850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 448
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa753e14bad9c6ba0800000000000000
+      internalID: -6094322836868737105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 448
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d90bf2e781efc20800000000000000
+      internalID: 3242055711998385443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b316adc3a334dfa0800000000000000
+      internalID: -5776935643386604618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e80eaf754291d9d0800000000000000
+      internalID: -2751257070154151705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55a1854246365a0800000000000000
+      internalID: -6529264927497366103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e13d2d235cd09e0800000000000000
+      internalID: -1653448666099016119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 431
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b01a69dd81e2460800000000000000
+      internalID: 7218734592715459381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 415
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a650de559ed1bd0800000000000000
+      internalID: -2657711649820677563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 415
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94313db1aa9eba20800000000000000
+      internalID: 3080069214622528668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0578115490964d780800000000000000
+      internalID: -8659180694992222384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 416
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74670306320366ef0800000000000000
+      internalID: -115351811955591609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a32dda131e8f890800000000000000
+      internalID: -7423936382234379721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33312b8c665757df0800000000000000
+      internalID: -183111125524409549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 383
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dcc95c3ffe5fe10800000000000000
+      internalID: 2230953020703427876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567fb9120202f830800000000000000
+      internalID: 4103344418533111378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 383
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8812925946656a350800000000000000
+      internalID: 6027600141281206664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62b9c6367b8ea550800000000000000
+      internalID: 6174025479013118574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e4f5ffc455ac300800000000000000
+      internalID: 273124516599647850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c49b49fb8c3e030800000000000000
+      internalID: 3522880058693340276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d425b31f61aa45c0800000000000000
+      internalID: -4230391401517079339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb576cd073c8bfb0800000000000000
+      internalID: -4631737327249040399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e503418ab00df310800000000000000
+      internalID: 1440308256860997096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230db2fc6cad16b0800000000000000
+      internalID: -5323909600553139412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498783d8494174600800000000000000
+      internalID: 452352915831027860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 352
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b55eeb0f46d30a60800000000000000
+      internalID: 7639185027941422517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62121d24f83eb1560800000000000000
+      internalID: 7285667026642739494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_41
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4d46e72b128ebd0800000000000000
+      internalID: -2600791734298028838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005098b6b3d89cd40800000000000000
+      internalID: 5605166497586021632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_43
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837300f0e2de4b490800000000000000
+      internalID: -7731293878212348104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_44
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dadcfb98d2963f50800000000000000
+      internalID: 6860832541373160153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416197a4849017c40800000000000000
+      internalID: 5508194025342572052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d5b2c227af6460800000000000000
+      internalID: 7237186893945099115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa206f7b8e1d6bb0800000000000000
+      internalID: -4941259631669269763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59562564030065060800000000000000
+      internalID: 6941736082976433557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c683dd466120390800000000000000
+      internalID: -7853690177716720496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f53da21be20020800000000000000
+      internalID: 2306664424615048242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a2db6f4410788d0800000000000000
+      internalID: -2844303243952182767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2692967bf79b7cd90800000000000000
+      internalID: -7077484331200337566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 287
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011d4b27be000bc40800000000000000
+      internalID: 5525917754025365776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7e96b29827aee0800000000000000
+      internalID: -1249985760977847397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 288
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c07730934df9bc0800000000000000
+      internalID: -3774064621376828295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540167ac90953060800000000000000
+      internalID: 6932606203904197716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926861b2ca3716580800000000000000
+      internalID: -8835653810629736919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093b7c8e7c5d3df0800000000000000
+      internalID: -198901109941913344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fd6da7db73f3970800000000000000
+      internalID: 8736763089071300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773af5f8bd818060800000000000000
+      internalID: 6953995125177071472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b377c101e6872350800000000000000
+      internalID: 5991906130195346355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944c0eed8f542a50800000000000000
+      internalID: 6495421625763906714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 194
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1a9c7eb14fbb30800000000000000
+      internalID: 4305232055179550601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 255
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c19cdee70d6e530800000000000000
+      internalID: 3884020972227468436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_65
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e855ce2a915b2b0800000000000000
+      internalID: -5569517176633323909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a496502f683c7dba0800000000000000
+      internalID: -6064163388877608630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 243
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82e2ea8c457d7690800000000000000
+      internalID: -7602791624323439989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 244
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4981224a8e5ade30800000000000000
+      internalID: 4529036323182446923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 245
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cba0bb4ad6d67b20800000000000000
+      internalID: 3131926823943842753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 244
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0dc8c06dfef4a50800000000000000
+      internalID: 6507683689186250940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dd4c23cfade6b90800000000000000
+      internalID: -7246613973674173030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceba9032351683e0800000000000000
+      internalID: -2051929274912686385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd1c285b2bfb6d0800000000000000
+      internalID: -2972460736388669620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 225
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59e426cc13c0ac60800000000000000
+      internalID: 7827470680720730462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8923b7bbbc648020800000000000000
+      internalID: 2343117259636156814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cec532370794410800000000000000
+      internalID: 1461823193875278984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c38a878b4b199090800000000000000
+      internalID: -8027354849600699447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba869ad5f5ae30470800000000000000
+      internalID: 8359783028643948715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 232
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bbb442dd7164b20800000000000000
+      internalID: 3118206030564801348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c60bd6648e32240800000000000000
+      internalID: 4765908219873750051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5aa43f4e057eb10800000000000000
+      internalID: 2010664702908736958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb314652384901b0800000000000000
+      internalID: -5689937273173230604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe18ed92588fd00800000000000000
+      internalID: 1006700931590515638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d7d12bc07968580800000000000000
+      internalID: -8825200339002229345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc46e8c71940daf0800000000000000
+      internalID: -373718402568139526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5dcd7fd83ff4d0800000000000000
+      internalID: -3098695486068138550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c7e22d35728f2a0800000000000000
+      internalID: -6703564804378952560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc23fc6563cd7c4d0800000000000000
+      internalID: -3114278491360644404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f25c987e066410800000000000000
+      internalID: 1469878239564592098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85203ff21bae03c0800000000000000
+      internalID: -4391384488560548468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fbde292810f1690800000000000000
+      internalID: -7629377583419900153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 208
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e61c60e34621a0800000000000000
+      internalID: -6834700753322974681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 209
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ea471e70721ee0800000000000000
+      internalID: -1291846456242935594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_94
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 211
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766205e0edd3a1970800000000000000
+      internalID: 8726355251915925095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256c5924b1391bea0800000000000000
+      internalID: -5858739894941792686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e94b77813ccc1a0800000000000000
+      internalID: -6787836028499222955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d9229a8e16a4b0800000000000000
+      internalID: -5429618720242020289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_98
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea7341408cc8fd50800000000000000
+      internalID: 6771386890974362344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_99
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2829f3a0f5642860800000000000000
+      internalID: 7504234963323660330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 208
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9708ed46ed344be10800000000000000
+      internalID: 2212467939399860345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_101
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 207
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c8d7d2832bc1a0800000000000000
+      internalID: -6788292968456863522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664b1e86f5cf07b80800000000000000
+      internalID: -8398935818334260122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704aa75ca5a3aafd0800000000000000
+      internalID: -2329985695676193785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e114a90aa6c1e2a50800000000000000
+      internalID: 6498162556628779294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_105
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab70064c281e09430800000000000000
+      internalID: 3787775238375212986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_106
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4214fe7b09538a280800000000000000
+      internalID: -9031910157014056668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f434d07d9da980e0800000000000000
+      internalID: -2267090045689907977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368cb5693e6b85000800000000000000
+      internalID: 24970886546966627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_109
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 160
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37cee41cbcf35630800000000000000
+      internalID: 3914750385850337086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c2a0f2f91f5ac90800000000000000
+      internalID: -7159050366644245483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_111
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 144
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d9665f17b614cb0800000000000000
+      internalID: -4881502383900287636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 449
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a65bc605cef64e60800000000000000
+      internalID: 7946318714717820585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 144
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf4ba4839bdb450800000000000000
+      internalID: 6106240321206942750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b583229609102a10800000000000000
+      internalID: 1882532160253167026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f08328a71a95fa0800000000000000
+      internalID: -5811436296602120359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_116
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01464ee50d880390800000000000000
+      internalID: -7851870893708525298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db31e2577e0f6c0800000000000000
+      internalID: -4111531969319027414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_118
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bc3d8f017c94230800000000000000
+      internalID: 3623646250904308636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c3f2df38ef2ba0800000000000000
+      internalID: -6111410808498698058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd631ce4aabfeb0800000000000000
+      internalID: -4684963732123099841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_121
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f496aae0eb8cc9e60800000000000000
+      internalID: 7970466159154325839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_122
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897bd2bbf72019630800000000000000
+      internalID: 3931926697295591320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_123
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9033cd0a5a3cb40800000000000000
+      internalID: 5459389283610855922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_124
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c1eb958a377bdb0800000000000000
+      internalID: -4776221712905790404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_125
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9b3c47e23b68880800000000000000
+      internalID: -8608996625563272773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_126
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 16
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be04c7aa896a2e0800000000000000
+      internalID: -2114835117007377620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_127
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 16
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb90e5b4134c8700800000000000000
+      internalID: 543883411234790325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_128
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc19f75897aa4f0800000000000000
+      internalID: -816706768136451230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_129
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83238cc8b83ffdb0800000000000000
+      internalID: -4756020315123670132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_130
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d7d6682292ed400800000000000000
+      internalID: 350763049242426640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac957330c2372740800000000000000
+      internalID: 5127122501863054496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_132
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e435c2a873ed980800000000000000
+      internalID: -8512305179094987152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_133
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8657930889bc0960800000000000000
+      internalID: 7569629067529901709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_134
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c01f35dc211f4f0800000000000000
+      internalID: -796834985981965239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_135
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb67e134e5f54280800000000000000
+      internalID: -9059564714947286048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_136
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feb732f7abb87650800000000000000
+      internalID: 6230936414464753397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_137
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df3752c22a57d70800000000000000
+      internalID: 9040310137506757933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_Unity_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ebdbe9d022090b0800000000000000
+      internalID: -5724037684494746106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RA_Cavern_Unity_0: -6078939451439281153
+      RA_Cavern_Unity_1: -2542419539343478071
+      RA_Cavern_Unity_10: 2348574598093305555
+      RA_Cavern_Unity_100: 2212467939399860345
+      RA_Cavern_Unity_101: -6788292968456863522
+      RA_Cavern_Unity_102: -8398935818334260122
+      RA_Cavern_Unity_103: -2329985695676193785
+      RA_Cavern_Unity_104: 6498162556628779294
+      RA_Cavern_Unity_105: 3787775238375212986
+      RA_Cavern_Unity_106: -9031910157014056668
+      RA_Cavern_Unity_107: -2267090045689907977
+      RA_Cavern_Unity_108: 24970886546966627
+      RA_Cavern_Unity_109: 3914750385850337086
+      RA_Cavern_Unity_11: -1898928336968281328
+      RA_Cavern_Unity_110: -7159050366644245483
+      RA_Cavern_Unity_111: -4881502383900287636
+      RA_Cavern_Unity_112: 7946318714717820585
+      RA_Cavern_Unity_113: 6106240321206942750
+      RA_Cavern_Unity_114: 1882532160253167026
+      RA_Cavern_Unity_115: -5811436296602120359
+      RA_Cavern_Unity_116: -7851870893708525298
+      RA_Cavern_Unity_117: -4111531969319027414
+      RA_Cavern_Unity_118: 3623646250904308636
+      RA_Cavern_Unity_119: -6111410808498698058
+      RA_Cavern_Unity_12: -5050918094734131743
+      RA_Cavern_Unity_120: -4684963732123099841
+      RA_Cavern_Unity_121: 7970466159154325839
+      RA_Cavern_Unity_122: 3931926697295591320
+      RA_Cavern_Unity_123: 5459389283610855922
+      RA_Cavern_Unity_124: -4776221712905790404
+      RA_Cavern_Unity_125: -8608996625563272773
+      RA_Cavern_Unity_126: -2114835117007377620
+      RA_Cavern_Unity_127: 543883411234790325
+      RA_Cavern_Unity_128: -816706768136451230
+      RA_Cavern_Unity_129: -4756020315123670132
+      RA_Cavern_Unity_13: 4736308032630380149
+      RA_Cavern_Unity_130: 350763049242426640
+      RA_Cavern_Unity_131: 5127122501863054496
+      RA_Cavern_Unity_132: -8512305179094987152
+      RA_Cavern_Unity_133: 7569629067529901709
+      RA_Cavern_Unity_134: -796834985981965239
+      RA_Cavern_Unity_135: -9059564714947286048
+      RA_Cavern_Unity_136: 6230936414464753397
+      RA_Cavern_Unity_137: 9040310137506757933
+      RA_Cavern_Unity_138: -5724037684494746106
+      RA_Cavern_Unity_14: -2884631197468176850
+      RA_Cavern_Unity_15: -6094322836868737105
+      RA_Cavern_Unity_16: 3242055711998385443
+      RA_Cavern_Unity_17: -5776935643386604618
+      RA_Cavern_Unity_18: -2751257070154151705
+      RA_Cavern_Unity_19: -6529264927497366103
+      RA_Cavern_Unity_2: -3895481219121493319
+      RA_Cavern_Unity_20: -1653448666099016119
+      RA_Cavern_Unity_21: 7218734592715459381
+      RA_Cavern_Unity_22: -2657711649820677563
+      RA_Cavern_Unity_23: 3080069214622528668
+      RA_Cavern_Unity_24: -8659180694992222384
+      RA_Cavern_Unity_25: -115351811955591609
+      RA_Cavern_Unity_26: -7423936382234379721
+      RA_Cavern_Unity_27: -183111125524409549
+      RA_Cavern_Unity_28: 2230953020703427876
+      RA_Cavern_Unity_29: 4103344418533111378
+      RA_Cavern_Unity_3: 5717815969399092119
+      RA_Cavern_Unity_30: 6027600141281206664
+      RA_Cavern_Unity_31: 6174025479013118574
+      RA_Cavern_Unity_32: 273124516599647850
+      RA_Cavern_Unity_33: 3522880058693340276
+      RA_Cavern_Unity_34: -4230391401517079339
+      RA_Cavern_Unity_35: -4631737327249040399
+      RA_Cavern_Unity_36: 1440308256860997096
+      RA_Cavern_Unity_37: -5323909600553139412
+      RA_Cavern_Unity_38: 452352915831027860
+      RA_Cavern_Unity_39: 7639185027941422517
+      RA_Cavern_Unity_4: 1783230908420533649
+      RA_Cavern_Unity_40: 7285667026642739494
+      RA_Cavern_Unity_41: -2600791734298028838
+      RA_Cavern_Unity_42: 5605166497586021632
+      RA_Cavern_Unity_43: -7731293878212348104
+      RA_Cavern_Unity_44: 6860832541373160153
+      RA_Cavern_Unity_45: 5508194025342572052
+      RA_Cavern_Unity_46: 7237186893945099115
+      RA_Cavern_Unity_47: -4941259631669269763
+      RA_Cavern_Unity_48: 6941736082976433557
+      RA_Cavern_Unity_49: -7853690177716720496
+      RA_Cavern_Unity_5: -95572554522308382
+      RA_Cavern_Unity_50: 2306664424615048242
+      RA_Cavern_Unity_51: -2844303243952182767
+      RA_Cavern_Unity_52: -7077484331200337566
+      RA_Cavern_Unity_53: 5525917754025365776
+      RA_Cavern_Unity_54: -1249985760977847397
+      RA_Cavern_Unity_55: -3774064621376828295
+      RA_Cavern_Unity_56: 6932606203904197716
+      RA_Cavern_Unity_57: -8835653810629736919
+      RA_Cavern_Unity_58: -198901109941913344
+      RA_Cavern_Unity_59: 8736763089071300444
+      RA_Cavern_Unity_6: 4162379394354900943
+      RA_Cavern_Unity_60: 6953995125177071472
+      RA_Cavern_Unity_61: 5991906130195346355
+      RA_Cavern_Unity_62: 6495421625763906714
+      RA_Cavern_Unity_63: 4305232055179550601
+      RA_Cavern_Unity_64: 3884020972227468436
+      RA_Cavern_Unity_65: -5569517176633323909
+      RA_Cavern_Unity_66: -6064163388877608630
+      RA_Cavern_Unity_67: -7602791624323439989
+      RA_Cavern_Unity_68: 4529036323182446923
+      RA_Cavern_Unity_69: 3131926823943842753
+      RA_Cavern_Unity_7: 5382040678983247447
+      RA_Cavern_Unity_70: 6507683689186250940
+      RA_Cavern_Unity_71: -7246613973674173030
+      RA_Cavern_Unity_72: -2051929274912686385
+      RA_Cavern_Unity_73: -2972460736388669620
+      RA_Cavern_Unity_74: 7827470680720730462
+      RA_Cavern_Unity_75: 2343117259636156814
+      RA_Cavern_Unity_76: 1461823193875278984
+      RA_Cavern_Unity_77: -8027354849600699447
+      RA_Cavern_Unity_78: 8359783028643948715
+      RA_Cavern_Unity_79: 3118206030564801348
+      RA_Cavern_Unity_8: 2839215938910074485
+      RA_Cavern_Unity_80: 4765908219873750051
+      RA_Cavern_Unity_81: 2010664702908736958
+      RA_Cavern_Unity_82: -5689937273173230604
+      RA_Cavern_Unity_83: 1006700931590515638
+      RA_Cavern_Unity_84: -8825200339002229345
+      RA_Cavern_Unity_85: -373718402568139526
+      RA_Cavern_Unity_86: -3098695486068138550
+      RA_Cavern_Unity_87: -6703564804378952560
+      RA_Cavern_Unity_88: -3114278491360644404
+      RA_Cavern_Unity_89: 1469878239564592098
+      RA_Cavern_Unity_9: 8367255876003989310
+      RA_Cavern_Unity_90: -4391384488560548468
+      RA_Cavern_Unity_91: -7629377583419900153
+      RA_Cavern_Unity_92: -6834700753322974681
+      RA_Cavern_Unity_93: -1291846456242935594
+      RA_Cavern_Unity_94: 8726355251915925095
+      RA_Cavern_Unity_95: -5858739894941792686
+      RA_Cavern_Unity_96: -6787836028499222955
+      RA_Cavern_Unity_97: -5429618720242020289
+      RA_Cavern_Unity_98: 6771386890974362344
+      RA_Cavern_Unity_99: 7504234963323660330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
