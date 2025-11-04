@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: ed856ff232b9e7f4d8721b242b267cf3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3165883013565961915
+    second: RA_Cavern_C_0
+  - first:
+      213: 6214269532303124467
+    second: RA_Cavern_C_1
+  - first:
+      213: -8126216841623658806
+    second: RA_Cavern_C_2
+  - first:
+      213: 5268094230970475203
+    second: RA_Cavern_C_3
+  - first:
+      213: -6493988683431579769
+    second: RA_Cavern_C_4
+  - first:
+      213: 5828269181055162907
+    second: RA_Cavern_C_5
+  - first:
+      213: 6480265247473026777
+    second: RA_Cavern_C_6
+  - first:
+      213: -7990910230674921687
+    second: RA_Cavern_C_7
+  - first:
+      213: -1597152428113548044
+    second: RA_Cavern_C_8
+  - first:
+      213: -7151634486427020813
+    second: RA_Cavern_C_9
+  - first:
+      213: 6910969378329639677
+    second: RA_Cavern_C_10
+  - first:
+      213: -7726805649112375795
+    second: RA_Cavern_C_11
+  - first:
+      213: -4563782973569076451
+    second: RA_Cavern_C_12
+  - first:
+      213: -7994561103736870707
+    second: RA_Cavern_C_13
+  - first:
+      213: -7442827719861918080
+    second: RA_Cavern_C_14
+  - first:
+      213: -5705055475108494533
+    second: RA_Cavern_C_15
+  - first:
+      213: -525443864202854671
+    second: RA_Cavern_C_16
+  - first:
+      213: 8864269399749038772
+    second: RA_Cavern_C_17
+  - first:
+      213: 2480768553850264670
+    second: RA_Cavern_C_18
+  - first:
+      213: -8011454754241457140
+    second: RA_Cavern_C_19
+  - first:
+      213: -2680477978396032837
+    second: RA_Cavern_C_20
+  - first:
+      213: -5080544027432651961
+    second: RA_Cavern_C_21
+  - first:
+      213: 4374928468786400726
+    second: RA_Cavern_C_22
+  - first:
+      213: -256228997108841992
+    second: RA_Cavern_C_23
+  - first:
+      213: -7409861159979444910
+    second: RA_Cavern_C_24
+  - first:
+      213: -8566720345326111103
+    second: RA_Cavern_C_25
+  - first:
+      213: -8709970642614822317
+    second: RA_Cavern_C_26
+  - first:
+      213: -7240421402067727877
+    second: RA_Cavern_C_27
+  - first:
+      213: 4556609839999269439
+    second: RA_Cavern_C_28
+  - first:
+      213: -9029763595147407502
+    second: RA_Cavern_C_29
+  - first:
+      213: -2896154206475024366
+    second: RA_Cavern_C_30
+  - first:
+      213: 2607818739478344821
+    second: RA_Cavern_C_31
+  - first:
+      213: -1912115417934789595
+    second: RA_Cavern_C_32
+  - first:
+      213: 3176280957289121139
+    second: RA_Cavern_C_33
+  - first:
+      213: 6173025814739222297
+    second: RA_Cavern_C_34
+  - first:
+      213: -8387776074069204340
+    second: RA_Cavern_C_35
+  - first:
+      213: -971763223784561824
+    second: RA_Cavern_C_36
+  - first:
+      213: -912621040214746646
+    second: RA_Cavern_C_37
+  - first:
+      213: -4086223543916754842
+    second: RA_Cavern_C_38
+  - first:
+      213: 5806881026933846895
+    second: RA_Cavern_C_39
+  - first:
+      213: 7791785608111161059
+    second: RA_Cavern_C_40
+  - first:
+      213: 7975939248876309219
+    second: RA_Cavern_C_41
+  - first:
+      213: 1384820839481710421
+    second: RA_Cavern_C_42
+  - first:
+      213: -2715956560595647915
+    second: RA_Cavern_C_43
+  - first:
+      213: -7729295803913770306
+    second: RA_Cavern_C_44
+  - first:
+      213: 2907427155652259586
+    second: RA_Cavern_C_45
+  - first:
+      213: -1975996494390407070
+    second: RA_Cavern_C_46
+  - first:
+      213: 4429974586879351288
+    second: RA_Cavern_C_47
+  - first:
+      213: 8331646270677789413
+    second: RA_Cavern_C_48
+  - first:
+      213: 726025759062008776
+    second: RA_Cavern_C_49
+  - first:
+      213: 7647652733641551046
+    second: RA_Cavern_C_50
+  - first:
+      213: 770263621386661669
+    second: RA_Cavern_C_51
+  - first:
+      213: -301781923032629090
+    second: RA_Cavern_C_52
+  - first:
+      213: -8609613292019906069
+    second: RA_Cavern_C_53
+  - first:
+      213: 2003887183188701648
+    second: RA_Cavern_C_54
+  - first:
+      213: -8518040729944047647
+    second: RA_Cavern_C_55
+  - first:
+      213: -1347839651399826749
+    second: RA_Cavern_C_56
+  - first:
+      213: -8558829909840255857
+    second: RA_Cavern_C_57
+  - first:
+      213: -3689816787129977409
+    second: RA_Cavern_C_58
+  - first:
+      213: -7739750473436454672
+    second: RA_Cavern_C_59
+  - first:
+      213: -6810011587535663974
+    second: RA_Cavern_C_60
+  - first:
+      213: 6036045691165831811
+    second: RA_Cavern_C_61
+  - first:
+      213: 6605630745802247200
+    second: RA_Cavern_C_62
+  - first:
+      213: 2451514889217804185
+    second: RA_Cavern_C_63
+  - first:
+      213: -2423763599166631905
+    second: RA_Cavern_C_64
+  - first:
+      213: -1482990620870100310
+    second: RA_Cavern_C_65
+  - first:
+      213: -8308559997988926860
+    second: RA_Cavern_C_66
+  - first:
+      213: 2433421427790387355
+    second: RA_Cavern_C_67
+  - first:
+      213: 7522995597055001384
+    second: RA_Cavern_C_68
+  - first:
+      213: -2711372147126935911
+    second: RA_Cavern_C_69
+  - first:
+      213: 5207240576887802524
+    second: RA_Cavern_C_70
+  - first:
+      213: 6093220217354874502
+    second: RA_Cavern_C_71
+  - first:
+      213: 5670532180811974968
+    second: RA_Cavern_C_72
+  - first:
+      213: -4644155425873642892
+    second: RA_Cavern_C_73
+  - first:
+      213: 7493542055867673787
+    second: RA_Cavern_C_74
+  - first:
+      213: 8464636946307094212
+    second: RA_Cavern_C_75
+  - first:
+      213: 4424746235911421140
+    second: RA_Cavern_C_76
+  - first:
+      213: -6560658559743143311
+    second: RA_Cavern_C_77
+  - first:
+      213: 2052263569713248410
+    second: RA_Cavern_C_78
+  - first:
+      213: 830238375910941887
+    second: RA_Cavern_C_79
+  - first:
+      213: 3567890456444001428
+    second: RA_Cavern_C_80
+  - first:
+      213: 2547106160234076444
+    second: RA_Cavern_C_81
+  - first:
+      213: 486497392766652164
+    second: RA_Cavern_C_82
+  - first:
+      213: 7113830652285424162
+    second: RA_Cavern_C_83
+  - first:
+      213: 826085264696949156
+    second: RA_Cavern_C_84
+  - first:
+      213: 8010384932790540089
+    second: RA_Cavern_C_85
+  - first:
+      213: -6475305906518928093
+    second: RA_Cavern_C_86
+  - first:
+      213: -638725331154559380
+    second: RA_Cavern_C_87
+  - first:
+      213: -6345065265524041712
+    second: RA_Cavern_C_88
+  - first:
+      213: -6132421700634344144
+    second: RA_Cavern_C_89
+  - first:
+      213: 7718303372290582400
+    second: RA_Cavern_C_90
+  - first:
+      213: -6385922188160781913
+    second: RA_Cavern_C_91
+  - first:
+      213: -612912609576524508
+    second: RA_Cavern_C_92
+  - first:
+      213: 6839099610618499972
+    second: RA_Cavern_C_93
+  - first:
+      213: -3284683119796242039
+    second: RA_Cavern_C_94
+  - first:
+      213: -8579009553935542436
+    second: RA_Cavern_C_95
+  - first:
+      213: -4030764991928383395
+    second: RA_Cavern_C_96
+  - first:
+      213: 2779488823764866471
+    second: RA_Cavern_C_97
+  - first:
+      213: -2523414104041666030
+    second: RA_Cavern_C_98
+  - first:
+      213: 2161735518431972577
+    second: RA_Cavern_C_99
+  - first:
+      213: -5830411555028876088
+    second: RA_Cavern_C_100
+  - first:
+      213: -6135000217284031095
+    second: RA_Cavern_C_101
+  - first:
+      213: -2701592834110575300
+    second: RA_Cavern_C_102
+  - first:
+      213: -5891901254859261702
+    second: RA_Cavern_C_103
+  - first:
+      213: 6039537891644953976
+    second: RA_Cavern_C_104
+  - first:
+      213: -7636561927523035194
+    second: RA_Cavern_C_105
+  - first:
+      213: 1063809704550624301
+    second: RA_Cavern_C_106
+  - first:
+      213: -2949879086701197553
+    second: RA_Cavern_C_107
+  - first:
+      213: -7606342483751894295
+    second: RA_Cavern_C_108
+  - first:
+      213: 70027846730537543
+    second: RA_Cavern_C_109
+  - first:
+      213: -2411096431958315946
+    second: RA_Cavern_C_110
+  - first:
+      213: -1782390980494137574
+    second: RA_Cavern_C_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RA_Cavern_C_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 737
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54925f73c268014d0800000000000000
+      internalID: -3165883013565961915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 731
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7e57b07358d3650800000000000000
+      internalID: 6214269532303124467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 734
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace993b46d0e93f80800000000000000
+      internalID: -8126216841623658806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 737
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2a740aac70c1940800000000000000
+      internalID: 5268094230970475203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 734
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f67a4f2b7b0e5a0800000000000000
+      internalID: -6493988683431579769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 677
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a5620d0fb22e050800000000000000
+      internalID: 5828269181055162907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 677
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d640fd98e68ee950800000000000000
+      internalID: 6480265247473026777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 677
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927269c9b759a1190800000000000000
+      internalID: -7990910230674921687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 677
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca3262456c5d9e0800000000000000
+      internalID: -1597152428113548044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 722
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f19519535a40cc90800000000000000
+      internalID: -7151634486427020813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 722
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfab0f0a802b8ef50800000000000000
+      internalID: 6910969378329639677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 722
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0edc24533fd4c490800000000000000
+      internalID: -7726805649112375795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 686
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137074c09f2aa0c0800000000000000
+      internalID: -4563782973569076451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 701
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8eb9c780d9d0190800000000000000
+      internalID: -7994561103736870707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 677
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08623316f93c5b890800000000000000
+      internalID: -7442827719861918080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 701
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c246a54293d0b0800000000000000
+      internalID: -5705055475108494533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 701
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb7c4e69f35b8f0800000000000000
+      internalID: -525443864202854671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 686
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2186ddd06340b70800000000000000
+      internalID: 8864269399749038772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 698
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c54362bd57d6220800000000000000
+      internalID: 2480768553850264670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 698
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04d257f85891d090800000000000000
+      internalID: -8011454754241457140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_20
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 674
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0827dfa770dcad0800000000000000
+      internalID: -2680477978396032837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 674
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f42bff184e79b0800000000000000
+      internalID: -5080544027432651961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 674
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc1c3534ed6bc30800000000000000
+      internalID: 4374928468786400726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 674
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f14c2ea511b17cf0800000000000000
+      internalID: -256228997108841992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 674
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255167cb882ea2990800000000000000
+      internalID: -7409861159979444910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 650
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186b9befb35ec1980800000000000000
+      internalID: -8566720345326111103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 626
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35adcd219d7ff1780800000000000000
+      internalID: -8709970642614822317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 644
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf90e91a81bd48b90800000000000000
+      internalID: -7240421402067727877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 635
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab43de1845c3f30800000000000000
+      internalID: 4556609839999269439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 650
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0c791ad5dfa280800000000000000
+      internalID: -9029763595147407502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 623
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2188d4cf71bcec7d0800000000000000
+      internalID: -2896154206475024366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 578
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574b635a355d03420800000000000000
+      internalID: 2607818739478344821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 578
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5240370882dc675e0800000000000000
+      internalID: -1912115417934789595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 578
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754e06b3ba641c20800000000000000
+      internalID: 3176280957289121139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 578
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ff8dcb54efaa550800000000000000
+      internalID: 6173025814739222297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_35
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a599d912a89b80800000000000000
+      internalID: -8387776074069204340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_36
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06368802f7a9382f0800000000000000
+      internalID: -971763223784561824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_37
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9d37bcff7b553f0800000000000000
+      internalID: -912621040214746646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 629
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66801082651da47c0800000000000000
+      internalID: -4086223543916754842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 626
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f85f178f269050800000000000000
+      internalID: 5806881026933846895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 623
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee77795abbf12c60800000000000000
+      internalID: 7791785608111161059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 581
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea4e5f0d7a30be60800000000000000
+      internalID: 7975939248876309219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 194
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579dd6673fd73310800000000000000
+      internalID: 1384820839481710421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_43
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 578
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5520e4cd5ebfe4ad0800000000000000
+      internalID: -2715956560595647915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 533
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba6dcbfa660cb490800000000000000
+      internalID: -7729295803913770306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 527
+        width: 194
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f2af60891495820800000000000000
+      internalID: 2907427155652259586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_46
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 479
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260517a58a9d394e0800000000000000
+      internalID: -1975996494390407070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 479
+        width: 143
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f993fe6a6e6a7d30800000000000000
+      internalID: 4429974586879351288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 482
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea25f5e324ff9370800000000000000
+      internalID: 8331646270677789413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_49
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 482
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3acaac49c531a00800000000000000
+      internalID: 726025759062008776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 193
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccef3a64abe12a60800000000000000
+      internalID: 7647652733641551046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 389
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6820cea680ba00800000000000000
+      internalID: 770263621386661669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_52
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 389
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90810e90fadfcbf0800000000000000
+      internalID: -301781923032629090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_53
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 383
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be90cab9352848880800000000000000
+      internalID: -8609613292019906069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 386
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1bbeba6cc3fcb10800000000000000
+      internalID: 2003887183188701648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_55
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 383
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef306d2617d9c980800000000000000
+      internalID: -8518040729944047647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 353
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2802c6af28b4de0800000000000000
+      internalID: -1347839651399826749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 347
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84abfa2b8de83980800000000000000
+      internalID: -8558829909840255857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 350
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb538dc7e232bccc0800000000000000
+      internalID: -3689816787129977409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_59
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 353
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a8ac83f1e69490800000000000000
+      internalID: -7739750473436454672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_60
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 350
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c84a8ca8afd71a0800000000000000
+      internalID: -6810011587535663974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_61
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 293
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38277f5639754c350800000000000000
+      internalID: 6036045691165831811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_62
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 293
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c01f84a2aebab50800000000000000
+      internalID: 6605630745802247200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_63
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 293
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99788659dc7850220800000000000000
+      internalID: 2451514889217804185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_64
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 293
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10962429df0d5ed0800000000000000
+      internalID: -2423763599166631905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_65
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 338
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3dc533eb5b6be0800000000000000
+      internalID: -1482990620870100310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_66
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 338
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a89d4d3b012bc80800000000000000
+      internalID: -8308559997988926860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_67
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 338
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98154055ef35c120800000000000000
+      internalID: 2433421427790387355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8238a4113ac076860800000000000000
+      internalID: 7522995597055001384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 317
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e5c9cc5654f5ad0800000000000000
+      internalID: -2711372147126935911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 293
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac56d27b5d34840800000000000000
+      internalID: 5207240576887802524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 317
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e6aa121877f8450800000000000000
+      internalID: 6093220217354874502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_72
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 317
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83908b489f6c1be40800000000000000
+      internalID: 5670532180811974968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 302
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a3917fe35ac8fb0800000000000000
+      internalID: -4644155425873642892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 314
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc617d1cc86ef760800000000000000
+      internalID: 7493542055867673787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 314
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61841847e687570800000000000000
+      internalID: 8464636946307094212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_76
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 290
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3fbc124bd76d30800000000000000
+      internalID: 4424746235911421140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17252edbccbd3f4a0800000000000000
+      internalID: -6560658559743143311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98bb32e7da1b7c10800000000000000
+      internalID: 2052263569713248410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4a1137769958b00800000000000000
+      internalID: 830238375910941887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 290
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cd9d57771b38130800000000000000
+      internalID: 3567890456444001428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 266
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1916fdbe83295320800000000000000
+      internalID: 2547106160234076444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 242
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f82081dc260c600800000000000000
+      internalID: 486497392766652164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22212cd994769b260800000000000000
+      internalID: 7113830652285424162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 251
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a93274eb28d67b00800000000000000
+      internalID: 826085264696949156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_85
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 266
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9371f11d7aa9a2f60800000000000000
+      internalID: 8010384932790540089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_86
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32553fde5971326a0800000000000000
+      internalID: -6475305906518928093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 194
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1d7702bac227f0800000000000000
+      internalID: -638725331154559380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_88
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 194
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01815c332ccc1f7a0800000000000000
+      internalID: -6345065265524041712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_89
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 194
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0350bc844f245eaa0800000000000000
+      internalID: -6132421700634344144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_90
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 194
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0876416160cec1b60800000000000000
+      internalID: 7718303372290582400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_91
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 242
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1346b9a95a067a0800000000000000
+      internalID: -6385922188160781913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_92
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 242
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42565db9a3f7e77f0800000000000000
+      internalID: -612912609576524508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_93
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 242
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839d6a5cdc59ee50800000000000000
+      internalID: 6839099610618499972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_94
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 245
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989b2d40b167a62d0800000000000000
+      internalID: -3284683119796242039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c575df4a34c31f880800000000000000
+      internalID: -8579009553935542436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_96
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 239
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5847038898df08c0800000000000000
+      internalID: -4030764991928383395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_97
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a55caddb5ab29620800000000000000
+      internalID: 2779488823764866471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_98
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 194
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ac263fd380bfcd0800000000000000
+      internalID: -2523414104041666030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_99
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 194
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec8b7a2007000e10800000000000000
+      internalID: 2161735518431972577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4cb20e497361fa0800000000000000
+      internalID: -5830411555028876088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 194
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d47d79ec91cdaa0800000000000000
+      internalID: -6135000217284031095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_102
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d291b81a3028ad0800000000000000
+      internalID: -2701592834110575300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_103
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 95
+        width: 143
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87f6c7603cb3ea0800000000000000
+      internalID: -5891901254859261702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_104
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 98
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875520fa6bfb0d350800000000000000
+      internalID: 6039537891644953976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_105
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 98
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c797bc136b750690800000000000000
+      internalID: -7636561927523035194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 193
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c6a5c3a4963ce00800000000000000
+      internalID: 1063809704550624301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_107
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0742da899cef07d0800000000000000
+      internalID: -2949879086701197553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_108
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 5
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e28108afc7d07690800000000000000
+      internalID: -7606342483751894295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_109
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a52c0a4f9c8f000800000000000000
+      internalID: 70027846730537543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_110
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca9e5d1901a8ed0800000000000000
+      internalID: -2411096431958315946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RA_Cavern_C_111
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1769c4c8dca347e0800000000000000
+      internalID: -1782390980494137574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RA_Cavern_C_0: -3165883013565961915
+      RA_Cavern_C_1: 6214269532303124467
+      RA_Cavern_C_10: 6910969378329639677
+      RA_Cavern_C_100: -5830411555028876088
+      RA_Cavern_C_101: -6135000217284031095
+      RA_Cavern_C_102: -2701592834110575300
+      RA_Cavern_C_103: -5891901254859261702
+      RA_Cavern_C_104: 6039537891644953976
+      RA_Cavern_C_105: -7636561927523035194
+      RA_Cavern_C_106: 1063809704550624301
+      RA_Cavern_C_107: -2949879086701197553
+      RA_Cavern_C_108: -7606342483751894295
+      RA_Cavern_C_109: 70027846730537543
+      RA_Cavern_C_11: -7726805649112375795
+      RA_Cavern_C_110: -2411096431958315946
+      RA_Cavern_C_111: -1782390980494137574
+      RA_Cavern_C_12: -4563782973569076451
+      RA_Cavern_C_13: -7994561103736870707
+      RA_Cavern_C_14: -7442827719861918080
+      RA_Cavern_C_15: -5705055475108494533
+      RA_Cavern_C_16: -525443864202854671
+      RA_Cavern_C_17: 8864269399749038772
+      RA_Cavern_C_18: 2480768553850264670
+      RA_Cavern_C_19: -8011454754241457140
+      RA_Cavern_C_2: -8126216841623658806
+      RA_Cavern_C_20: -2680477978396032837
+      RA_Cavern_C_21: -5080544027432651961
+      RA_Cavern_C_22: 4374928468786400726
+      RA_Cavern_C_23: -256228997108841992
+      RA_Cavern_C_24: -7409861159979444910
+      RA_Cavern_C_25: -8566720345326111103
+      RA_Cavern_C_26: -8709970642614822317
+      RA_Cavern_C_27: -7240421402067727877
+      RA_Cavern_C_28: 4556609839999269439
+      RA_Cavern_C_29: -9029763595147407502
+      RA_Cavern_C_3: 5268094230970475203
+      RA_Cavern_C_30: -2896154206475024366
+      RA_Cavern_C_31: 2607818739478344821
+      RA_Cavern_C_32: -1912115417934789595
+      RA_Cavern_C_33: 3176280957289121139
+      RA_Cavern_C_34: 6173025814739222297
+      RA_Cavern_C_35: -8387776074069204340
+      RA_Cavern_C_36: -971763223784561824
+      RA_Cavern_C_37: -912621040214746646
+      RA_Cavern_C_38: -4086223543916754842
+      RA_Cavern_C_39: 5806881026933846895
+      RA_Cavern_C_4: -6493988683431579769
+      RA_Cavern_C_40: 7791785608111161059
+      RA_Cavern_C_41: 7975939248876309219
+      RA_Cavern_C_42: 1384820839481710421
+      RA_Cavern_C_43: -2715956560595647915
+      RA_Cavern_C_44: -7729295803913770306
+      RA_Cavern_C_45: 2907427155652259586
+      RA_Cavern_C_46: -1975996494390407070
+      RA_Cavern_C_47: 4429974586879351288
+      RA_Cavern_C_48: 8331646270677789413
+      RA_Cavern_C_49: 726025759062008776
+      RA_Cavern_C_5: 5828269181055162907
+      RA_Cavern_C_50: 7647652733641551046
+      RA_Cavern_C_51: 770263621386661669
+      RA_Cavern_C_52: -301781923032629090
+      RA_Cavern_C_53: -8609613292019906069
+      RA_Cavern_C_54: 2003887183188701648
+      RA_Cavern_C_55: -8518040729944047647
+      RA_Cavern_C_56: -1347839651399826749
+      RA_Cavern_C_57: -8558829909840255857
+      RA_Cavern_C_58: -3689816787129977409
+      RA_Cavern_C_59: -7739750473436454672
+      RA_Cavern_C_6: 6480265247473026777
+      RA_Cavern_C_60: -6810011587535663974
+      RA_Cavern_C_61: 6036045691165831811
+      RA_Cavern_C_62: 6605630745802247200
+      RA_Cavern_C_63: 2451514889217804185
+      RA_Cavern_C_64: -2423763599166631905
+      RA_Cavern_C_65: -1482990620870100310
+      RA_Cavern_C_66: -8308559997988926860
+      RA_Cavern_C_67: 2433421427790387355
+      RA_Cavern_C_68: 7522995597055001384
+      RA_Cavern_C_69: -2711372147126935911
+      RA_Cavern_C_7: -7990910230674921687
+      RA_Cavern_C_70: 5207240576887802524
+      RA_Cavern_C_71: 6093220217354874502
+      RA_Cavern_C_72: 5670532180811974968
+      RA_Cavern_C_73: -4644155425873642892
+      RA_Cavern_C_74: 7493542055867673787
+      RA_Cavern_C_75: 8464636946307094212
+      RA_Cavern_C_76: 4424746235911421140
+      RA_Cavern_C_77: -6560658559743143311
+      RA_Cavern_C_78: 2052263569713248410
+      RA_Cavern_C_79: 830238375910941887
+      RA_Cavern_C_8: -1597152428113548044
+      RA_Cavern_C_80: 3567890456444001428
+      RA_Cavern_C_81: 2547106160234076444
+      RA_Cavern_C_82: 486497392766652164
+      RA_Cavern_C_83: 7113830652285424162
+      RA_Cavern_C_84: 826085264696949156
+      RA_Cavern_C_85: 8010384932790540089
+      RA_Cavern_C_86: -6475305906518928093
+      RA_Cavern_C_87: -638725331154559380
+      RA_Cavern_C_88: -6345065265524041712
+      RA_Cavern_C_89: -6132421700634344144
+      RA_Cavern_C_9: -7151634486427020813
+      RA_Cavern_C_90: 7718303372290582400
+      RA_Cavern_C_91: -6385922188160781913
+      RA_Cavern_C_92: -612912609576524508
+      RA_Cavern_C_93: 6839099610618499972
+      RA_Cavern_C_94: -3284683119796242039
+      RA_Cavern_C_95: -8579009553935542436
+      RA_Cavern_C_96: -4030764991928383395
+      RA_Cavern_C_97: 2779488823764866471
+      RA_Cavern_C_98: -2523414104041666030
+      RA_Cavern_C_99: 2161735518431972577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

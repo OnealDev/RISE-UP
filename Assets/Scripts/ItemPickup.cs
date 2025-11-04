@@ -1,13 +1,11 @@
 ﻿using UnityEngine;
 using TMPro;
-using UnityEngine.UI;
 using System.Collections;
 
 public class ItemPickup : MonoBehaviour
 {
-     public string itemName = "Scripture";
-     public GameObject messagePanel;
-     public TMP_Text messageText;
+     public string itemName = "Bible";
+     public GameObject popupPrefab; // Assign ItemPopUP here (not the UI Canvas)
      public float messageDuration = 3f;
 
      private bool collected = false;
@@ -18,25 +16,26 @@ public class ItemPickup : MonoBehaviour
           {
                collected = true;
 
-               // Show message before deactivating object
-               if (messagePanel != null && messageText != null)
-               {
-                    messagePanel.SetActive(true);
-                    messageText.text = $"{itemName} collected! You've been blessed.";
+               // ✅ Create popup under the main Canvas
+               GameObject popup = Instantiate(popupPrefab, Object.FindFirstObjectByType<Canvas>().transform, false);
+               popup.SetActive(true);
 
-                    // Start coroutine while still active
-                    StartCoroutine(HideMessageAfterDelay());
-               }
+               TMP_Text popupText = popup.GetComponentInChildren<TMP_Text>();
+               if (popupText != null)
+                    popupText.text = $"{itemName} collected! You've been blessed.";
 
-               // Now hide the book
+               StartCoroutine(HideAndDestroyPopup(popup));
+
+               // Hide the Bible object
                gameObject.SetActive(false);
           }
      }
 
-     private IEnumerator HideMessageAfterDelay()
+     private IEnumerator HideAndDestroyPopup(GameObject popup)
      {
           yield return new WaitForSeconds(messageDuration);
-          if (messagePanel != null)
-               messagePanel.SetActive(false);
+          Destroy(popup);
      }
 }
+
+
