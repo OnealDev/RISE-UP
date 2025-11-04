@@ -1,107 +1,60 @@
-/*using Cinemachine;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using UnityEngine;
+
+[System.Serializable]
+public class SaveData
+{
+     public Vector3 playerPosition;
+     public string currentMap; // optional, if you want to track which map the player was on
+}
 
 public class SaveController : MonoBehaviour
 {
-    private string saveLocation;
-    private InventoryController inventoryController;
-    private HotbarController hotbarController;
-    private Chest[] chests;
+     private string saveLocation;
+     public GameObject player;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        InitializeComponents();
-        LoadGame();
-    }
+     void Start()
+     {
+          saveLocation = Path.Combine(Application.persistentDataPath, "saveData.json");
 
-    private void InitializeComponents()
-    {
-        saveLocation = Path.Combine(Application.persistentDataPath, "saveData.json");
-        inventoryController = FindObjectOfType<InventoryController>();
-        hotbarController = FindObjectOfType<HotbarController>();
-        chests = FindObjectsOfType<Chest>();
-    }
+          if (player == null)
+               player = GameObject.FindGameObjectWithTag("Player");
 
-    public void SaveGame()
-    {
-        SaveData saveData = new SaveData
-        {
-            playerPosition = GameObject.FindGameObjectWithTag("Player").transform.position,
-            mapBoundary = FindObjectOfType<CinemachineConfiner>().m_BoundingShape2D.gameObject.name,
-            inventorySaveData = inventoryController.GetInventoryItems(),
-            hotbarSaveData = hotbarController.GetHotbarItems(),
-            chestSaveData = GetChestsState(),
-            questProgressData = QuestController.Instance.activateQuests
-        };
+          LoadGame();
+     }
 
-        File.WriteAllText(saveLocation, JsonUtility.ToJson(saveData));
-    }
+     public void SaveGame()
+     {
+          if (player == null) return;
 
-    private List<ChestSaveData> GetChestsState()
-    {
-        List<ChestSaveData> chestStates = new List<ChestSaveData>();
+          SaveData saveData = new SaveData
+          {
+               playerPosition = player.transform.position,
+               currentMap = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name
+          };
 
-        foreach(Chest chest in chests)
-        {
-            ChestSaveData chestSaveData = new ChestSaveData
-            {
-                chestID = chest.ChestID,
-                isOpened = chest.IsOpened
-            };
-            chestStates.Add(chestSaveData);
-        }
+          File.WriteAllText(saveLocation, JsonUtility.ToJson(saveData, true));
+          Debug.Log("Game Saved to " + saveLocation);
+     }
 
-        return chestStates;
-    }
+     public void LoadGame()
+     {
+          if (File.Exists(saveLocation))
+          {
+               SaveData saveData = JsonUtility.FromJson<SaveData>(File.ReadAllText(saveLocation));
 
-    public void LoadGame()
-    {
-        if (File.Exists(saveLocation))
-        {
-            SaveData saveData = JsonUtility.FromJson<SaveData>(File.ReadAllText(saveLocation));
-
-            GameObject.FindGameObjectWithTag("Player").transform.position = saveData.playerPosition;
-
-            PolygonCollider2D savedMapBoundry = GameObject.Find(saveData.mapBoundary).GetComponent<PolygonCollider2D>();
-            FindObjectOfType<CinemachineConfiner>().m_BoundingShape2D = savedMapBoundry;
-
-            MapController_Manual.Instance?.HighlightArea(saveData.mapBoundary);
-            MapController_Dynamic.Instance?.GenerateMap(savedMapBoundry);
-
-            inventoryController.SetInventoryItems(saveData.inventorySaveData);
-            hotbarController.SetHotbarItems(saveData.hotbarSaveData);
-
-            LoadChestStates(saveData.chestSaveData);
-
-            QuestController.Instance.LoadQuestProgress(saveData.questProgressData);
-        }
-        else
-        {
-            SaveGame();
-
-            inventoryController.SetInventoryItems(new List<InventorySaveData>());
-            hotbarController.SetHotbarItems(new List<InventorySaveData>());
-
-            MapController_Dynamic.Instance?.GenerateMap();
-        }
-    }
-
-    private void LoadChestStates(List<ChestSaveData> chestStates)
-    {
-        foreach(Chest chest in chests)
-        {
-            ChestSaveData chestSaveData = chestStates.FirstOrDefault(c => c.chestID == chest.ChestID);
-
-            if (chestSaveData != null)
-            {
-                chest.SetOpened(chestSaveData.isOpened);
-            }
-        }
-    }
+               if (player != null)
+               {
+                    player.transform.position = saveData.playerPosition;
+                    Debug.Log("Game Loaded: Player moved to saved position.");
+               }
+          }
+          else
+          {
+               Debug.Log("No save file found. Creating new save...");
+               SaveGame();
+          }
+     }
 }
-*/
