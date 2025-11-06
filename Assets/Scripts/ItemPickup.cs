@@ -16,7 +16,7 @@ public class ItemPickup : MonoBehaviour
           {
                collected = true;
 
-               // ✅ Create popup under the main Canvas
+               // Create popup under the main Canvas
                GameObject popup = Instantiate(popupPrefab, Object.FindFirstObjectByType<Canvas>().transform, false);
                popup.SetActive(true);
 

@@ -1,55 +1,44 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using System.Collections;
 
 public class BounceEffect : MonoBehaviour
 {
-    public float bounceHeight = 0.3f;
-    public float bounceDuration = 0.4f;
-    public int bounceCount = 2;
+     [Header("Bounce Settings")]
+     public float bounceHeight = 0.5f;
+     public float bounceSpeed = 4f;
+     public float bounceDuration = 0.5f;
 
-    public void StartBounce()
-    {
-        StartCoroutine(BounceHandler());
-    }
+     private Vector3 startPos;
+     private bool hasBounced = false;
 
-    private IEnumerator BounceHandler()
-    {
-        Vector3 startPosition = transform.position;
-        float localHeight = bounceHeight;
-        float localDuration = bounceDuration;
+     void Awake()
+     {
+          startPos = transform.position;
+     }
 
-        for(int i = 0; i < bounceCount; i++)
-        {
-            yield return Bounce(startPosition, localHeight, localDuration / 2);
-            localHeight *= 0.5f;
-            localDuration *= 0.8f;
-        }
+     // Only runs when explicitly called (like from the chest)
+     public void StartBounce()
+     {
+          if (!hasBounced)
+          {
+               hasBounced = true;
+               StartCoroutine(Bounce());
+          }
+     }
 
-        transform.position = startPosition;
-    }
+     private IEnumerator Bounce()
+     {
+          float elapsed = 0f;
 
-    private IEnumerator Bounce(Vector3 start, float height, float duration)
-    {
-        Vector3 peak = start + Vector3.up * height;
-        float elasped = 0f;
+          while (elapsed < bounceDuration)
+          {
+               float yOffset = Mathf.Sin(elapsed * bounceSpeed) * bounceHeight;
+               transform.position = startPos + new Vector3(0f, yOffset, 0f);
 
-        //Move upwards
-        while(elasped < duration)
-        {
-            transform.position = Vector3.Lerp(start, peak, elasped / duration);
-            elasped += Time.deltaTime;
-            yield return null;
-        }
+               elapsed += Time.deltaTime;
+               yield return null;
+          }
 
-        elasped = 0f;
-
-        //Move Downwards
-        while (elasped < duration)
-        {
-            transform.position = Vector3.Lerp(peak, start, elasped / duration);
-            elasped += Time.deltaTime;
-            yield return null;
-        }
-    }
+          transform.position = startPos;
+     }
 }

@@ -1,19 +1,18 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Chest : MonoBehaviour, IInteractable
 {
      public bool IsOpened { get; private set; }
-     public string ChestID { get; private set; }
-     public GameObject itemPrefab;  //Item that chest drops
-     public Sprite openedSprite;
+
+     [Header("Chest Setup")]
+     public Animator animator;
+     public GameObject itemInside; // Bible inside the chest
 
      void Start()
      {
-          ChestID ??= GlobalHelper.GenerateUniqueID(gameObject);
+          if (itemInside != null)
+               itemInside.SetActive(false);
      }
-    
 
      public bool CanInteract()
      {
@@ -23,28 +22,22 @@ public class Chest : MonoBehaviour, IInteractable
      public void Interact()
      {
           if (!CanInteract()) return;
-          //OpenChest
-          OpenChest();
 
+          IsOpened = true;
+          animator.SetTrigger("Open"); // triggers animation
      }
 
-     private void OpenChest()
+     // Called at the END of your chest-open animation
+     public void ReleaseItem()
      {
-          SetOpened(true);
-
-          //DropItem
-          if(itemPrefab)
+          if (itemInside != null)
           {
-               GameObject droppedItem = Instantiate(itemPrefab, transform.position + Vector3.down, Quaternion.identity);
-               //Need this: //droppedItem.GetComponent<BounceEffect>().StartBounce();
-          }
-     }
+               itemInside.SetActive(true);
 
-     public void SetOpened(bool opened)
-     {
-          if(IsOpened = opened)
-          {
-               GetComponent<SpriteRenderer>().sprite = openedSprite;
+               // Let it bounce if it has a BounceEffect
+               BounceEffect bounce = itemInside.GetComponent<BounceEffect>();
+               if (bounce != null)
+                    bounce.StartBounce();
           }
      }
 }
