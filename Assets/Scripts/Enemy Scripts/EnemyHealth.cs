@@ -18,6 +18,24 @@ public class EnemyHealth : MonoBehaviour
      {
           currentHealth += amount;
 
+          // FLASH EFFECT WHEN TAKING DAMAGE
+          if (amount < 0) // flash when taking damage (negative amount)
+          {
+               Debug.Log($"💥 Enemy took damage! Calling flash...");
+        
+               FlashOnHit flash = GetComponent<FlashOnHit>();
+               if (flash != null)
+               {
+                flash.Flash();
+               }
+        else
+        {
+            Debug.LogError("❌ No FlashOnHit component found!");
+        }
+               GetComponent<HitSound>()?.PlayRandomHitSound();
+          }
+          
+        
           if (currentHealth > maxHealth)
           {
                currentHealth = maxHealth;
