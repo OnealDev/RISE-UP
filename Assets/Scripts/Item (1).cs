@@ -1,12 +1,12 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class Item : MonoBehaviour, IInteractable
 {
      [Header("Item Settings")]
      public int ID;
      public string Name;
-     public float massBonus = 0.5f; // how much this item increases the player's mass
+     [Tooltip("Mass added to player on pickup.")]
+     public float massBonus = 0.5f;
 
      private bool canBePickedUp = false;
      private GameObject player;
@@ -16,21 +16,31 @@ public class Item : MonoBehaviour, IInteractable
           player = GameObject.FindGameObjectWithTag("Player");
      }
 
-     private void OnTriggerEnter2D(Collider2D collision)
+     private void Update()
      {
-          if (collision.CompareTag("Player"))
+          // Only pick up when the player presses E and is in range
+          if (canBePickedUp && Input.GetKeyDown(KeyCode.E))
           {
-               canBePickedUp = true;
-               Debug.Log($"{Name} is within pickup range.");
+               PickUp();
           }
      }
 
-     private void OnTriggerExit2D(Collider2D collision)
+     private void OnTriggerEnter2D(Collider2D other)
      {
-          if (collision.CompareTag("Player"))
+          if (other.CompareTag("Player"))
+          {
+               canBePickedUp = true;
+               player = other.gameObject;
+               Debug.Log($"Press E to pick up {Name}");
+          }
+     }
+
+     private void OnTriggerExit2D(Collider2D other)
+     {
+          if (other.CompareTag("Player") && other.gameObject == player)
           {
                canBePickedUp = false;
-               Debug.Log($"{Name} is out of range.");
+               Debug.Log($"You walked away from {Name}");
           }
      }
 
@@ -42,41 +52,28 @@ public class Item : MonoBehaviour, IInteractable
      public void Interact()
      {
           if (canBePickedUp)
-          {
                PickUp();
-          }
      }
 
-     public virtual void PickUp()
+     public void PickUp()
      {
-          // Find the player
-          GameObject player = GameObject.FindGameObjectWithTag("Player");
+          if (player == null) return;
 
-          if (player != null)
+          // Apply strength/mass bonus
+          Rigidbody2D rb = player.GetComponent<Rigidbody2D>();
+          if (rb != null && massBonus > 0f)
           {
-               Rigidbody2D rb = player.GetComponent<Rigidbody2D>();
+               rb.mass += massBonus;
 
-               if (rb != null)
+               var move = player.GetComponent<AryasPlayerMovement>();
+               if (move != null)
                {
-                    // Increase mass (pushing power)
-                    rb.mass += massBonus;
-
-                    // Optional: visual feedback (grow slightly)
-                    player.transform.localScale += new Vector3(0.03f, 0.03f, 0f);
-
-                    Debug.Log($"{Name} picked up! Player mass is now {rb.mass:F2}");
+                    move.strength += massBonus;
+                    Debug.Log($"{Name} picked up — mass +{massBonus}");
                }
           }
 
-          // Optional: show pickup UI message if you have one
-          if (ItemPickupUIController.Instance != null)
-          {
-               SpriteRenderer sr = GetComponent<SpriteRenderer>();
-               Sprite itemIcon = sr != null ? sr.sprite : null;
-               ItemPickupUIController.Instance.ShowItemPickup($"{Name} collected! Mass +{massBonus}", itemIcon);
-          }
-
-          // Remove the item from the world
+          Debug.Log($"You picked up: {Name}");
           Destroy(gameObject);
      }
 }

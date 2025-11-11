@@ -3,8 +3,12 @@ using TMPro;
 
 public class PopupText : MonoBehaviour
 {
+     [Header("Popup Settings")]
+     [TextArea]
+     public string message;          // Write your custom phrase here in the Inspector
      public float moveSpeed = 1f;
      public float fadeDuration = 2f;
+     public Color textColor = Color.white;
 
      private TextMeshPro textMesh;
      private Color originalColor;
@@ -12,11 +16,20 @@ public class PopupText : MonoBehaviour
      void Awake()
      {
           textMesh = GetComponent<TextMeshPro>();
-          originalColor = textMesh.color;
+
+          if (textMesh != null)
+          {
+               // Set text and color from Inspector values
+               textMesh.text = message;
+               textMesh.color = textColor;
+               originalColor = textMesh.color;
+          }
      }
 
      void Update()
      {
+          if (textMesh == null) return;
+
           // Float upward
           transform.position += Vector3.up * moveSpeed * Time.deltaTime;
 
@@ -30,9 +43,13 @@ public class PopupText : MonoBehaviour
                Destroy(gameObject);
      }
 
-     public void SetText(string message)
+     // Optional: allow scripts to change text dynamically if you ever want
+     public void SetText(string newText, Color? newColor = null)
      {
-          textMesh.text = message;
-          textMesh.color = originalColor;
+          if (textMesh == null) return;
+
+          textMesh.text = newText;
+          textMesh.color = newColor ?? textMesh.color;
      }
 }
+

@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 7777810993401047895}
   - component: {fileID: 3337098923955962101}
   - component: {fileID: 345756037311462842}
+  - component: {fileID: 3552827858676172560}
   m_Layer: 0
   m_Name: Item
   m_TagString: Item
@@ -121,6 +122,8 @@ MonoBehaviour:
   ID: 1
   Name: Bible
   massBonus: 0.5
+  popupTextPrefab: {fileID: 1038984380794026391, guid: 40ad819d02ebc8d4bb71d08a26ddd8c0, type: 3}
+  popupMessage: You picked up an item!
 --- !u!212 &-592523691654118009
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -254,6 +257,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 538e2bb9ee60980409cc8eb4c2cc7c19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BounceEffect
-  bounceHeight: 0.3
-  bounceDuration: 0.4
-  bounceCount: 2
+  bounceHeight: 4
+  bounceSpeed: 4
+  bounceDuration: 4
+--- !u!114 &3552827858676172560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3763168292265321292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad544e6e1b886264f954f01fe5af7b98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemPopUP
+  popupTextPrefab: {fileID: 1038984380794026391, guid: 40ad819d02ebc8d4bb71d08a26ddd8c0, type: 3}
+  popupMessage: You picked up an item!
+  popupOffset: {x: 0, y: 1, z: 0}

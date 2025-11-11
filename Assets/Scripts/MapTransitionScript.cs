@@ -12,6 +12,10 @@ public class MapTransitionScript : MonoBehaviour
      public CanvasGroup fadePanel;   // Assign your FadePanel here
      public float fadeDuration = 1f; // Duration of fade in seconds
 
+     [Header("Environment Layers")]
+     [Tooltip("Set to 'Cave' if this trigger leads into the cave, or 'Outside' for outside world.")]
+     public string targetSortingLayer = "Outside";  // You can change per trigger in Inspector
+
      private void OnTriggerEnter2D(Collider2D collision)
      {
           if (collision.CompareTag("Player"))
@@ -40,6 +44,14 @@ public class MapTransitionScript : MonoBehaviour
                }
           }
 
+          // Change lighting/sorting layer
+          SpriteRenderer playerSprite = player.GetComponent<SpriteRenderer>();
+          if (playerSprite != null)
+          {
+               playerSprite.sortingLayerName = targetSortingLayer;
+               Debug.Log("Switched player sorting layer to: " + targetSortingLayer);
+          }
+
           // Fade back in
           yield return StartCoroutine(Fade(0));
      }
@@ -59,3 +71,4 @@ public class MapTransitionScript : MonoBehaviour
           fadePanel.alpha = targetAlpha;
      }
 }
+

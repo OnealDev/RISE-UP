@@ -2,12 +2,10 @@ using UnityEngine;
 
 public class Chest : MonoBehaviour, IInteractable
 {
-     public bool IsOpened { get; private set; }
-
      [Header("Chest Setup")]
-     public Animator animator;
-     public GameObject itemInside; // Bible inside the chest
-     public GameObject keyPrefab;  // NEW — optional key drop
+     public Animator animator;            // Animator for open animation
+     public GameObject itemInside;        // Bible or other item inside chest
+     public GameObject keyPrefab;         // Optional key to spawn
 
      [Header("Item Drop Settings")]
      [Tooltip("How far below the chest the item should appear.")]
@@ -15,62 +13,73 @@ public class Chest : MonoBehaviour, IInteractable
      [Tooltip("How strongly the item is pushed out of the chest.")]
      public float spitForce = 5f;
 
-     void Start()
+     private bool isOpened = false;
+
+     private void Start()
      {
+          // Hide item inside chest until opened
           if (itemInside != null)
                itemInside.SetActive(false);
      }
 
      public bool CanInteract()
      {
-          return !IsOpened;
+          return !isOpened;
      }
 
      public void Interact()
      {
-          if (!CanInteract()) return;
+          if (isOpened) return;
 
-          IsOpened = true;
-          animator.SetTrigger("Open"); // triggers chest animation
+          isOpened = true;
+          if (animator != null)
+               animator.SetTrigger("Open"); // Triggers animation
+          else
+               ReleaseItem(); // Fallback if no animation
      }
 
-     // Called at the END of your chest-open animation
+     // Called by animation event OR after Interact() if no animation
      public void ReleaseItem()
      {
-          // Drop the Bible if assigned
+          // Drop the internal item (Bible, potion, etc.)
           if (itemInside != null)
           {
-               itemInside.SetActive(true);
+               if (!itemInside.activeSelf)
+                    itemInside.SetActive(true);
+
                DropObject(itemInside);
+               Debug.Log($"Chest released {itemInside.name}");
           }
 
-          // Drop a Key if assigned
+          // Drop the key (spawned prefab)
           if (keyPrefab != null)
           {
                GameObject key = Instantiate(keyPrefab);
+
+               // Ensure it's visible and interactive
+               key.SetActive(true);
+
                DropObject(key);
+               Debug.Log("Chest released a key!");
           }
      }
 
      private void DropObject(GameObject obj)
      {
-          // Always spit the item downward in world space
-          Vector2 forward = Vector2.down;
-          Vector2 spawnPosition = (Vector2)transform.position + forward * spitDistance;
+          // Always drop downward (adjust if you want left/right)
+          Vector2 direction = Vector2.down;
+          Vector2 spawnPos = (Vector2)transform.position + direction * spitDistance;
 
-          // Move the item slightly downward before applying force
-          obj.transform.position = spawnPosition;
+          obj.transform.position = spawnPos;
 
-          // Add a small push to "spit it out" downward
+          // Apply a gentle push force
           Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();
           if (rb != null)
-          {
-               rb.AddForce(forward * spitForce, ForceMode2D.Impulse);
-          }
+               rb.AddForce(direction * spitForce, ForceMode2D.Impulse);
 
-          // Trigger bounce if available
+          // Trigger bounce effect if available
           BounceEffect bounce = obj.GetComponent<BounceEffect>();
-          if (bounce != null)
+          if (bounce != null && obj.activeInHierarchy)
                bounce.StartBounce();
      }
 }

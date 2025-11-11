@@ -8,6 +8,8 @@ TagManager:
   - PlayerAttack
   - Ground
   - Item
+  - CaveZone
+  - OutsideZone
   layers:
   - Default
   - TransparentFX
@@ -53,6 +55,12 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1519313541
+    locked: 0
+  - name: Cave
+    uniqueID: 843705939
+    locked: 0
+  - name: Outside
+    uniqueID: 588388923
     locked: 0
   m_RenderingLayers:
   - Default

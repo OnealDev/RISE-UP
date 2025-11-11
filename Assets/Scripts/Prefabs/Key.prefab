@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7083365033242843115}
   - component: {fileID: 7922156705898180835}
   - component: {fileID: 9051010702016398736}
+  - component: {fileID: 8817569154453572262}
   m_Layer: 0
   m_Name: Key
   m_TagString: Untagged
@@ -113,3 +114,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8817569154453572262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2910778078591529531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ce46fe2419f9a4fb943e4a168cea93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::KeyItem
+  popupTextPrefab: {fileID: 1038984380794026391, guid: 40ad819d02ebc8d4bb71d08a26ddd8c0, type: 3}
+  popupMessage: You found a key!

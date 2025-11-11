@@ -106,9 +106,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u201CBlessed be the Lord, my rock, who trains my hands for war, and my
-    fingers for battle;\u201D\r\n\u202D\u202DPsalm\u202C \u202D144\u202C:\u202D1\u202C
-    \u202DESV\u202C\u202C"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -194,5 +192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a79281970729e4f408fc3c16992ad50a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PopupText
+  message: 
   moveSpeed: 1
   fadeDuration: 2
+  textColor: {r: 1, g: 1, b: 1, a: 1}
