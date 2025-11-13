@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: b86cccfc0f115b442bdb3b087183c540
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4257796583028058775
+    second: _castle_gate_by_nicnubill_d73btbe_0
+  - first:
+      213: 3723356714585318781
+    second: _castle_gate_by_nicnubill_d73btbe_1
+  - first:
+      213: 223730760233369301
+    second: _castle_gate_by_nicnubill_d73btbe_2
+  - first:
+      213: -7037839913261394325
+    second: _castle_gate_by_nicnubill_d73btbe_3
+  - first:
+      213: -447427573259330311
+    second: _castle_gate_by_nicnubill_d73btbe_4
+  - first:
+      213: -3095850953824140718
+    second: _castle_gate_by_nicnubill_d73btbe_5
+  - first:
+      213: 2983950595622357201
+    second: _castle_gate_by_nicnubill_d73btbe_6
+  - first:
+      213: -4858202857871551570
+    second: _castle_gate_by_nicnubill_d73btbe_7
+  - first:
+      213: -3156278180935859254
+    second: _castle_gate_by_nicnubill_d73btbe_8
+  - first:
+      213: 6079516430212073505
+    second: _castle_gate_by_nicnubill_d73btbe_9
+  - first:
+      213: -6953211882961750782
+    second: _castle_gate_by_nicnubill_d73btbe_10
+  - first:
+      213: 6952581626644644637
+    second: _castle_gate_by_nicnubill_d73btbe_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9659db6019449e4c0800000000000000
+      internalID: -4257796583028058775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d756ce864350ca330800000000000000
+      internalID: 3723356714585318781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb909e0f9da1300800000000000000
+      internalID: 223730760233369301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b661dff03e1945e90800000000000000
+      internalID: -7037839913261394325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc99212efa6ac9f0800000000000000
+      internalID: -447427573259330311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25202c3c5f35905d0800000000000000
+      internalID: -3095850953824140718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c26fc14f196920800000000000000
+      internalID: 2983950595622357201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea357c99d32349cb0800000000000000
+      internalID: -4858202857871551570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3800597b5a234d0800000000000000
+      internalID: -3156278180935859254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12801fc8bf7ce5450800000000000000
+      internalID: 6079516430212073505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2053a04d1aa318f90800000000000000
+      internalID: -6953211882961750782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _castle_gate_by_nicnubill_d73btbe_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13cf0037288c7060800000000000000
+      internalID: 6952581626644644637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _castle_gate_by_nicnubill_d73btbe_0: -4257796583028058775
+      _castle_gate_by_nicnubill_d73btbe_1: 3723356714585318781
+      _castle_gate_by_nicnubill_d73btbe_10: -6953211882961750782
+      _castle_gate_by_nicnubill_d73btbe_11: 6952581626644644637
+      _castle_gate_by_nicnubill_d73btbe_2: 223730760233369301
+      _castle_gate_by_nicnubill_d73btbe_3: -7037839913261394325
+      _castle_gate_by_nicnubill_d73btbe_4: -447427573259330311
+      _castle_gate_by_nicnubill_d73btbe_5: -3095850953824140718
+      _castle_gate_by_nicnubill_d73btbe_6: 2983950595622357201
+      _castle_gate_by_nicnubill_d73btbe_7: -4858202857871551570
+      _castle_gate_by_nicnubill_d73btbe_8: -3156278180935859254
+      _castle_gate_by_nicnubill_d73btbe_9: 6079516430212073505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
