@@ -26,6 +26,9 @@ public class Player_Combat : MonoBehaviour
      private int currentAttack = 0;
      [SerializeField] private int maxCombo = 2;
      [SerializeField] private float comboResetTime = 1f;
+     
+     // NEW: Prevent multiple damage calls
+     private bool hasDealtDamageThisAttack = false;
 
      private void Awake()
      {
@@ -39,6 +42,9 @@ public class Player_Combat : MonoBehaviour
                return;
 
           lastAttackTime = Time.time;
+
+          // NEW: Reset damage flag for new attack
+          hasDealtDamageThisAttack = false;
 
           currentAttack++; //increment combo
           if (currentAttack > maxCombo)
@@ -65,6 +71,10 @@ public class Player_Combat : MonoBehaviour
 
      public void DealDamage()
      {
+          // NEW: Prevent multiple damage calls per attack
+          if (hasDealtDamageThisAttack) return;
+          hasDealtDamageThisAttack = true;
+
           Transform activePoint = GetActiveAttackPoint();
           if (activePoint == null)
                return;
@@ -129,5 +139,3 @@ public class Player_Combat : MonoBehaviour
           if (attackPointRight) Gizmos.DrawWireSphere(attackPointRight.position, weaponRange);
      }
 }
-
-

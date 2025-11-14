@@ -1,51 +1,64 @@
 using UnityEngine;
 
-
 public class EnemyHealth : MonoBehaviour
 {
+    public Vector2 lastMoveDir = Vector2.down;
+    public int currentHealth;
+    public int maxHealth;
 
-     public Vector2 lastMoveDir = Vector2.down; // default facing down
-
-     public int currentHealth;
-     public int maxHealth;
-
-     private void Start()
-     {
-          currentHealth = maxHealth;
-     }
+    private void Start()
+    {
+        currentHealth = maxHealth;
+    }
     
     public void ChangeHealth(int amount)
-     {
-          currentHealth += amount;
+    {
+        currentHealth += amount;
 
-          // FLASH EFFECT WHEN TAKING DAMAGE
-          if (amount < 0) // flash when taking damage (negative amount)
-          {
-               Debug.Log($"💥 Enemy took damage! Calling flash...");
-        
-               FlashOnHit flash = GetComponent<FlashOnHit>();
-               if (flash != null)
-               {
-                flash.Flash();
-               }
-        else
+        if (amount < 0) // Taking damage
         {
-            Debug.LogError("❌ No FlashOnHit component found!");
+            Debug.Log($"💥 Enemy took damage! Calling flash...");
+            
+            // Flash effect
+            FlashOnHit flash = GetComponent<FlashOnHit>();
+            if (flash != null)
+            {
+                flash.Flash();
+            }
+            
+            // Play hit sound
+            HitSound hitSound = GetComponent<HitSound>();
+            if (hitSound != null)
+            {
+                hitSound.PlayRandomHitSound();
+            }
         }
-               GetComponent<HitSound>()?.PlayRandomHitSound();
-          }
-          
         
-          if (currentHealth > maxHealth)
-          {
-               currentHealth = maxHealth;
-          }
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
         else if(currentHealth <= 0)
-          {
-               Destroy(gameObject);
+        {
+            Die();
         }
     }
 
+    private void Die()
+    {
+        // Play the hit sound one more time for death
+        HitSound hitSound = GetComponent<HitSound>();
+        if (hitSound != null)
+        {
+            hitSound.PlayRandomHitSound();
+        }
+        
+        // Screen shake for death
+        if (ScreenShake.Instance != null)
+        {
+            ScreenShake.Instance.BigShake();
+        }
+        
+        Destroy(gameObject);
+    }
 }
-
-
