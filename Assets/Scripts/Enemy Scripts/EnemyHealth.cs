@@ -50,17 +50,17 @@ public class EnemyHealth : MonoBehaviour
     HitSound hitSound = GetComponent<HitSound>();
     float delay = 0f;
 
-    if (hitSound != null)
+    // Play hit sound only if clip exists in inspector
+    if (hitSound != null && hitSound.hitSound != null)
     {
         hitSound.PlayRandomHitSound();
         delay = hitSound.hitSound.length;
     }
-
     // Screen shake for death
     if (ScreenShake.Instance != null)
         ScreenShake.Instance.BigShake();
 
-    // --- Hide the enemy instantly ---
+    //Now we hide the enemy
 
     // Disable renderer
     foreach (var renderer in GetComponentsInChildren<SpriteRenderer>())
