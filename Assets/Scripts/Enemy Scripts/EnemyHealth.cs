@@ -45,20 +45,40 @@ public class EnemyHealth : MonoBehaviour
     }
 
     private void Die()
+{
+    // Play the hit sound one more time
+    HitSound hitSound = GetComponent<HitSound>();
+    float delay = 0f;
+
+    if (hitSound != null)
     {
-        // Play the hit sound one more time for death
-        HitSound hitSound = GetComponent<HitSound>();
-        if (hitSound != null)
-        {
-            hitSound.PlayRandomHitSound();
-        }
-        
-        // Screen shake for death
-        if (ScreenShake.Instance != null)
-        {
-            ScreenShake.Instance.BigShake();
-        }
-        
-        Destroy(gameObject);
+        hitSound.PlayRandomHitSound();
+        delay = hitSound.hitSound.length;
     }
+
+    // Screen shake for death
+    if (ScreenShake.Instance != null)
+        ScreenShake.Instance.BigShake();
+
+    // --- Hide the enemy instantly ---
+
+    // Disable renderer
+    foreach (var renderer in GetComponentsInChildren<SpriteRenderer>())
+        renderer.enabled = false;
+
+    // Disable collider
+    foreach (var col in GetComponentsInChildren<Collider2D>())
+        col.enabled = false;
+
+    // Disable movement
+    foreach (var behaviour in GetComponents<MonoBehaviour>())
+    {
+        if (behaviour != this && behaviour.enabled)
+            behaviour.enabled = false;
+    }
+
+    
+    Destroy(gameObject, delay);
+}
+
 }

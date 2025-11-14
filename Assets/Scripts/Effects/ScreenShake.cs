@@ -30,42 +30,47 @@ public class ScreenShake : MonoBehaviour
     }
 
     private System.Collections.IEnumerator ShakeRoutine(float duration, float magnitude)
+{
+    Debug.Log("🔄 Starting shake routine...");
+
+    CameraFollow follow = GetComponent<CameraFollow>();
+    if (follow != null)
+        follow.allowFollow = false;
+
+    Vector3 originalPos = transform.position;
+    float elapsed = 0;
+
+    while (elapsed < duration)
     {
-        Debug.Log("🔄 Starting shake routine...");
-        Vector3 originalPos = transform.position;
-        float elapsed = 0;
+        float x = Random.Range(-1f, 1f) * magnitude;
+        float y = Random.Range(-1f, 1f) * magnitude;
 
-        while (elapsed < duration)
-        {
-            //Random Shake
-            float x = Random.Range(-1.0f, 1.0f) * magnitude;
-            float y = Random.Range(-1.0f, 1.0f) * magnitude;
+        transform.position = originalPos + new Vector3(x, y, 0);
 
-            //Apply
-            transform.position = originalPos + new Vector3(x, y, 0);
-            Debug.Log($"📱 Camera position: {transform.position}");
-
-            elapsed += Time.deltaTime;
-            yield return null;
-        }
-
-        //Reset position
-        transform.position = originalPos;
-        Debug.Log("✅ Shake routine finished - camera reset");
+        elapsed += Time.deltaTime;
+        yield return null;
     }
+    //return to og position
+    transform.position = originalPos;
+
+    if (follow != null)
+        follow.allowFollow = true;
+
+    Debug.Log("✅ Shake routine finished");
+}
 
     //Quick shakes
     public void QuickShake()
     {
         Debug.Log("🎬 QuickShake called!");
-        Shake(0.15f, 0.08f);
+        Shake(0.15f, 0.4f);
     }
     
     //Big Shakes
     public void BigShake()
     {
         Debug.Log("🎬 BigShake called!");
-        Shake(0.3f, 0.2f);
+        Shake(0.25f, 1.0f);
     }
     
     void Update()
