@@ -38,8 +38,10 @@ public class Fire_Trap : MonoBehaviour
           // --- DAMAGE ---
           HealthManager hm = collision.GetComponent<HealthManager>();
           if (hm != null)
-               hm.TakeDamage(damageAmount);
-
+          {
+               Vector2 knockbackDirection = (collision.transform.position - transform.position).normalized;
+               hm.TakeDamage(damageAmount, knockbackDirection);
+          }
           // --- KNOCKBACK ---
           Rigidbody2D rb = collision.GetComponent<Rigidbody2D>();
           if (rb != null)

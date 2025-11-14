@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections;
 
 public class HealthManager : MonoBehaviour
 {
@@ -12,28 +13,112 @@ public class HealthManager : MonoBehaviour
     public Sprite fullHeart;
     public Sprite emptyHeart;
 
+    [Header("Knockback Settings")]
+    public float knockbackForce = 5f;
+    public float knockbackDuration = 0.2f;
+
+    private Rigidbody2D rb;
+    private bool isKnockedBack = false;
+    private AryasPlayerMovement movementScript; //We need to reference the movement script when he takes damage
+
     void Start()
     {
         currentHealth = maxHealth;
         UpdateHearts();
+        rb = GetComponent<Rigidbody2D>();
+        movementScript = GetComponent<AryasPlayerMovement>(); 
     }
-void Update()
-{
-    if (Input.GetKeyDown(KeyCode.H))
+
+    void Update()
     {
-        TakeDamage(1);
+        
     }
-}
-    public void TakeDamage(int amount)
+
+    public void TakeDamage(int amount, Vector2 damageDirection)
     {
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+
+        //Damage effects
+        if (amount > 0)
+        {
+            
+            FlashOnHit flash = GetComponent<FlashOnHit>();
+            if (flash != null)
+            {
+                flash.Flash();
+            }
+            
+           
+            HitSound hitSound = GetComponent<HitSound>();
+            if (hitSound != null)
+            {
+                hitSound.PlayRandomHitSound();
+            }
+            
+           
+            if (ScreenShake.Instance != null)
+            {
+                ScreenShake.Instance.QuickShake();
+            }
+
+            
+            ApplyKnockback(damageDirection);
+        }
 
         UpdateHearts();
 
         if (currentHealth <= 0)
         {
             PlayerDeath();
+        }
+    }
+
+    
+
+    private void ApplyKnockback(Vector2 direction)
+{   
+    //If knockback is already being applied just exit the function to prevent multiple knockbacks
+    if (isKnockedBack) 
+        return; 
+
+
+    //Only apply knockback if we have a direction to go to 
+    if (direction != Vector2.zero && rb != null) 
+    {
+        isKnockedBack = true;
+        
+        //Disable movement script during knockback
+        if (movementScript != null)
+        {
+            movementScript.enabled = false;
+        }
+        
+        //Apply knockback 
+        rb.linearVelocity = direction.normalized * knockbackForce;
+        
+        //Stop knockback after a certain duration duration
+        StartCoroutine(StopKnockbackAfterDelay());
+    }
+    
+}
+
+    private IEnumerator StopKnockbackAfterDelay()
+    {
+        yield return new WaitForSeconds(knockbackDuration);
+        
+        isKnockedBack = false;
+        
+        //Re-enable movement script
+        if (movementScript != null)
+        {
+            movementScript.enabled = true;
+        }
+        
+        //Reset direction
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
         }
     }
 
@@ -58,6 +143,12 @@ void Update()
 
     private void PlayerDeath()
     {
+        
+        if (ScreenShake.Instance != null)
+        {
+            ScreenShake.Instance.BigShake();
+        }
+        
         Debug.Log("PLAYER DIED!");
         gameObject.SetActive(false);
         // Later: add respawn, animation, sound, etc.
