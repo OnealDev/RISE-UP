@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 2bc7a8b5b53d0d3439b1b0111fc731cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2395988780274042221
+    second: Seraphim_Vanish_0
+  - first:
+      213: 865522170914508899
+    second: Seraphim_Vanish_1
+  - first:
+      213: 3546651139790983444
+    second: Seraphim_Vanish_2
+  - first:
+      213: -6516803514259435415
+    second: Seraphim_Vanish_3
+  - first:
+      213: -1391882212447852381
+    second: Seraphim_Vanish_4
+  - first:
+      213: 6356226961132507702
+    second: Seraphim_Vanish_5
+  - first:
+      213: 4021371132495261853
+    second: Seraphim_Vanish_6
+  - first:
+      213: 1996459505506709900
+    second: Seraphim_Vanish_7
+  - first:
+      213: -4075221965943987425
+    second: Seraphim_Vanish_8
+  - first:
+      213: -3703356160094546232
+    second: Seraphim_Vanish_9
+  - first:
+      213: -5116154511190498614
+    second: Seraphim_Vanish_10
+  - first:
+      213: 2293469792123370894
+    second: Seraphim_Vanish_11
+  - first:
+      213: 2574829372902617362
+    second: Seraphim_Vanish_12
+  - first:
+      213: -8767254781314339800
+    second: Seraphim_Vanish_13
+  - first:
+      213: -8669289152866759586
+    second: Seraphim_Vanish_14
+  - first:
+      213: 5201390446637843031
+    second: Seraphim_Vanish_15
+  - first:
+      213: 4114386449667634352
+    second: Seraphim_Vanish_16
+  - first:
+      213: 6425947144911753707
+    second: Seraphim_Vanish_17
+  - first:
+      213: -6361479236294136393
+    second: Seraphim_Vanish_18
+  - first:
+      213: 5313034576176356540
+    second: Seraphim_Vanish_19
+  - first:
+      213: 8963524389767271548
+    second: Seraphim_Vanish_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seraphim_Vanish_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ab1f916ecbfbed0800000000000000
+      internalID: -2395988780274042221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 27
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360959624d3f20c00800000000000000
+      internalID: 865522170914508899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 27
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411d971bb6c383130800000000000000
+      internalID: 3546651139790983444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 27
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609c853bb9af85a0800000000000000
+      internalID: -6516803514259435415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 41
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a86cd5908a0face0800000000000000
+      internalID: -1391882212447852381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 47
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63250129ebad53850800000000000000
+      internalID: 6356226961132507702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 75
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90f3662db7cec730800000000000000
+      internalID: 4021371132495261853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81fd22b759d4bb10800000000000000
+      internalID: 1996459505506709900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 69
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132a03a637e177c0800000000000000
+      internalID: -4075221965943987425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 66
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c65fc091390b9cc0800000000000000
+      internalID: -3703356160094546232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 41
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac26a702494cff8b0800000000000000
+      internalID: -5116154511190498614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 70
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d3a96ef9a04df10800000000000000
+      internalID: 2293469792123370894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 63
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2113a113ca1abb320800000000000000
+      internalID: 2574829372902617362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 55
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ce9603a34745680800000000000000
+      internalID: -8767254781314339800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 58
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cca34827f70b780800000000000000
+      internalID: -8669289152866759586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 27
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75285f59d0d0f2840800000000000000
+      internalID: 5201390446637843031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 34
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4be115dac391930800000000000000
+      internalID: 4114386449667634352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_17
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be196e5d1ec8d2950800000000000000
+      internalID: 6425947144911753707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 38
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd2aa2d65c77b7a0800000000000000
+      internalID: -6361479236294136393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_19
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 29
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc1c502cc0bbb940800000000000000
+      internalID: 5313034576176356540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seraphim_Vanish_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 27
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d0a311f5d46c70800000000000000
+      internalID: 8963524389767271548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Seraphim_Vanish_0: -2395988780274042221
+      Seraphim_Vanish_1: 865522170914508899
+      Seraphim_Vanish_10: -5116154511190498614
+      Seraphim_Vanish_11: 2293469792123370894
+      Seraphim_Vanish_12: 2574829372902617362
+      Seraphim_Vanish_13: -8767254781314339800
+      Seraphim_Vanish_14: -8669289152866759586
+      Seraphim_Vanish_15: 5201390446637843031
+      Seraphim_Vanish_16: 4114386449667634352
+      Seraphim_Vanish_17: 6425947144911753707
+      Seraphim_Vanish_18: -6361479236294136393
+      Seraphim_Vanish_19: 5313034576176356540
+      Seraphim_Vanish_2: 3546651139790983444
+      Seraphim_Vanish_20: 8963524389767271548
+      Seraphim_Vanish_3: -6516803514259435415
+      Seraphim_Vanish_4: -1391882212447852381
+      Seraphim_Vanish_5: 6356226961132507702
+      Seraphim_Vanish_6: 4021371132495261853
+      Seraphim_Vanish_7: 1996459505506709900
+      Seraphim_Vanish_8: -4075221965943987425
+      Seraphim_Vanish_9: -3703356160094546232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
