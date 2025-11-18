@@ -14,24 +14,24 @@ public class ScreenShake : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
-            Debug.Log("✅ ScreenShake Instance created!");
+            Debug.Log(" ScreenShake Instance created!");
         }
         else
         {
-            Debug.Log("❌ ScreenShake Instance already exists - destroying duplicate");
+            Debug.Log(" ScreenShake Instance already exists - destroying duplicate");
             Destroy(gameObject);
         }
     }
     
     public void Shake(float duration = 0.2f, float magnitude = 0.1f)
     {
-        Debug.Log($"🎬 ScreenShake called! Duration: {duration}, Magnitude: {magnitude}");
+        Debug.Log($" ScreenShake called! Duration: {duration}, Magnitude: {magnitude}");
         StartCoroutine(ShakeRoutine(duration, magnitude));
     }
 
     private System.Collections.IEnumerator ShakeRoutine(float duration, float magnitude)
 {
-    Debug.Log("🔄 Starting shake routine...");
+    Debug.Log(" Starting shake routine...");
 
     CameraFollow follow = GetComponent<CameraFollow>();
     if (follow != null)
@@ -56,20 +56,20 @@ public class ScreenShake : MonoBehaviour
     if (follow != null)
         follow.allowFollow = true;
 
-    Debug.Log("✅ Shake routine finished");
+    Debug.Log(" Shake routine finished");
 }
 
     //Quick shakes
     public void QuickShake()
     {
-        Debug.Log("🎬 QuickShake called!");
+        Debug.Log(" QuickShake called!");
         Shake(0.15f, 0.4f);
     }
     
     //Big Shakes
     public void BigShake()
     {
-        Debug.Log("🎬 BigShake called!");
+        Debug.Log(" BigShake called!");
         Shake(0.25f, 1.0f);
     }
     
@@ -77,7 +77,7 @@ public class ScreenShake : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.T)) // Press T to test shake
         {
-            Debug.Log("🧪 Manual shake test triggered by T key");
+            Debug.Log(" Manual shake test triggered by T key");
             BigShake();
         }
     }

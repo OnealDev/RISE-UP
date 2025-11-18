@@ -17,7 +17,7 @@ public class EnemyHealth : MonoBehaviour
 
         if (amount < 0) // Taking damage
         {
-            Debug.Log($"💥 Enemy took damage! Calling flash...");
+            Debug.Log($" Enemy took damage! Calling flash...");
             
             // Flash effect
             FlashOnHit flash = GetComponent<FlashOnHit>();
