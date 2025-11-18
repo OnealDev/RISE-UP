@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 3452fcc3d5d052b4fa9565e853efaaf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7698271494772279615
+    second: Back - Running_0
+  - first:
+      213: -8959518343195037771
+    second: Back - Running_1
+  - first:
+      213: 4394218915736680189
+    second: Back - Running_2
+  - first:
+      213: -7238040712424188003
+    second: Back - Running_3
+  - first:
+      213: 4783055605377935856
+    second: Back - Running_4
+  - first:
+      213: 8946166317478484780
+    second: Back - Running_5
+  - first:
+      213: 1227690555291500099
+    second: Back - Running_6
+  - first:
+      213: -7998120454212559050
+    second: Back - Running_7
+  - first:
+      213: -7728997729880056005
+    second: Back - Running_8
+  - first:
+      213: 4405444689840092867
+    second: Back - Running_9
+  - first:
+      213: -5310385283671302351
+    second: Back - Running_10
+  - first:
+      213: -1159224035671872742
+    second: Back - Running_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back - Running_0
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1603
+        width: 348
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c63599dcde3a2590800000000000000
+      internalID: -7698271494772279615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_1
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1597
+        width: 355
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf6343598569a380800000000000000
+      internalID: -8959518343195037771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_2
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1592
+        width: 362
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df679c182d66bfc30800000000000000
+      internalID: 4394218915736680189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_3
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1587
+        width: 366
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97142222505d8b90800000000000000
+      internalID: -7238040712424188003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 872
+        width: 362
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92e7b3bb3d06240800000000000000
+      internalID: 4783055605377935856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_5
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 877
+        width: 355
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b9edeedda272c70800000000000000
+      internalID: 8946166317478484780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_6
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 883
+        width: 348
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e70423e02a90110800000000000000
+      internalID: 1227690555291500099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_7
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 878
+        width: 355
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fdfdf92d7f00190800000000000000
+      internalID: -7998120454212559050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 153
+        width: 362
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fd2b0c3851db490800000000000000
+      internalID: -7728997729880056005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_9
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 148
+        width: 366
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6bc87ba98432d30800000000000000
+      internalID: 4405444689840092867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_10
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 153
+        width: 362
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f5f4a58b8bd46b0800000000000000
+      internalID: -5310385283671302351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Running_11
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 158
+        width: 355
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1beea2a1eb99efe0800000000000000
+      internalID: -1159224035671872742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Back - Running_0: -7698271494772279615
+      Back - Running_1: -8959518343195037771
+      Back - Running_10: -5310385283671302351
+      Back - Running_11: -1159224035671872742
+      Back - Running_2: 4394218915736680189
+      Back - Running_3: -7238040712424188003
+      Back - Running_4: 4783055605377935856
+      Back - Running_5: 8946166317478484780
+      Back - Running_6: 1227690555291500099
+      Back - Running_7: -7998120454212559050
+      Back - Running_8: -7728997729880056005
+      Back - Running_9: 4405444689840092867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

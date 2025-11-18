@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: a29ad10da99a25f44ba923de4a2e5eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5364940212508682795
+    second: Left - Idle Blinking_0
+  - first:
+      213: 2682831273793611231
+    second: Left - Idle Blinking_1
+  - first:
+      213: -3025322026214278150
+    second: Left - Idle Blinking_2
+  - first:
+      213: 7245051482384966385
+    second: Left - Idle Blinking_3
+  - first:
+      213: 8988253343564501999
+    second: Left - Idle Blinking_4
+  - first:
+      213: -1049059638997978468
+    second: Left - Idle Blinking_5
+  - first:
+      213: 1457130827780036245
+    second: Left - Idle Blinking_6
+  - first:
+      213: 3068624806768362207
+    second: Left - Idle Blinking_7
+  - first:
+      213: 14205099631388943
+    second: Left - Idle Blinking_8
+  - first:
+      213: -7849593568969357155
+    second: Left - Idle Blinking_9
+  - first:
+      213: -5950742285481982588
+    second: Left - Idle Blinking_10
+  - first:
+      213: 1009356167883947836
+    second: Left - Idle Blinking_11
+  - first:
+      213: 6429625596922858351
+    second: Left - Idle Blinking_12
+  - first:
+      213: -4746984809209637277
+    second: Left - Idle Blinking_13
+  - first:
+      213: 5840135779075711366
+    second: Left - Idle Blinking_14
+  - first:
+      213: -838331463170684168
+    second: Left - Idle Blinking_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Left - Idle Blinking_0
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2301
+        width: 223
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d516382d47eb85b0800000000000000
+      internalID: -5364940212508682795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_1
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2301
+        width: 225
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e6ca44d45b3520800000000000000
+      internalID: 2682831273793611231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_2
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2301
+        width: 225
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb355065a5e306d0800000000000000
+      internalID: -3025322026214278150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_3
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2301
+        width: 226
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f229f2ffe79b8460800000000000000
+      internalID: 7245051482384966385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1581
+        width: 226
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3116e4bc0bcbc70800000000000000
+      internalID: 8988253343564501999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_5
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1581
+        width: 226
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92735501ddf071f0800000000000000
+      internalID: -1049059638997978468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_6
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1581
+        width: 227
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596991584c4c83410800000000000000
+      internalID: 1457130827780036245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_7
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1581
+        width: 227
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24164e002f59a20800000000000000
+      internalID: 3068624806768362207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 861
+        width: 227
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09278d7677723000800000000000000
+      internalID: 14205099631388943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_9
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 861
+        width: 227
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98046aec34a01390800000000000000
+      internalID: -7849593568969357155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_10
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 861
+        width: 227
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48543f37b67ba6da0800000000000000
+      internalID: -5950742285481982588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_11
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 861
+        width: 226
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f729e3614f10e00800000000000000
+      internalID: 1009356167883947836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 141
+        width: 226
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b885f2a6e9a3950800000000000000
+      internalID: 6429625596922858351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_13
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 141
+        width: 226
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36652e477725f1eb0800000000000000
+      internalID: -4746984809209637277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_14
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 141
+        width: 225
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6816bd77c845c0150800000000000000
+      internalID: 5840135779075711366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_15
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 141
+        width: 225
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8da5d9f5ad54f0800000000000000
+      internalID: -838331463170684168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Left - Idle Blinking_0: -5364940212508682795
+      Left - Idle Blinking_1: 2682831273793611231
+      Left - Idle Blinking_10: -5950742285481982588
+      Left - Idle Blinking_11: 1009356167883947836
+      Left - Idle Blinking_12: 6429625596922858351
+      Left - Idle Blinking_13: -4746984809209637277
+      Left - Idle Blinking_14: 5840135779075711366
+      Left - Idle Blinking_15: -838331463170684168
+      Left - Idle Blinking_2: -3025322026214278150
+      Left - Idle Blinking_3: 7245051482384966385
+      Left - Idle Blinking_4: 8988253343564501999
+      Left - Idle Blinking_5: -1049059638997978468
+      Left - Idle Blinking_6: 1457130827780036245
+      Left - Idle Blinking_7: 3068624806768362207
+      Left - Idle Blinking_8: 14205099631388943
+      Left - Idle Blinking_9: -7849593568969357155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
