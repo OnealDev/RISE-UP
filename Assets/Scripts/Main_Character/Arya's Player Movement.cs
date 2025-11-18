@@ -10,6 +10,8 @@ public class AryasPlayerMovement : MonoBehaviour
     public Rigidbody2D rb; //Must communicate with rigid body
     private Vector2 moveInput;
     public Animator animator;
+    
+
 
     //Dash Variables 
     [Header("Dash Settings")]
@@ -38,11 +40,13 @@ public class AryasPlayerMovement : MonoBehaviour
     private Vector2 dashDirection;
     private TrailRenderer trailRenderer; // Already assigned in Inspector
     private Vector2 lastNonZeroMoveInput;
+     //Neal
+     private PlayerFallEffect fallEffect;
 
-
-    void Start()
+     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+         
+          rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         currentDashes = maxDashes;
 
@@ -56,10 +60,17 @@ public class AryasPlayerMovement : MonoBehaviour
         // Rigidbody2D setup for top-down movement
         rb.gravityScale = 0f;
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-    }
 
-    private void Update()
+
+         // Neal
+          fallEffect = GetComponent<PlayerFallEffect>();
+
+
+     }
+
+     private void Update()
     {
+
         //Store last movement for the dash direction
         if(moveInput != Vector2.zero)
         {
@@ -90,6 +101,8 @@ public class AryasPlayerMovement : MonoBehaviour
         {
             TryInteract();
         }
+
+          
     }
 
     //Neals changes to try interact
@@ -184,7 +197,11 @@ public class AryasPlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (isDashing)
+
+         // Neal: Lock movement during fall
+         if (fallEffect != null && fallEffect.IsFalling()) return;
+
+          if (isDashing)
         {
             // Apply dash movement
             rb.linearVelocity = dashDirection * dashSpeed;

@@ -46,8 +46,13 @@ public class EnemyHealth : MonoBehaviour
 
     private void Die()
 {
-    // Play the hit sound one more time
-    HitSound hitSound = GetComponent<HitSound>();
+     //Neal 
+     // COUNT THIS KILL (important!)
+     if (EnemyKillTracker.Instance != null)
+               EnemyKillTracker.Instance.AddKill();
+
+          // Play the hit sound one more time
+          HitSound hitSound = GetComponent<HitSound>();
     float delay = 0f;
 
     // Play hit sound only if clip exists in inspector

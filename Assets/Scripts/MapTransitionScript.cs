@@ -4,6 +4,12 @@ using System.Collections;
 
 public class MapTransitionScript : MonoBehaviour
 {
+     [Header("Requirements")]
+     public bool requiresKills = false;
+     public int requiredKillCount = 0;
+     public string blockedMessage = "You must defeat more Lava Slimes!";
+     public Text messageText;  // Optional UI popup
+
      [Header("Teleport Settings")]
      public Transform teleportTarget;
      public GameObject cameraObject;
@@ -18,10 +24,29 @@ public class MapTransitionScript : MonoBehaviour
 
      private void OnTriggerEnter2D(Collider2D collision)
      {
-          if (collision.CompareTag("Player"))
+          if (!collision.CompareTag("Player"))
+               return;
+
+          // If this teleport requires slime kills…
+          if (requiresKills)
           {
-               StartCoroutine(FadeTransition(collision.transform));
+               if (!EnemyKillTracker.Instance.HasMetRequirement())
+               {
+                    // Not enough kills: Block access
+                    Debug.Log(blockedMessage);
+
+                    if (messageText != null)
+                    {
+                         messageText.text = blockedMessage;
+                         StartCoroutine(ClearMessage());
+                    }
+
+                    return;
+               }
           }
+
+          // Requirement met: Proceed with teleport
+          StartCoroutine(FadeTransition(collision.transform));
      }
 
      private IEnumerator FadeTransition(Transform player)
@@ -70,5 +95,12 @@ public class MapTransitionScript : MonoBehaviour
 
           fadePanel.alpha = targetAlpha;
      }
+
+     private IEnumerator ClearMessage()
+     {
+          yield return new WaitForSeconds(2f);
+          messageText.text = "";
+     }
+
 }
 
