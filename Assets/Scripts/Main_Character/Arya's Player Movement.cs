@@ -23,9 +23,9 @@ public class AryasPlayerMovement : MonoBehaviour
 
     //Neal's Changes:
     public float strength = 1f;         // Just keeps track of how powerful the player is
-    public float massGainPerBible = 0.5f; // How much mass to add per pickup 
+    public float massGainPerBible = 0.5f;
 
-    public Player_Combat player_Combat;
+     public Player_Combat player_Combat;
 
     // Attack cooldown variables
     [Header("Attack Cooldown Settings")]

@@ -7,8 +7,17 @@ public class PlayerLandingLerp : MonoBehaviour
      public float lerpDuration = 1.5f;
 
      [Header("Landing FX")]
-     public GameObject dustPrefab;   // Drag your dust prefab here
-     public float dustYOffset = -0.2f; // helps place dust at the feet
+     public GameObject dustPrefab;
+     public float dustYOffset = -0.2f;
+
+     [Header("Landing Sound")]
+     public AudioClip landingSFX;
+     public float landingVolume = 1f;
+     private AudioSource audioSource;
+
+     [Header("Landing Camera Shake")]
+     public float landingShakeDuration = 0.25f;
+     public float landingShakeMagnitude = 0.45f;
 
      private Vector3 startPos;
      private Vector3 endPos;
@@ -22,6 +31,9 @@ public class PlayerLandingLerp : MonoBehaviour
      {
           moveScript = GetComponent<AryasPlayerMovement>();
           rb = GetComponent<Rigidbody2D>();
+
+          audioSource = gameObject.AddComponent<AudioSource>();
+          audioSource.playOnAwake = false;
 
           moveScript.enabled = false;
           rb.simulated = false;
@@ -41,29 +53,32 @@ public class PlayerLandingLerp : MonoBehaviour
 
           transform.position = Vector3.Lerp(startPos, endPos, t);
 
+          // WHEN LANDING IS COMPLETE
           if (t >= 1f)
           {
                finished = true;
 
-               // Re-enable movement & physics
                rb.simulated = true;
                moveScript.enabled = true;
 
-               // --- LANDING VISUAL FX ---
-
-               // Dust puff
+               // --- Dust FX ---
                if (dustPrefab != null)
                {
                     Vector3 dustPos = endPos + new Vector3(0, dustYOffset, 0);
                     Instantiate(dustPrefab, dustPos, Quaternion.identity);
                }
 
-               // Screen shake (using your script!)
+               // --- Camera Shake (LANDING ONLY) ---
                if (ScreenShake.Instance != null)
                {
-                    ScreenShake.Instance.QuickShake();  // or BigShake()
+                    ScreenShake.Instance.Shake(landingShakeDuration, landingShakeMagnitude);
+               }
+
+               // --- Landing Sound ---
+               if (landingSFX != null)
+               {
+                    audioSource.PlayOneShot(landingSFX, landingVolume);
                }
           }
      }
 }
-

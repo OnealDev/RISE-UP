@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 1286206075269903649}
   m_Layer: 0
   m_Name: Bible +Damage
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123,8 +123,6 @@ MonoBehaviour:
   ID: 1
   Name: Bible
   massBonus: 6
-  popupTextPrefab: {fileID: 1038984380794026391, guid: 40ad819d02ebc8d4bb71d08a26ddd8c0, type: 3}
-  popupMessage: You picked up an item!
 --- !u!58 &-3893744479113336017
 CircleCollider2D:
   m_ObjectHideFlags: 0

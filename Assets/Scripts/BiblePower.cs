@@ -16,10 +16,11 @@ public class BiblePower : MonoBehaviour
                // Boost damage
                Player_Combat combat = player.GetComponent<Player_Combat>();
                if (combat != null)
+               {
                     combat.damage += (int)damageBoost;
+               }
 
-
-               // Show verse
+               // Verse Popup
                if (popupTextPrefab != null)
                {
                     GameObject popup = Instantiate(
