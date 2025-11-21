@@ -17,7 +17,7 @@ public class EnemyHealth : MonoBehaviour
 
         if (amount < 0) // Taking damage
         {
-            Debug.Log($"💥 Enemy took damage! Calling flash...");
+            Debug.Log($" Enemy took damage! Calling flash...");
             
             // Flash effect
             FlashOnHit flash = GetComponent<FlashOnHit>();
@@ -46,8 +46,13 @@ public class EnemyHealth : MonoBehaviour
 
     private void Die()
 {
-    // Play the hit sound one more time
-    HitSound hitSound = GetComponent<HitSound>();
+     //Neal 
+     // COUNT THIS KILL (important!)
+     if (EnemyKillTracker.Instance != null)
+               EnemyKillTracker.Instance.AddKill();
+
+          // Play the hit sound one more time
+          HitSound hitSound = GetComponent<HitSound>();
     float delay = 0f;
 
     // Play hit sound only if clip exists in inspector

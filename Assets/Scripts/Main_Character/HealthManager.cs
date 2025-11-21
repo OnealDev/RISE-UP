@@ -21,6 +21,9 @@ public class HealthManager : MonoBehaviour
     private bool isKnockedBack = false;
     private AryasPlayerMovement movementScript; //We need to reference the movement script when he takes damage
 
+   public GameOverManager gameOverManager; 
+
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -152,5 +155,11 @@ public class HealthManager : MonoBehaviour
         Debug.Log("PLAYER DIED!");
         gameObject.SetActive(false);
         // Later: add respawn, animation, sound, etc.
+
+        // Show Game Over screen
+        if (gameOverManager != null)
+        {
+           gameOverManager.ShowGameOver();
+        }
     }
 }

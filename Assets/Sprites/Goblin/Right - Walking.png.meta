@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 85662fc070dbdc7459f3b08b3f34ed52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4763573679329651394
+    second: Right - Walking_0
+  - first:
+      213: -4211963908136645775
+    second: Right - Walking_1
+  - first:
+      213: -2974615595926050170
+    second: Right - Walking_2
+  - first:
+      213: -6331019702653374443
+    second: Right - Walking_3
+  - first:
+      213: -6527163210429202281
+    second: Right - Walking_4
+  - first:
+      213: -8207398500514113380
+    second: Right - Walking_5
+  - first:
+      213: 2995411676744459686
+    second: Right - Walking_6
+  - first:
+      213: -8552230491331490764
+    second: Right - Walking_7
+  - first:
+      213: -2977401842994953093
+    second: Right - Walking_8
+  - first:
+      213: -4914637713292740689
+    second: Right - Walking_9
+  - first:
+      213: -6757142320770571740
+    second: Right - Walking_10
+  - first:
+      213: -3430644418207498212
+    second: Right - Walking_11
+  - first:
+      213: -61823049548253081
+    second: Right - Walking_12
+  - first:
+      213: -4208677501859108909
+    second: Right - Walking_13
+  - first:
+      213: -812569479297957481
+    second: Right - Walking_14
+  - first:
+      213: 4956185049089057909
+    second: Right - Walking_15
+  - first:
+      213: 7286011753199282598
+    second: Right - Walking_16
+  - first:
+      213: 7117916603012365923
+    second: Right - Walking_17
+  - first:
+      213: -1559158929001547663
+    second: Right - Walking_18
+  - first:
+      213: 7314331725110767742
+    second: Right - Walking_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Right - Walking_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3031
+        width: 223
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca28d9d50d9b1240800000000000000
+      internalID: 4763573679329651394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_1
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3029
+        width: 224
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bcfb834291c85c0800000000000000
+      internalID: -4211963908136645775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_2
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 3027
+        width: 224
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aad7d20ea08b6d0800000000000000
+      internalID: -2974615595926050170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_3
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 3026
+        width: 224
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510b855af13b328a0800000000000000
+      internalID: -6331019702653374443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2305
+        width: 227
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7908e5b74abda65a0800000000000000
+      internalID: -6527163210429202281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_5
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2304
+        width: 234
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9858c66c86791e80800000000000000
+      internalID: -8207398500514113380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_6
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2303
+        width: 230
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a52964bc07d19920800000000000000
+      internalID: 2995411676744459686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_7
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 2302
+        width: 224
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c0ce60eaf505980800000000000000
+      internalID: -8552230491331490764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1581
+        width: 224
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7441ba7cc42ea6d0800000000000000
+      internalID: -2977401842994953093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_9
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1581
+        width: 224
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b273e903bbcbb0800000000000000
+      internalID: -4914637713292740689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_10
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1581
+        width: 223
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42226b13cdec932a0800000000000000
+      internalID: -6757142320770571740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_11
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 1581
+        width: 223
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10c016f317e360d0800000000000000
+      internalID: -3430644418207498212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 861
+        width: 223
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768beb4934c542ff0800000000000000
+      internalID: -61823049548253081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_13
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 862
+        width: 223
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7628f4c16c795c0800000000000000
+      internalID: -4208677501859108909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 863
+        width: 223
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7910f1f1d5c29b4f0800000000000000
+      internalID: -812569479297957481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_15
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 864
+        width: 223
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5742e0c0b08e7c440800000000000000
+      internalID: 4956185049089057909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 145
+        width: 223
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9a3ca261d1d1560800000000000000
+      internalID: 7286011753199282598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_17
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 146
+        width: 224
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e3867207be7c260800000000000000
+      internalID: 7117916603012365923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_18
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 147
+        width: 224
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178fb700731cc5ae0800000000000000
+      internalID: -1559158929001547663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_19
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 148
+        width: 224
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70f89473f9b18560800000000000000
+      internalID: 7314331725110767742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Right - Walking_0: 4763573679329651394
+      Right - Walking_1: -4211963908136645775
+      Right - Walking_10: -6757142320770571740
+      Right - Walking_11: -3430644418207498212
+      Right - Walking_12: -61823049548253081
+      Right - Walking_13: -4208677501859108909
+      Right - Walking_14: -812569479297957481
+      Right - Walking_15: 4956185049089057909
+      Right - Walking_16: 7286011753199282598
+      Right - Walking_17: 7117916603012365923
+      Right - Walking_18: -1559158929001547663
+      Right - Walking_19: 7314331725110767742
+      Right - Walking_2: -2974615595926050170
+      Right - Walking_3: -6331019702653374443
+      Right - Walking_4: -6527163210429202281
+      Right - Walking_5: -8207398500514113380
+      Right - Walking_6: 2995411676744459686
+      Right - Walking_7: -8552230491331490764
+      Right - Walking_8: -2977401842994953093
+      Right - Walking_9: -4914637713292740689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,6 +12,7 @@ TagManager:
   - OutsideZone
   - Rock
   - NPC
+  - PlayerSpawn
   layers:
   - Default
   - TransparentFX
