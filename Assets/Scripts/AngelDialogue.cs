@@ -1,63 +1,92 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
 using System.Collections;
+using System.Collections.Generic;
 
 public class AngelDialogue : MonoBehaviour
 {
      [Header("UI References")]
      public GameObject dialoguePanel;
      public TextMeshProUGUI dialogueText;
+     public Button nextButton;
 
      [Header("Typewriter Settings")]
      public float typingSpeed = 0.05f;
-     public float displayDuration = 2f;
-     public float fadeOutTime = 1.5f;
 
-     private Coroutine currentRoutine;
+     private List<string> dialogueLines;
+     private int currentIndex = 0;
+     private Coroutine typingRoutine;
+     private bool isTyping = false;
 
      void Awake()
      {
-          if (dialoguePanel != null)
-               dialoguePanel.SetActive(false);
-
-          if (dialogueText != null)
-               dialogueText.text = "";
-     }
-
-     public void ShowDialogue(string message)
-     {
-          if (currentRoutine != null)
-               StopCoroutine(currentRoutine);
-
-          dialoguePanel.SetActive(true);
-          dialogueText.color = new Color(1, 1, 1, 1); // reset alpha
-          currentRoutine = StartCoroutine(TypeAndFade(message));
-     }
-
-     IEnumerator TypeAndFade(string message)
-     {
+          dialoguePanel.SetActive(false);
           dialogueText.text = "";
+          nextButton.gameObject.SetActive(false);
+          nextButton.onClick.AddListener(ShowNextLine);
+     }
 
-          foreach (char c in message)
+     public void ShowDialogue(List<string> lines)
+     {
+          dialogueLines = lines;
+          currentIndex = 0;
+          dialoguePanel.SetActive(true);
+          nextButton.gameObject.SetActive(false);
+          ShowCurrentLine();
+     }
+
+     void ShowCurrentLine()
+     {
+          if (typingRoutine != null) StopCoroutine(typingRoutine);
+          typingRoutine = StartCoroutine(TypeLine(dialogueLines[currentIndex]));
+     }
+
+     IEnumerator TypeLine(string line)
+     {
+          isTyping = true;
+          dialogueText.text = "";
+          foreach (char c in line)
           {
                dialogueText.text += c;
                yield return new WaitForSeconds(typingSpeed);
           }
+          isTyping = false;
 
-          yield return new WaitForSeconds(displayDuration);
+          // FIX #2 — Next button ALWAYS shows, even on the last line
+          nextButton.gameObject.SetActive(true);
+     }
 
-          // Fade out
-          float elapsed = 0f;
-          Color color = dialogueText.color;
-          while (elapsed < fadeOutTime)
+     void ShowNextLine()
+     {
+          if (isTyping)
           {
-               elapsed += Time.deltaTime;
-               color.a = Mathf.Lerp(1f, 0f, elapsed / fadeOutTime);
-               dialogueText.color = color;
-               yield return null;
+               // Skip typing and show full line instantly
+               StopCoroutine(typingRoutine);
+               dialogueText.text = dialogueLines[currentIndex];
+               isTyping = false;
+
+               // Same change here — button stays active
+               nextButton.gameObject.SetActive(true);
+               return;
           }
 
+          currentIndex++;
+          if (currentIndex < dialogueLines.Count)
+          {
+               nextButton.gameObject.SetActive(false);
+               ShowCurrentLine();
+          }
+          else
+          {
+               EndDialogue();
+          }
+     }
+
+     void EndDialogue()
+     {
+          dialogueText.text = "";     // Clears leftover text
           dialoguePanel.SetActive(false);
+          nextButton.gameObject.SetActive(false);
      }
 }
-
