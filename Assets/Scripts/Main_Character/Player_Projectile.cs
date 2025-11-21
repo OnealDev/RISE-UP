@@ -10,6 +10,8 @@ public class Player_Projectile : MonoBehaviour
     public float shootCooldown = 0.5f;
     private float shootTimer;
 
+    public Animator anim;
+    public AryasPlayerMovement playerMovement;
     void Start()
     {
         mainCamera = Camera.main;
@@ -26,8 +28,10 @@ public class Player_Projectile : MonoBehaviour
     public void OnShoot(InputAction.CallbackContext context)
     {
         if (context.performed && shootTimer <= 0)
-        {
-            Shoot();
+        {   
+            playerMovement.isShooting = true;
+            anim.SetBool("IsShooting", true);
+            //Shoot();
         }
     }
 
@@ -50,5 +54,10 @@ public class Player_Projectile : MonoBehaviour
         
         shootTimer = shootCooldown;
         Debug.Log($"Shooting from {spawnPosition} towards {direction}");
+
+        anim.SetBool("IsShooting", false);
+        playerMovement.isShooting = false;
     }
+
+    
 }
