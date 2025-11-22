@@ -207,7 +207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13f20e95cea5c73488ffaa163f76b286, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followTarget: {fileID: 0}
+  followTarget: {fileID: 5507072318041072253, guid: 225e64005cd54694797a70daf8adb64a, type: 3}
   followSpeed: 3
   detectionRange: 30
   attackRange: 1

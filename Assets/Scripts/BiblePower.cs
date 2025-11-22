@@ -1,39 +1,68 @@
 ﻿using UnityEngine;
 
-public class BiblePower : MonoBehaviour
+public class BiblePower : MonoBehaviour, IInteractable
 {
+     [Header("Bible Settings")]
      public float damageBoost = 1f;
-     public GameObject popupTextPrefab;
 
+     private bool canBePickedUp = false;
+     private GameObject player;
+
+     private void Start()
+     {
+          player = GameObject.FindGameObjectWithTag("Player");
+     }
+
+     private void Update()
+     {
+          // Require E key to pick up
+          if (canBePickedUp && Input.GetKeyDown(KeyCode.E))
+          {
+               PickUp();
+          }
+     }
+
+     // This ONLY allows interaction — does NOT auto-pickup
      private void OnTriggerEnter2D(Collider2D other)
      {
-          AryasPlayerMovement player = other.GetComponent<AryasPlayerMovement>();
-          if (player != null)
+          if (other.CompareTag("Player"))
           {
-               // Boost strength
-               player.strength += damageBoost * 0.5f;
-
-               // Boost damage
-               Player_Combat combat = player.GetComponent<Player_Combat>();
-               if (combat != null)
-               {
-                    combat.damage += (int)damageBoost;
-               }
-
-               // Verse Popup
-               if (popupTextPrefab != null)
-               {
-                    GameObject popup = Instantiate(
-                        popupTextPrefab,
-                        player.transform.position + Vector3.up * 1.5f,
-                        Quaternion.identity
-                    );
-                    popup.GetComponent<PopupText>().SetText(
-                        "“Blessed be the Lord, my rock, who trains my hands for war, and my fingers for battle;”\n‭‭Psalm‬ ‭144‬:‭1‬ ‭ESV‬‬"
-                    );
-               }
-
-               Destroy(gameObject);
+               canBePickedUp = true;
+               player = other.gameObject;
+               Debug.Log("Press E to pick up Bible");
           }
+     }
+
+     private void OnTriggerExit2D(Collider2D other)
+     {
+          if (other.CompareTag("Player") && other.gameObject == player)
+          {
+               canBePickedUp = false;
+          }
+     }
+
+     public bool CanInteract()
+     {
+          return canBePickedUp;
+     }
+
+     public void Interact()
+     {
+          if (canBePickedUp)
+               PickUp();
+     }
+
+     public void PickUp()
+     {
+          if (player == null) return;
+
+          // DAMAGE ONLY
+          Player_Combat combat = player.GetComponent<Player_Combat>();
+          if (combat != null)
+               combat.damage += (int)damageBoost;
+
+          Debug.Log("Bible picked up — damage increased!");
+
+          Destroy(gameObject);
      }
 }

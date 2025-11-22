@@ -14,7 +14,14 @@ public class SlimeSpawnTrigger : MonoBehaviour
 
                foreach (Transform point in spawnPoints)
                {
-                    Instantiate(slimePrefab, point.position, Quaternion.identity);
+                    GameObject slime = Instantiate(slimePrefab, point.position, Quaternion.identity);
+
+                    // Assign follow target so they actually chase the player
+                    EnemyFollow follow = slime.GetComponent<EnemyFollow>();
+                    if (follow != null)
+                    {
+                         follow.followTarget = collision.transform; // the player
+                    }
                }
           }
      }
