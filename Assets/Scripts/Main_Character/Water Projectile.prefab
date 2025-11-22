@@ -181,7 +181,7 @@ MonoBehaviour:
   rb: {fileID: 3326549313315620944}
   direction: {x: 1, y: 0}
   lifespawn: 2
-  speed: 15
+  speed: 40
   enemyLayer:
     serializedVersion: 2
     m_Bits: 128

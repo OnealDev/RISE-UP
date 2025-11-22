@@ -43,6 +43,8 @@ public class AryasPlayerMovement : MonoBehaviour
      //Neal
      private PlayerFallEffect fallEffect;
 
+     public bool isShooting;
+
      void Start()
     {
          
@@ -69,41 +71,37 @@ public class AryasPlayerMovement : MonoBehaviour
      }
 
      private void Update()
+{
+    //stop movement while firing
+    if (isShooting)
     {
-
-        //Store last movement for the dash direction
-        if(moveInput != Vector2.zero)
-        {
-            lastNonZeroMoveInput = moveInput;
-        }
-
-        // Update facing direction for combat
-        player_Combat.SetFacingDirection(moveInput);
-
-        //Dash reset timer
-        if (currentDashes < maxDashes && Time.time - lastDashTime >= dashResetTime)
-        {
-            currentDashes = maxDashes;
-        }
-
-        //Dash duration countdown
-        if (isDashing)
-        {
-            dashTimeLeft -= Time.deltaTime;
-            if (dashTimeLeft <= 0)
-            {
-                EndDash();
-            }
-        }
-
-        //Item interaction
-        if (Keyboard.current.eKey.wasPressedThisFrame)
-        {
-            TryInteract();
-        }
-
-          
+        rb.linearVelocity = Vector2.zero;
+        return; 
     }
+
+    // store last nonzero movement
+    if (moveInput != Vector2.zero)
+        lastNonZeroMoveInput = moveInput;
+
+    // facing direction
+    player_Combat.SetFacingDirection(moveInput);
+
+    // dash reset
+    if (currentDashes < maxDashes && Time.time - lastDashTime >= dashResetTime)
+        currentDashes = maxDashes;
+
+    // dash duration
+    if (isDashing)
+    {
+        dashTimeLeft -= Time.deltaTime;
+        if (dashTimeLeft <= 0)
+            EndDash();
+    }
+
+    //item interaction
+    if (Keyboard.current.eKey.wasPressedThisFrame)
+        TryInteract();
+}
 
     //Neals changes to try interact
     void TryInteract()
@@ -201,15 +199,20 @@ public class AryasPlayerMovement : MonoBehaviour
          // Neal: Lock movement during fall
          if (fallEffect != null && fallEffect.IsFalling()) return;
 
-          if (isDashing)
+          // STOP ALL MOVEMENT IF SHOOTING
+         if (isShooting)
         {
-            // Apply dash movement
-            rb.linearVelocity = dashDirection * dashSpeed;
+             rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
+            if (isDashing)
+        {
+              rb.linearVelocity = dashDirection * dashSpeed;
         }
         else
         {
-            // Regular movement
-            rb.linearVelocity = moveInput * moveSpeed;
+               rb.linearVelocity = moveInput * moveSpeed;
         }
     }
 }
