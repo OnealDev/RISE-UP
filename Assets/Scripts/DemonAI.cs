@@ -18,6 +18,9 @@ public class DemonAI : MonoBehaviour
 
      public GameObject hitbox;       // Assign in Inspector
      public GameObject flameEffect;  // Assign in Inspector
+     
+     private EnemyPathFollow pathFollow; //Neal
+     private SpriteRenderer sr; //Neal
 
      void Start()
      {
@@ -29,6 +32,10 @@ public class DemonAI : MonoBehaviour
 
           if (flameEffect != null)
                flameEffect.SetActive(false);
+
+          pathFollow = GetComponent<EnemyPathFollow>();
+          sr = GetComponent<SpriteRenderer>();
+
      }
 
      void Update()
@@ -37,23 +44,28 @@ public class DemonAI : MonoBehaviour
 
           float distance = Vector2.Distance(transform.position, player.position);
 
+          // Player detected  stop patrolling
           if (distance <= detectionRange)
           {
+               if (pathFollow != null)
+                    pathFollow.isPaused = true;
+
                if (distance > attackRange)
-               {
                     ChasePlayer();
-               }
                else
-               {
                     TryPunch();
-               }
           }
           else
           {
+               // No player  resume patrol
+               if (pathFollow != null)
+                    pathFollow.isPaused = false;
+
                rb.linearVelocity = Vector2.zero;
                anim.SetFloat("Speed", 0f);
           }
      }
+
 
      private void ChasePlayer()
      {
@@ -63,7 +75,14 @@ public class DemonAI : MonoBehaviour
           anim.SetFloat("MoveX", direction.x);
           anim.SetFloat("MoveY", direction.y);
           anim.SetFloat("Speed", moveSpeed);
+
+          // FLIP LOGIC
+          if (direction.x > 0.1f)
+               sr.flipX = false;
+          else if (direction.x < -0.1f)
+               sr.flipX = true;
      }
+
 
      private void TryPunch()
      {
