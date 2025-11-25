@@ -492,6 +492,7 @@ MonoBehaviour:
   massGainPerBible: 0.5
   player_Combat: {fileID: 211880806891043168}
   attackCooldown: 0.5
+  isShooting: 0
 --- !u!114 &211880806891043168
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -917,6 +918,8 @@ MonoBehaviour:
   projectilePrefab: {fileID: 8174087478594921041, guid: 4f0b1694642caa049be4b6e2b4fb9252, type: 3}
   characterRadius: 3
   shootCooldown: 0.5
+  anim: {fileID: 0}
+  playerMovement: {fileID: 1871630206670928779}
 --- !u!114 &3614646234532566537
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -933,7 +936,7 @@ MonoBehaviour:
   startHeightOffset: 25
   lerpDuration: 0.8
   dustPrefab: {fileID: 8159862018779024210, guid: 247fc6ffde0420a4db0fb0598e445d2b, type: 3}
-  dustYOffset: -0.2
+  dustYOffset: -5
   landingSFX: {fileID: 8300000, guid: 55d82510a21b44b4981ecae0a0af2303, type: 3}
   landingVolume: 1
   landingShakeDuration: 0.8

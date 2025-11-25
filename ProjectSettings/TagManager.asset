@@ -13,6 +13,7 @@ TagManager:
   - Rock
   - NPC
   - PlayerSpawn
+  - Flame
   layers:
   - Default
   - TransparentFX
