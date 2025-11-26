@@ -9,6 +9,9 @@ public class InteractiveFlame : MonoBehaviour
      public AudioClip extinguishSound;
      public float soundVolume = 1f;
 
+     // NEW — assign smoke/explosion particle in Inspector
+     public ParticleSystem extinguishEffect;
+
      private AudioSource audioSource;
      private bool isExtinguished = false;
 
@@ -16,13 +19,12 @@ public class InteractiveFlame : MonoBehaviour
      // DAMAGE + KNOCKBACK SETTINGS
      // -----------------------------
      [Header("Damage Settings")]
-     public int damage = 1;                // How much damage the flame deals
-     public float damageCooldown = 1f;     // How often the flame can hurt the player
-     private float lastDamageTime = 0f;    // Internal cooldown tracker
+     public int damage = 1;
+     public float damageCooldown = 1f;
+     private float lastDamageTime = 0f;
 
      void Awake()
      {
-          // Add / confirm AudioSource
           audioSource = GetComponent<AudioSource>();
           if (audioSource == null)
                audioSource = gameObject.AddComponent<AudioSource>();
@@ -35,14 +37,22 @@ public class InteractiveFlame : MonoBehaviour
      // -----------------------------
      public void Extinguish()
      {
-          if (isExtinguished) return; // Prevent duplicates
+          if (isExtinguished) return;
           isExtinguished = true;
 
           // Play extinguish sound
           if (extinguishSound != null)
                audioSource.PlayOneShot(extinguishSound, soundVolume);
 
-          // Destroy after audio finishes
+          // NEW — play smoke/explosion particle
+          if (extinguishEffect != null)
+          {
+               extinguishEffect.transform.parent = null;   // detach so it can finish playing
+               extinguishEffect.Play();
+               Destroy(extinguishEffect.gameObject, 2f);
+          }
+
+          // Destroy flame object after sound (if any)
           Destroy(gameObject, extinguishSound != null ? extinguishSound.length : 0f);
      }
 
@@ -51,24 +61,19 @@ public class InteractiveFlame : MonoBehaviour
      // -----------------------------
      private void OnTriggerStay2D(Collider2D collision)
      {
-          // If flame is extinguished, it no longer hurts
           if (isExtinguished) return;
 
-          // Only hurt the player
           if (!collision.CompareTag("Player")) return;
 
-          // Damage cooldown check
           if (Time.time < lastDamageTime + damageCooldown)
                return;
 
-          // Get player's HealthManager
           HealthManager playerHealth = collision.GetComponent<HealthManager>();
           if (playerHealth != null)
           {
-               // Knockback direction: push AWAY from flame
-               Vector2 knockDirection = (collision.transform.position - transform.position).normalized;
+               Vector2 knockDirection =
+                    (collision.transform.position - transform.position).normalized;
 
-               // Use your built-in gamewide damage system
                playerHealth.TakeDamage(damage, knockDirection);
           }
 

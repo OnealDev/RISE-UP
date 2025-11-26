@@ -66,5 +66,8 @@ TagManager:
   - name: Outside
     uniqueID: 588388923
     locked: 0
+  - name: particles
+    uniqueID: 1608762497
+    locked: 0
   m_RenderingLayers:
   - Default
