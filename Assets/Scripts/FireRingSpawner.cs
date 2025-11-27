@@ -11,9 +11,17 @@ public class FireRingSpawner : MonoBehaviour
      [Header("Spawn Timing")]
      public float spawnDelay = 0.2f;  // time between each flame
 
-     void Start()
+     private bool hasSpawned = false;
+
+     private void OnTriggerEnter2D(Collider2D other)
      {
-          StartCoroutine(SpawnFireRing());
+          if (hasSpawned) return;
+
+          if (other.CompareTag("Player"))
+          {
+               hasSpawned = true;
+               StartCoroutine(SpawnFireRing());
+          }
      }
 
      IEnumerator SpawnFireRing()
