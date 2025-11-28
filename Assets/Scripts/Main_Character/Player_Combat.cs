@@ -70,40 +70,48 @@ public class Player_Combat : MonoBehaviour
      }
 
      public void DealDamage()
-{
-     
-     if (hasDealtDamageThisAttack) return;
-     hasDealtDamageThisAttack = true;
-
-     Transform activePoint = GetActiveAttackPoint();
-     if (activePoint == null)
-          return;
-
-     Collider2D[] enemies = Physics2D.OverlapCircleAll(activePoint.position, weaponRange, enemyLayer);
-
-     foreach (Collider2D enemy in enemies)
      {
-          
-          Vector2 hitPoint = enemy.ClosestPoint(activePoint.position);
-          Vector2 attackDirection = (enemy.transform.position - transform.position).normalized;
+          if (hasDealtDamageThisAttack) return;
+          hasDealtDamageThisAttack = true;
 
-          //Apply Damage and knockbac
-          enemy.GetComponent<EnemyHealth>()?.ChangeHealth(-damage);
-          enemy.GetComponent<Enemy_Knockback>()?.Knockback(transform, knockbackForce, 0.2f, 0.5f);
+          Transform activePoint = GetActiveAttackPoint();
+          if (activePoint == null)
+               return;
 
-          // Neal NEW ADDITION: Damage breakable rocks
-          if (enemy.CompareTag("Rock"))
+          Collider2D[] enemies = Physics2D.OverlapCircleAll(activePoint.position, weaponRange, enemyLayer);
+
+          foreach (Collider2D enemy in enemies)
           {
-               enemy.GetComponent<BreakableRock>()?.TakeDamage(damage);
+               Vector2 hitPoint = enemy.ClosestPoint(activePoint.position);
+               Vector2 attackDirection = (enemy.transform.position - transform.position).normalized;
+
+               // DAMAGE NORMAL ENEMIES
+               enemy.GetComponent<EnemyHealth>()?.ChangeHealth(-damage);
+
+               // DAMAGE DEMON (your boss enemy)
+               DemonHealth demon = enemy.GetComponent<DemonHealth>();
+               if (demon != null)
+               {
+                    demon.TakeDamage(damage);
+               }
+
+               // APPLY KNOCKBACK (if component exists)
+               enemy.GetComponent<Enemy_Knockback>()?.Knockback(transform, knockbackForce, 0.2f, 0.5f);
+
+               // DAMAGE BREAKABLE ROCKS
+               if (enemy.CompareTag("Rock"))
+               {
+                    enemy.GetComponent<BreakableRock>()?.TakeDamage(damage);
+               }
+
+               // HIT EFFECTS
+               HitEffectManager.Instance?.SpawnHitEffect(hitPoint, attackDirection);
+
+               // SCREEN SHAKE
+               ScreenShake.Instance?.QuickShake();
           }
-
-          //Spawn particles
-          HitEffectManager.Instance?.SpawnHitEffect(hitPoint, attackDirection);
-
-          //screen shake
-          ScreenShake.Instance?.QuickShake();
      }
-}
+
      private Transform GetActiveAttackPoint()
      {
           if (Mathf.Abs(lastMoveDir.x) > Mathf.Abs(lastMoveDir.y))
