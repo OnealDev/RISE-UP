@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -3893744479113336017}
   - component: {fileID: 5180407141565113881}
   - component: {fileID: 9085923614400396360}
-  - component: {fileID: 1286206075269903649}
+  - component: {fileID: -5777749997114709278}
   m_Layer: 0
   m_Name: Bible +Damage
   m_TagString: Item
@@ -201,7 +201,7 @@ MonoBehaviour:
   bounceHeight: 3
   bounceSpeed: 4
   bounceDuration: 3
---- !u!114 &1286206075269903649
+--- !u!114 &-5777749997114709278
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -214,4 +214,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BiblePower
   damageBoost: 1
-  popupTextPrefab: {fileID: 0}
