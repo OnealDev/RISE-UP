@@ -317,8 +317,8 @@ Transform:
   m_GameObject: {fileID: 18298087}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1686.3481, y: 245.5, z: 0}
-  m_LocalScale: {x: 3.031688, y: 2.7845716, z: 1}
+  m_LocalPosition: {x: 1685.9, y: 254.9, z: 0}
+  m_LocalScale: {x: 2.767325, y: 2.2257082, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -906,7 +906,7 @@ Transform:
   m_GameObject: {fileID: 75185978}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1617.3, y: 297.4, z: 0}
+  m_LocalPosition: {x: 1630.3, y: 289.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5041,7 +5041,7 @@ MonoBehaviour:
   playerSprite: {fileID: 620423853}
   glowColor: {r: 1, g: 1, b: 0.5, a: 1}
   shakeIntensity: 0.8
-  shakeDuration: 1.5
+  shakeDuration: 1
   audioSource: {fileID: 366939419}
   whooshClip: {fileID: 8300000, guid: 915e54b6dc9f4cb4a80d289e325378e9, type: 3}
   landingClip: {fileID: 0}
@@ -6775,7 +6775,7 @@ Transform:
   m_GameObject: {fileID: 851762834}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1638.6, y: 269.3, z: 0}
+  m_LocalPosition: {x: 1640.3, y: 273, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6806,7 +6806,7 @@ Transform:
   m_GameObject: {fileID: 852792004}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1561.1, y: 294.5, z: 0}
+  m_LocalPosition: {x: 1559.5, y: 309.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -35068,7 +35068,7 @@ Transform:
   m_GameObject: {fileID: 1856906297}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1756, y: 278.4, z: 0}
+  m_LocalPosition: {x: 1746.2, y: 283.5, z: 0}
   m_LocalScale: {x: 0.47253922, y: 0.48987246, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
