@@ -5042,7 +5042,7 @@ MonoBehaviour:
   glowColor: {r: 1, g: 1, b: 0.5, a: 1}
   shakeIntensity: 0.8
   shakeDuration: 1.5
-  audioSource: {fileID: 0}
+  audioSource: {fileID: 366939419}
   whooshClip: {fileID: 8300000, guid: 915e54b6dc9f4cb4a80d289e325378e9, type: 3}
   landingClip: {fileID: 0}
 --- !u!95 &620423839 stripped
