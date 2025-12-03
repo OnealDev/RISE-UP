@@ -14,7 +14,6 @@ TagManager:
   - NPC
   - PlayerSpawn
   - Flame
-  - Cliff
   layers:
   - Default
   - TransparentFX
