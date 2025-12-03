@@ -85,15 +85,18 @@ public class Player_Combat : MonoBehaviour
                Vector2 hitPoint = enemy.ClosestPoint(activePoint.position);
                Vector2 attackDirection = (enemy.transform.position - transform.position).normalized;
 
-               // DAMAGE NORMAL ENEMIES
-               enemy.GetComponent<EnemyHealth>()?.ChangeHealth(-damage);
-
-               // DAMAGE DEMON (your boss enemy)
-               DemonHealth demon = enemy.GetComponent<DemonHealth>();
-               if (demon != null)
-               {
-                    demon.TakeDamage(damage);
-               }
+               // ✅ FIXED: Check for BossHealth FIRST
+        BossHealth bossHealth = enemy.GetComponent<BossHealth>();
+        if (bossHealth != null)
+        {
+            // Use BossHealth for boss enemies
+            bossHealth.TakeDamage(damage);
+        }
+        else
+        {
+            // Use EnemyHealth for regular enemies
+            enemy.GetComponent<EnemyHealth>()?.ChangeHealth(-damage);
+        }
 
                // APPLY KNOCKBACK (if component exists)
                enemy.GetComponent<Enemy_Knockback>()?.Knockback(transform, knockbackForce, 0.2f, 0.5f);

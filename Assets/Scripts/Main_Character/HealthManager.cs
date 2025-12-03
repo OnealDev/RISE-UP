@@ -37,6 +37,10 @@ public class HealthManager : MonoBehaviour
         
     }
 
+    public void TakeDamage(int amount)
+    {
+        TakeDamage(amount, Vector2.zero); // Calls the existing method with no knockback
+    }
     public void TakeDamage(int amount, Vector2 damageDirection)
     {
         currentHealth -= amount;

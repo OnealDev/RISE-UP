@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
+    // ADD THIS LINE:
+    public bool isInvincible = false;
+    
     public Vector2 lastMoveDir = Vector2.down;
     public int currentHealth;
     public int maxHealth;
@@ -13,7 +16,12 @@ public class EnemyHealth : MonoBehaviour
     
     public void ChangeHealth(int amount)
     {
+        // ADD THIS CHECK AT THE TOP:
+        if (isInvincible && amount < 0) return;
+        
         currentHealth += amount;
+        
+        // ... rest of your existing code stays the same ...
 
         if (amount < 0) // Taking damage
         {
