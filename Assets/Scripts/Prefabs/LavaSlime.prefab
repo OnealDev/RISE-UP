@@ -208,8 +208,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   followTarget: {fileID: 5507072318041072253, guid: 225e64005cd54694797a70daf8adb64a, type: 3}
-  followSpeed: 3
-  detectionRange: 30
+  followSpeed: 5
+  detectionRange: 35
   attackRange: 1
   attackCooldown: 1
 --- !u!114 &342987509138112568
@@ -224,6 +224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9abf8ffc77f76468230bed91ee103d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isInvincible: 0
   lastMoveDir: {x: 0, y: -1}
   currentHealth: 3
   maxHealth: 3

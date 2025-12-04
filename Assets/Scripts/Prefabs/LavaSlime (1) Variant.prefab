@@ -10,12 +10,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2130267695338566633, guid: b3c06dde48575fa48abe48af85fdcbc2, type: 3}
       propertyPath: followSpeed
-      value: 5
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2130267695338566633, guid: b3c06dde48575fa48abe48af85fdcbc2, type: 3}
       propertyPath: followTarget
       value: 
       objectReference: {fileID: 5507072318041072253, guid: 225e64005cd54694797a70daf8adb64a, type: 3}
+    - target: {fileID: 2130267695338566633, guid: b3c06dde48575fa48abe48af85fdcbc2, type: 3}
+      propertyPath: detectionRange
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 5682737722369067457, guid: b3c06dde48575fa48abe48af85fdcbc2, type: 3}
       propertyPath: m_Name
       value: LavaSlime (1) Variant
