@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Tilemaps;
+// REMOVE THIS LINE: using UnityEditor.Tilemaps;
 using UnityEngine.InputSystem;
 
 public class AryasPlayerMovement : MonoBehaviour
@@ -10,7 +10,7 @@ public class AryasPlayerMovement : MonoBehaviour
     public Rigidbody2D rb; //Must communicate with rigid body
     private Vector2 moveInput;
     public Animator animator;
-    
+
 
 
     //Dash Variables 
@@ -25,7 +25,7 @@ public class AryasPlayerMovement : MonoBehaviour
     public float strength = 1f;         // Just keeps track of how powerful the player is
     public float massGainPerBible = 0.5f;
 
-     public Player_Combat player_Combat;
+    public Player_Combat player_Combat;
 
     // Attack cooldown variables
     [Header("Attack Cooldown Settings")]
@@ -40,21 +40,21 @@ public class AryasPlayerMovement : MonoBehaviour
     private Vector2 dashDirection;
     private TrailRenderer trailRenderer; // Already assigned in Inspector
     private Vector2 lastNonZeroMoveInput;
-     //Neal
-     private PlayerFallEffect fallEffect;
+    //Neal
+    private PlayerFallEffect fallEffect;
 
-     public bool isShooting;
+    public bool isShooting;
 
-     void Start()
+    void Start()
     {
-         
-          rb = GetComponent<Rigidbody2D>();
+
+        rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         currentDashes = maxDashes;
 
         // Get the TrailRenderer from Inspector
         trailRenderer = GetComponent<TrailRenderer>();
-        if(trailRenderer == null)
+        if (trailRenderer == null)
             Debug.LogWarning("TrailRenderer missing! Add it in the Inspector.");
 
         trailRenderer.emitting = false;
@@ -64,44 +64,44 @@ public class AryasPlayerMovement : MonoBehaviour
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
 
 
-         // Neal
-          fallEffect = GetComponent<PlayerFallEffect>();
+        // Neal
+        fallEffect = GetComponent<PlayerFallEffect>();
 
 
-     }
-
-     private void Update()
-{
-    //stop movement while firing
-    if (isShooting)
-    {
-        rb.linearVelocity = Vector2.zero;
-        return; 
     }
 
-    // store last nonzero movement
-    if (moveInput != Vector2.zero)
-        lastNonZeroMoveInput = moveInput;
-
-    // facing direction
-    player_Combat.SetFacingDirection(moveInput);
-
-    // dash reset
-    if (currentDashes < maxDashes && Time.time - lastDashTime >= dashResetTime)
-        currentDashes = maxDashes;
-
-    // dash duration
-    if (isDashing)
+    private void Update()
     {
-        dashTimeLeft -= Time.deltaTime;
-        if (dashTimeLeft <= 0)
-            EndDash();
-    }
+        //stop movement while firing
+        if (isShooting)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
 
-    //item interaction
-    if (Keyboard.current.eKey.wasPressedThisFrame)
-        TryInteract();
-}
+        // store last nonzero movement
+        if (moveInput != Vector2.zero)
+            lastNonZeroMoveInput = moveInput;
+
+        // facing direction
+        player_Combat.SetFacingDirection(moveInput);
+
+        // dash reset
+        if (currentDashes < maxDashes && Time.time - lastDashTime >= dashResetTime)
+            currentDashes = maxDashes;
+
+        // dash duration
+        if (isDashing)
+        {
+            dashTimeLeft -= Time.deltaTime;
+            if (dashTimeLeft <= 0)
+                EndDash();
+        }
+
+        //item interaction
+        if (Keyboard.current.eKey.wasPressedThisFrame)
+            TryInteract();
+    }
 
     //Neals changes to try interact
     void TryInteract()
@@ -126,13 +126,13 @@ public class AryasPlayerMovement : MonoBehaviour
         animator.SetFloat("InputY", moveInput.y);
 
         // Walking animation
-        if(context.performed)
+        if (context.performed)
             animator.SetBool("IsWalking", true);
-        else if(context.canceled)
+        else if (context.canceled)
             animator.SetBool("IsWalking", false);
 
         // Update last non-zero input for dash
-        if(moveInput != Vector2.zero)
+        if (moveInput != Vector2.zero)
             lastNonZeroMoveInput = moveInput;
     }
 
@@ -145,7 +145,7 @@ public class AryasPlayerMovement : MonoBehaviour
         dashDirection = lastNonZeroMoveInput != Vector2.zero ? lastNonZeroMoveInput.normalized : Vector2.up;
 
         // Check if dash path is clear
-        if(IsDashPathClear())
+        if (IsDashPathClear())
         {
             StartDash();
         }
@@ -176,7 +176,7 @@ public class AryasPlayerMovement : MonoBehaviour
         lastDashTime = Time.time;
 
         // Start trail effect
-        if(trailRenderer != null)
+        if (trailRenderer != null)
         {
             trailRenderer.Clear();
             trailRenderer.time = dashDuration * 1.2f;
@@ -189,30 +189,30 @@ public class AryasPlayerMovement : MonoBehaviour
     void EndDash()
     {
         isDashing = false;
-        if(trailRenderer != null)
+        if (trailRenderer != null)
             trailRenderer.emitting = false;
     }
 
     void FixedUpdate()
     {
 
-         // Neal: Lock movement during fall
-         if (fallEffect != null && fallEffect.IsFalling()) return;
+        // Neal: Lock movement during fall
+        if (fallEffect != null && fallEffect.IsFalling()) return;
 
-          // STOP ALL MOVEMENT IF SHOOTING
-         if (isShooting)
+        // STOP ALL MOVEMENT IF SHOOTING
+        if (isShooting)
         {
-             rb.linearVelocity = Vector2.zero;
+            rb.linearVelocity = Vector2.zero;
             return;
         }
 
-            if (isDashing)
+        if (isDashing)
         {
-              rb.linearVelocity = dashDirection * dashSpeed;
+            rb.linearVelocity = dashDirection * dashSpeed;
         }
         else
         {
-               rb.linearVelocity = moveInput * moveSpeed;
+            rb.linearVelocity = moveInput * moveSpeed;
         }
     }
 }
