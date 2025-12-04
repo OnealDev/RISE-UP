@@ -36184,7 +36184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31fe430e1abd09469555d8422c0f110, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HitSound
-  hitSound: {fileID: 8300000, guid: 26eca79f9f6c4f04ba6a3cb87fee557d, type: 3}
+  hitSound: {fileID: 8300000, guid: bfa44ba4c16a8444f9881a35ff7ec97e, type: 3}
   pitchRange: {x: 0.9, y: 1.1}
   volumeRange: {x: 0.85, y: 1}
 --- !u!114 &1909741864
