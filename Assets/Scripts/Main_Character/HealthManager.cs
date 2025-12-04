@@ -22,6 +22,9 @@ public class HealthManager : MonoBehaviour
     private AryasPlayerMovement movementScript; //We need to reference the movement script when he takes damage
 
    public GameOverManager gameOverManager; 
+    [Header("Invincibility Settings")]
+    public float invincibilityTime = 1f;  
+    private bool isInvulnerable = false;
 
 
     void Start()
@@ -39,13 +42,17 @@ public class HealthManager : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
+         if (isInvulnerable) return;  // <-- blocks damage if invincible
         TakeDamage(amount, Vector2.zero); // Calls the existing method with no knockback
+        StartCoroutine(InvincibilityCoroutine());
     }
     public void TakeDamage(int amount, Vector2 damageDirection)
-    {
+{
+    if (isInvulnerable) return;  // <-- blocks damage if invincible
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
+        StartCoroutine(InvincibilityCoroutine());
         //Damage effects
         if (amount > 0)
         {
@@ -166,4 +173,18 @@ public class HealthManager : MonoBehaviour
            gameOverManager.ShowGameOver();
         }
     }
+   private IEnumerator InvincibilityCoroutine()
+{
+    isInvulnerable = true;
+
+    FlashOnHit flash = GetComponent<FlashOnHit>();
+    if (flash != null)
+        StartCoroutine(flash.StartInvincibilityFlash(invincibilityTime));
+
+    yield return new WaitForSeconds(invincibilityTime);
+
+    isInvulnerable = false;
+}
+
+
 }
