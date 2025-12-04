@@ -30,26 +30,39 @@ public class Projectile : MonoBehaviour
 
     
     private void OnCollisionEnter2D(Collision2D collision)
+{
+    // Flame interaction
+    if (collision.collider.CompareTag("Flame"))
     {
-          //Neal
-          // Check if the projectile hit a flame
-          if (collision.collider.CompareTag("Flame"))
-          {
-               InteractiveFlame flame = collision.gameObject.GetComponent<InteractiveFlame>();
-               if (flame != null)
-               {
-                    flame.Extinguish(); // <- plays sound + destroys object
-               }
-
-               Destroy(gameObject);
-               return;
-          }
-
-          if ((enemyLayer.value & (1 << collision.gameObject.layer)) > 0)
+        InteractiveFlame flame = collision.gameObject.GetComponent<InteractiveFlame>();
+        if (flame != null)
         {
-            collision.gameObject.GetComponent<EnemyHealth>().ChangeHealth(-damage);
-            collision.gameObject.GetComponent<Enemy_Knockback>().Knockback(transform, knockbackForce, knockbackTime, stunTime);
-            Destroy(gameObject); 
+            flame.Extinguish();
         }
+
+        Destroy(gameObject);
+        return;
     }
+
+    // --- DAMAGE BOSS ---
+BossHealth boss = collision.gameObject.GetComponentInParent<BossHealth>();
+if (boss != null)
+{
+    boss.TakeDamage(damage);
+    Destroy(gameObject);
+    return;
+}
+
+// --- DAMAGE NORMAL ENEMY ---
+if ((enemyLayer.value & (1 << collision.gameObject.layer)) > 0)
+{
+    collision.gameObject.GetComponent<EnemyHealth>()?.ChangeHealth(-damage);
+    collision.gameObject.GetComponent<Enemy_Knockback>()?.Knockback(transform, knockbackForce, knockbackTime, stunTime);
+
+    Destroy(gameObject);
+    return;
+}
+
+}
+
 }

@@ -463,7 +463,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53f46c6147722f145bbf5fd261b7fba5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss_Walk
-  speed: 15
+  speed: 20
   attackRange: 20
 --- !u!1102 &-165476618919017150
 AnimatorState:
@@ -667,7 +667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53f46c6147722f145bbf5fd261b7fba5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  speed: 10
+  speed: 15
   attackRange: 20
 --- !u!1102 &4776673821651356863
 AnimatorState:

@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RISE-UP.sln"
+    "dotnet.defaultSolution": "RISE-UP.slnx"
 }

@@ -1,19 +1,22 @@
-using System.Collections;
 using UnityEngine;
+using System.Collections;
 
 public class FlashOnHit : MonoBehaviour
 {
-    private SpriteRenderer spriteRenderer;
+    public SpriteRenderer spriteRenderer;
+    public Color flashColor = Color.red;
+    public float flashDuration = 0.1f;
+
     private Color originalColor;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Awake()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        if (spriteRenderer == null)
+            spriteRenderer = GetComponent<SpriteRenderer>();
+
         originalColor = spriteRenderer.color;
     }
 
-    // Update is called once per frame
     public void Flash()
     {
         StartCoroutine(FlashRoutine());
@@ -21,13 +24,27 @@ public class FlashOnHit : MonoBehaviour
 
     private IEnumerator FlashRoutine()
     {
-        //Flash white 
-        spriteRenderer.color = Color.red;
-
-        //wait short period of time
-        yield return new WaitForSeconds(0.3f);
-
-        //return color
+        spriteRenderer.color = flashColor;
+        yield return new WaitForSeconds(flashDuration);
         spriteRenderer.color = originalColor;
+    }
+
+    // ⭐ ADD THIS ⭐
+    public IEnumerator StartInvincibilityFlash(float duration)
+    {
+        float flashSpeed = 0.1f;
+        float timer = 0f;
+
+        while (timer < duration)
+        {
+            spriteRenderer.enabled = false;
+            yield return new WaitForSeconds(flashSpeed);
+            spriteRenderer.enabled = true;
+            yield return new WaitForSeconds(flashSpeed);
+
+            timer += flashSpeed * 2f;
+        }
+
+        spriteRenderer.enabled = true;
     }
 }

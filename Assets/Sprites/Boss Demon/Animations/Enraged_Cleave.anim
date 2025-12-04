@@ -115,7 +115,7 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 0.45
+  - time: 0.48333332
     functionName: EnragedAttack
     data: 
     objectReferenceParameter: {fileID: 0}
