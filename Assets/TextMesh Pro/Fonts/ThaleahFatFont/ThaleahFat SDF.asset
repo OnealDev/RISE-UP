@@ -475,7 +475,7 @@ MonoBehaviour:
       m_HorizontalAdvance: 45
     m_GlyphRect:
       m_X: 10
-      m_Y: 507
+      m_Y: 482
       m_Width: 40
       m_Height: 40
     m_Scale: 1

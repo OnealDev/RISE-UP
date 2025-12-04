@@ -699,11 +699,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: c6a0ce0e-5697-42d3-9a31-ac1defd95fbe
+  cloudProjectId: 58781195-85a4-4d61-badf-73916e607321
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: RISE UP
-  organizationId: onealdev
+  organizationId: aryaparvaresh
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
