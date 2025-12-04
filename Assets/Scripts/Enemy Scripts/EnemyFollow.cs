@@ -135,4 +135,9 @@ public class EnemyFollow : MonoBehaviour
     {
         isAttacking = false;
     }
+
+    public Vector2 GetLastDirection()
+{
+    return lastIdleDir;
+}
 }

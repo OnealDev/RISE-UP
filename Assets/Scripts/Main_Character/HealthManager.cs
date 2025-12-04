@@ -8,6 +8,9 @@ public class HealthManager : MonoBehaviour
     public int maxHealth = 3;
     public int currentHealth;
 
+    [Header("Debug Options")]
+    public bool enableDebugKeys = true; // Toggle debug features on/off
+
     [Header("Heart UI")]
     public Image[] hearts;
     public Sprite fullHeart;
@@ -21,11 +24,10 @@ public class HealthManager : MonoBehaviour
     private bool isKnockedBack = false;
     private AryasPlayerMovement movementScript; //We need to reference the movement script when he takes damage
 
-   public GameOverManager gameOverManager; 
+    public GameOverManager gameOverManager; 
     [Header("Invincibility Settings")]
     public float invincibilityTime = 1f;  
     private bool isInvulnerable = false;
-
 
     void Start()
     {
@@ -37,18 +39,23 @@ public class HealthManager : MonoBehaviour
 
     void Update()
     {
-        
+        // Debug health addition when F key is pressed
+        if (enableDebugKeys && Input.GetKeyDown(KeyCode.F))
+        {
+            AddDebugHealth();
+        }
     }
 
     public void TakeDamage(int amount)
     {
-         if (isInvulnerable) return;  // <-- blocks damage if invincible
+        if (isInvulnerable) return;  // <-- blocks damage if invincible
         TakeDamage(amount, Vector2.zero); // Calls the existing method with no knockback
         StartCoroutine(InvincibilityCoroutine());
     }
+    
     public void TakeDamage(int amount, Vector2 damageDirection)
-{
-    if (isInvulnerable) return;  // <-- blocks damage if invincible
+    {
+        if (isInvulnerable) return;  // <-- blocks damage if invincible
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
@@ -88,34 +95,30 @@ public class HealthManager : MonoBehaviour
         }
     }
 
-    
-
     private void ApplyKnockback(Vector2 direction)
-{   
-    //If knockback is already being applied just exit the function to prevent multiple knockbacks
-    if (isKnockedBack) 
-        return; 
+    {   
+        //If knockback is already being applied just exit the function to prevent multiple knockbacks
+        if (isKnockedBack) 
+            return; 
 
-
-    //Only apply knockback if we have a direction to go to 
-    if (direction != Vector2.zero && rb != null) 
-    {
-        isKnockedBack = true;
-        
-        //Disable movement script during knockback
-        if (movementScript != null)
+        //Only apply knockback if we have a direction to go to 
+        if (direction != Vector2.zero && rb != null) 
         {
-            movementScript.enabled = false;
+            isKnockedBack = true;
+            
+            //Disable movement script during knockback
+            if (movementScript != null)
+            {
+                movementScript.enabled = false;
+            }
+            
+            //Apply knockback 
+            rb.linearVelocity = direction.normalized * knockbackForce;
+            
+            //Stop knockback after a certain duration duration
+            StartCoroutine(StopKnockbackAfterDelay());
         }
-        
-        //Apply knockback 
-        rb.linearVelocity = direction.normalized * knockbackForce;
-        
-        //Stop knockback after a certain duration duration
-        StartCoroutine(StopKnockbackAfterDelay());
     }
-    
-}
 
     private IEnumerator StopKnockbackAfterDelay()
     {
@@ -157,7 +160,6 @@ public class HealthManager : MonoBehaviour
 
     private void PlayerDeath()
     {
-        
         if (ScreenShake.Instance != null)
         {
             ScreenShake.Instance.BigShake();
@@ -173,18 +175,32 @@ public class HealthManager : MonoBehaviour
            gameOverManager.ShowGameOver();
         }
     }
-   private IEnumerator InvincibilityCoroutine()
-{
-    isInvulnerable = true;
 
-    FlashOnHit flash = GetComponent<FlashOnHit>();
-    if (flash != null)
-        StartCoroutine(flash.StartInvincibilityFlash(invincibilityTime));
+    private IEnumerator InvincibilityCoroutine()
+    {
+        isInvulnerable = true;
 
-    yield return new WaitForSeconds(invincibilityTime);
+        FlashOnHit flash = GetComponent<FlashOnHit>();
+        if (flash != null)
+            StartCoroutine(flash.StartInvincibilityFlash(invincibilityTime));
 
-    isInvulnerable = false;
-}
+        yield return new WaitForSeconds(invincibilityTime);
 
+        isInvulnerable = false;
+    }
 
+    // Debug function to add health with F key
+    private void AddDebugHealth()
+    {
+        if (currentHealth < maxHealth)
+        {
+            currentHealth++;
+            UpdateHearts();
+            Debug.Log($"Debug: Added health. Current health: {currentHealth}/{maxHealth}");
+        }
+        else
+        {
+            Debug.Log($"Debug: Health already full ({currentHealth}/{maxHealth})");
+        }
+    }
 }
